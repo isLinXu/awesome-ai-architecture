@@ -1,0 +1,137 @@
+# awesome-ai-architecture 分类法
+# 每条赛道：arXiv 检索式 + 三档关键词打分（标题命中权重更高）
+# 分数阈值：>= threshold 才收录进赛道文档
+
+categories:
+  - id: attention-variants
+    name: "Attention Variants"
+    emoji: "🧭"
+    doc: "docs/attention-variants.md"
+    arxiv_queries:
+      - 'abs:"multi-query attention" OR abs:"grouped-query attention" OR abs:"multi-head latent attention"'
+    keywords:
+      strong: ["multi-query attention", "grouped-query attention", "multi-head latent attention", "MLA"]
+      medium: ["attention head", "key-value cache", "kv cache", "attention variant"]
+      weak: ["transformer architecture", "inference efficiency"]
+    threshold: 6
+
+  - id: efficient-attention
+    name: "Efficient Attention"
+    emoji: "⚡"
+    doc: "docs/efficient-attention.md"
+    arxiv_queries:
+      - 'abs:"sparse attention" OR abs:"linear attention" OR abs:"efficient attention" OR abs:"long context"'
+    keywords:
+      strong: ["sparse attention", "linear attention", "flash attention", "sliding window attention", "native sparse attention"]
+      medium: ["long context", "long-context", "kv cache", "context length", "top-k attention"]
+      weak: ["efficient inference", "memory efficient"]
+    threshold: 6
+
+  - id: position-normalization
+    name: "Position & Normalization"
+    emoji: "🧱"
+    doc: "docs/position-normalization.md"
+    arxiv_queries:
+      - 'abs:"rotary position embedding" OR abs:"positional encoding" OR abs:"layer normalization" OR abs:"RMSNorm"'
+    keywords:
+      strong: ["rotary position embedding", "rope", "positional encoding", "length extrapolation", "rmsnorm"]
+      medium: ["layer normalization", "normalization", "position embedding", "pre-norm", "post-norm"]
+      weak: ["training stability", "residual"]
+    threshold: 6
+
+  - id: ffn-moe
+    name: "FFN & Mixture-of-Experts"
+    emoji: "🔀"
+    doc: "docs/ffn-moe.md"
+    arxiv_queries:
+      - 'abs:"mixture of experts" OR abs:"mixture-of-experts" OR abs:"feed-forward network"'
+    keywords:
+      strong: ["mixture of experts", "mixture-of-experts", "sparse expert", "expert routing", "load balancing"]
+      medium: ["feed-forward", "gated linear unit", "swiglu", "router", "top-k routing"]
+      weak: ["scaling", "sparse model"]
+    threshold: 6
+
+  - id: beyond-transformer
+    name: "Beyond Transformer"
+    emoji: "🌊"
+    doc: "docs/beyond-transformer.md"
+    arxiv_queries:
+      - 'abs:"state space model" OR abs:"mamba" OR abs:"linear attention" OR abs:"hybrid architecture"'
+    keywords:
+      strong: ["state space model", "mamba", "rwkv", "retentive network", "gated delta", "hybrid architecture"]
+      medium: ["linear attention", "selective state space", "sequence modeling", "recurrent"]
+      weak: ["sub-quadratic", "linear-time"]
+    threshold: 6
+
+  - id: interpretability
+    name: "Interpretability"
+    emoji: "🔬"
+    doc: "docs/interpretability.md"
+    arxiv_queries:
+      - 'abs:"interpretability" AND abs:"transformer"'
+    keywords:
+      strong: ["induction head", "mechanistic interpretability", "transformer circuit", "attention head analysis"]
+      medium: ["interpretability", "probe", "probing", "feature attribution"]
+      weak: ["analysis", "attention pattern"]
+    threshold: 6
+
+  - id: implementations
+    name: "Implementations"
+    emoji: "🛠️"
+    doc: "docs/implementations.md"
+    arxiv_queries:
+      - 'abs:"efficient kernel" AND abs:"attention"'
+    keywords:
+      strong: ["flash attention", "kernel", "cuda kernel", "triton", "io-aware"]
+      medium: ["efficient implementation", "operator", "fused"]
+      weak: ["implementation", "benchmark"]
+    threshold: 6
+
+  - id: landmark-models
+    name: "Landmark Models"
+    emoji: "🏛️"
+    doc: "docs/landmark-models.md"
+    arxiv_queries:
+      - 'abs:"technical report" AND (abs:"large language model" OR abs:"foundation model")'
+      - 'abs:"scaling law" OR abs:"scaling laws"'
+    keywords:
+      strong: ["technical report", "scaling law", "foundation model"]
+      medium: ["large language model", "pretraining", "open weights", "frontier model"]
+      weak: ["benchmark", "emergent"]
+    threshold: 7
+
+  - id: tokenization
+    name: "Tokenization & Input"
+    emoji: "🧩"
+    doc: "docs/tokenization.md"
+    arxiv_queries:
+      - 'abs:"tokenization" OR abs:"tokenizer" OR abs:"byte-level" OR abs:"token-free"'
+    keywords:
+      strong: ["tokenizer", "tokenization", "token-free", "byte-level", "byte latent", "subword"]
+      medium: ["bpe", "vocabulary", "character-level", "patch"]
+      weak: ["embedding", "input representation"]
+    threshold: 6
+
+  - id: optimizers
+    name: "Optimizers & Training"
+    emoji: "🏋️"
+    doc: "docs/optimizers.md"
+    arxiv_queries:
+      - 'abs:"optimizer" OR abs:"optimization algorithm" OR abs:"learning rate"'
+    keywords:
+      strong: ["optimizer", "muon", "shampoo", "second-order", "preconditioner"]
+      medium: ["learning rate", "weight decay", "momentum", "hyperparameter transfer", "training stability"]
+      weak: ["gradient", "convergence"]
+    threshold: 6
+
+  - id: compression
+    name: "Compression & Deployment"
+    emoji: "🗜️"
+    doc: "docs/compression.md"
+    arxiv_queries:
+      - 'abs:"quantization" OR abs:"knowledge distillation" OR abs:"pruning"'
+    keywords:
+      strong: ["quantization", "4-bit", "8-bit", "int8", "int4", "knowledge distillation", "pruning"]
+      medium: ["post-training quantization", "ptq", "qat", "distill", "sparse", "low-rank adaptation", "lora"]
+      weak: ["compression", "deployment", "edge"]
+    threshold: 6
