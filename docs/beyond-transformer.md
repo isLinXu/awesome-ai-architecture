@@ -37,6 +37,8 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-06 | [MIRA: Mitigating Pole Geometry Bias in Recurrent Language Models](https://arxiv.org/abs/2611.09412v1) | 2611.09412v1 | 12 |
+| 2026-11-06 | [RegNC-Mamba3: Shared Structural Feature Learning Using Non-Causal State Space Principles for Multi-Modal Image Registration](https://arxiv.org/abs/2611.09336v1) | 2611.09336v1 | 10 |
 | 2026-11-05 | [First-Token Attraction in Mamba Dynamics](https://arxiv.org/abs/2611.08303v1) | 2611.08303v1 | 6 |
 | 2026-11-05 | [Identifying Neural Dynamics Using Nonlinear Interventional State Space Models](https://arxiv.org/abs/2611.08113v1) | 2611.08113v1 | 6 |
 | 2026-11-05 | [OcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification](https://arxiv.org/abs/2611.07865v1) | 2611.07865v1 | 6 |

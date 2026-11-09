@@ -25,10 +25,12 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-06 | [PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals](https://arxiv.org/abs/2611.08969v1) | 2611.08969v1 | 7 |
 | 2026-11-05 | [Towards Practical 20 kbps Generative Video Compression via Adaptive Tokenization and Entropy Modeling](https://arxiv.org/abs/2611.08099v1) | 2611.08099v1 | 10 |
 | 2026-11-05 | [OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation](https://arxiv.org/abs/2611.07523v1) | 2611.07523v1 | 10 |
 | 2026-11-05 | [FFMT: Frequency-Factorized Multi-Rate Tokenization for Music-to-Dance Generation](https://arxiv.org/abs/2611.07384v1) | 2611.07384v1 | 6 |
 | 2026-11-05 | [GreedTok is a Constant-Factor Approximation for Partition-Cover Tokenization](https://arxiv.org/abs/2611.07346v1) | 2611.07346v1 | 12 |
+| 2026-11-05 | [Scale as a Modality: Multi-Scale Pixel-Space Diffusion Transformers](https://arxiv.org/abs/2611.08802v1) | 2611.08802v1 | 6 |
 | 2026-11-04 | [AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment](https://arxiv.org/abs/2611.06170v1) | 2611.06170v1 | 12 |
 | 2026-11-03 | [Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers](https://arxiv.org/abs/2611.05742v1) | 2611.05742v1 | 7 |
 | 2026-11-03 | [SPADE: Spatiotemporal Preference Alignment and Diversity Enhancement for Local Search](https://arxiv.org/abs/2611.04662v1) | 2611.04662v1 | 12 |
@@ -38,6 +40,7 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 | 2026-11-02 | [A Common Language for Dynamic Graphs: Interaction Tokenization Enables Foundation Models](https://arxiv.org/abs/2611.03246v1) | 2611.03246v1 | 10 |
 | 2026-11-02 | [Utility-Aware Generative Recommendation: Utility-Enriched Semantic Codes and Utility-Guided Decoding](https://arxiv.org/abs/2611.02981v1) | 2611.02981v1 | 7 |
 | 2026-11-02 | [PixelBench: Can LLMs Understand and Generate Images Pixel by Pixel?](https://arxiv.org/abs/2611.02540v1) | 2611.02540v1 | 6 |
+| 2026-11-02 | [PixelBench: Can LLMs Understand and Generate Images Pixel by Pixel?](https://arxiv.org/abs/2611.02540v2) | 2611.02540v2 | 6 |
 | 2026-10-31 | [A Token Is Not a Unit of Difficulty: Segmentation Controls Where Adaptive Computation Goes Inside a Word](https://arxiv.org/abs/2611.00983v1) | 2611.00983v1 | 6 |
 | 2026-10-30 | [Evaluating SAM-based and Convolutional Architectures in Thin Retinal Vessel Segmentation: Model Capacity, Computational Cost and Foundation Pre-training](https://arxiv.org/abs/2611.00396v1) | 2611.00396v1 | 6 |
 | 2026-10-30 | [MoETok: Sparse Expert Routing for 1D Visual Tokenizers](https://arxiv.org/abs/2610.41992v1) | 2610.41992v1 | 6 |

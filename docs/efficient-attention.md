@@ -43,6 +43,8 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-06 | [Attend at the Right Resolution: Head-Adaptive Sparse Attention via Query-Key Interaction Structure](https://arxiv.org/abs/2611.09700v1) | 2611.09700v1 | 8 |
+| 2026-11-06 | [Transformer-FSQ: Discrete Latents for Extreme KV-Cache Compression](https://arxiv.org/abs/2611.09598v1) | 2611.09598v1 | 6 |
 | 2026-11-05 | [Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout](https://arxiv.org/abs/2611.08376v1) | 2611.08376v1 | 6 |
 | 2026-11-05 | [SPARE: Fast Linear Attention Decoding with Compact Recurrent States](https://arxiv.org/abs/2611.07552v1) | 2611.07552v1 | 6 |
 | 2026-11-05 | [FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving](https://arxiv.org/abs/2611.07542v1) | 2611.07542v1 | 6 |

@@ -29,11 +29,15 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-06 | [Second-order optimality conditions for $C^{1,1}$ sparsity constrained optimization problems via disjunctive programming](https://arxiv.org/abs/2611.09146v1) | 2611.09146v1 | 6 |
+| 2026-11-06 | [ResQAdam: Residual-Preserving Adaptive Optimization for Memory-Efficient Quantization Aware Training](https://arxiv.org/abs/2611.08924v1) | 2611.08924v1 | 6 |
+| 2026-11-06 | [Learning to Restart: Differentiable Restart Policies for Optimization Dynamics](https://arxiv.org/abs/2611.08883v1) | 2611.08883v1 | 7 |
 | 2026-11-05 | [Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning](https://arxiv.org/abs/2611.08414v1) | 2611.08414v1 | 7 |
 | 2026-11-05 | [Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379v1) | 2611.08379v1 | 8 |
 | 2026-11-05 | [Second-order geometric consistency of nonlinear FE-HMM on surfaces via corrector non-degeneracy](https://arxiv.org/abs/2611.07761v1) | 2611.07761v1 | 8 |
 | 2026-11-04 | [DMuon: Scaling Matrix Optimizers in Data Parallelism with Topology-Aware Matrix Ownership and Communication](https://arxiv.org/abs/2611.07084v1) | 2611.07084v1 | 13 |
 | 2026-11-04 | [Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes](https://arxiv.org/abs/2611.06879v1) | 2611.06879v1 | 6 |
+| 2026-11-04 | [DMuon-2: Scaling Matrix Optimizers in Data Parallelism with Topology-Aware Matrix Ownership and Communication](https://arxiv.org/abs/2611.07084v2) | 2611.07084v2 | 13 |
 | 2026-11-03 | [Mixed-Integer Second-Order Cone Formulations for the Euclidean Bottleneck Steiner Tree Problem in $\mathbb{R}^d$](https://arxiv.org/abs/2611.05733v1) | 2611.05733v1 | 6 |
 | 2026-11-03 | [ZEMA: confidence-calibrated signed descent with only one state](https://arxiv.org/abs/2611.04987v1) | 2611.04987v1 | 11 |
 | 2026-11-03 | [Theoretical Analysis of Muon on Transformers for Next-Token Prediction](https://arxiv.org/abs/2611.04465v1) | 2611.04465v1 | 7 |
@@ -57,6 +61,7 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 | 2026-10-30 | [Model Checking for Metric Extensions of Monadic Second-Order Logic](https://arxiv.org/abs/2610.41974v1) | 2610.41974v1 | 6 |
 | 2026-10-30 | [Critical Optimizers for the Finite-Rank Fractional Lieb--Thirring Inequality](https://arxiv.org/abs/2610.41148v1) | 2610.41148v1 | 6 |
 | 2026-10-30 | [MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation](https://arxiv.org/abs/2610.41104v1) | 2610.41104v1 | 10 |
+| 2026-10-30 | [A Spectral Renormalization-Group View of Learning](https://arxiv.org/abs/2611.00422v2) | 2611.00422v2 | 8 |
 | 2026-10-29 | [Stochastic and Noisy Oracles in Smooth Continuous Optimization](https://arxiv.org/abs/2610.41086v1) | 2610.41086v1 | 6 |
 | 2026-10-29 | [bf16 Rounding Silently Discards Most RL Policy Updates: A Hidden Training-Inference Mismatch and an Unbiased One-Line Fix](https://arxiv.org/abs/2610.41073v1) | 2610.41073v1 | 10 |
 | 2026-10-29 | [Search for long-lived heavy neutral leptons in signatures with one prompt muon and a secondary vertex formed by two non-prompt muons in proton-proton collisions at $\sqrt{s}$ = 13 and 13.6 TeV](https://arxiv.org/abs/2610.40911v1) | 2610.40911v1 | 6 |

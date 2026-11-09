@@ -28,6 +28,13 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-06 | [BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](https://arxiv.org/abs/2611.09825v1) | 2611.09825v1 | 8 |
+| 2026-11-06 | [FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding](https://arxiv.org/abs/2611.09722v1) | 2611.09722v1 | 14 |
+| 2026-11-06 | [CucumberVision at the Edge: Accuracy, Throughput, and Energy of RGB-D Cucumber Sizing on Jetson Orin Nano and Raspberry Pi 4](https://arxiv.org/abs/2611.09490v1) | 2611.09490v1 | 9 |
+| 2026-11-06 | [MINE: Entropy-coded Memory-efficient Inference for Large Language Models](https://arxiv.org/abs/2611.09424v1) | 2611.09424v1 | 6 |
+| 2026-11-06 | [HiMEM: Hippocampus-Inspired Memory Consolidation, Pruning, and Composition for Vision-Language-Action Models in 3D Scenes](https://arxiv.org/abs/2611.09355v1) | 2611.09355v1 | 6 |
+| 2026-11-06 | [Knowledge Distillation from Neural Networks to Differentiable Logic Networks](https://arxiv.org/abs/2611.09024v1) | 2611.09024v1 | 10 |
+| 2026-11-06 | [ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2611.08827v1) | 2611.08827v1 | 6 |
 | 2026-11-05 | [Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems](https://arxiv.org/abs/2611.08461v1) | 2611.08461v1 | 12 |
 | 2026-11-05 | [StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference](https://arxiv.org/abs/2611.08363v1) | 2611.08363v1 | 12 |
 | 2026-11-05 | [Enhancing Local and Global Structure in Compressed AI Agent Memory](https://arxiv.org/abs/2611.08341v1) | 2611.08341v1 | 10 |
@@ -41,6 +48,13 @@
 | 2026-11-05 | [Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion](https://arxiv.org/abs/2611.07551v1) | 2611.07551v1 | 8 |
 | 2026-11-05 | [BRIDGE: Bridging the Semantic Quantization Gap for Generative Recommendation](https://arxiv.org/abs/2611.07425v1) | 2611.07425v1 | 9 |
 | 2026-11-05 | [TriAttention: Unified Sparse Mixed-Precision Attention for Long-Context LLM Inference](https://arxiv.org/abs/2611.07256v1) | 2611.07256v1 | 15 |
+| 2026-11-05 | [MEDALLION: Manifold Embedding Distillation and Attributions for Low-dimensional Latent InterpretatiON](https://arxiv.org/abs/2611.08767v1) | 2611.08767v1 | 8 |
+| 2026-11-05 | [Pruning free resolutions over a complete intersection](https://arxiv.org/abs/2611.08764v1) | 2611.08764v1 | 6 |
+| 2026-11-05 | [ResServe: Accurate and Efficient FP4 LLM Inference with Residue Compensation](https://arxiv.org/abs/2611.08713v1) | 2611.08713v1 | 8 |
+| 2026-11-05 | [Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB](https://arxiv.org/abs/2611.08665v1) | 2611.08665v1 | 6 |
+| 2026-11-05 | [How Small Can We Go? Calibrating Activation-Cache Compression for SAE Training](https://arxiv.org/abs/2611.08551v1) | 2611.08551v1 | 11 |
+| 2026-11-05 | [Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion](https://arxiv.org/abs/2611.07551v2) | 2611.07551v2 | 8 |
+| 2026-11-05 | [RapidMitDet: Boosting Computational Efficiency for Mitosis Detection via Magnification Alignment](https://arxiv.org/abs/2611.08542v1) | 2611.08542v1 | 7 |
 | 2026-11-04 | [TileQuant: Tile as the Precision-Allocation Unit for LLM Mixed-Precision Post-Training Quantization](https://arxiv.org/abs/2611.07217v1) | 2611.07217v1 | 16 |
 | 2026-11-04 | [Capability Gain from ISA to Shared Execution on AMD MI300A and MI250X](https://arxiv.org/abs/2611.07198v1) | 2611.07198v1 | 6 |
 | 2026-11-04 | [VINO: Revisiting 3D Representation Learning with Volume Transformers](https://arxiv.org/abs/2611.07176v1) | 2611.07176v1 | 7 |
@@ -94,6 +108,7 @@
 | 2026-11-02 | [Parallelism-Aligned Pruning and Round-Aware Context Reuse for On-Device Multimodal Agents](https://arxiv.org/abs/2611.02601v1) | 2611.02601v1 | 8 |
 | 2026-11-02 | [Multi-Teacher Reasoning Distillation for LLM Recommendation with Self-Exploration](https://arxiv.org/abs/2611.02457v1) | 2611.02457v1 | 11 |
 | 2026-11-02 | [Beyond Accuracy: How Quantization Affects Coding Agents](https://arxiv.org/abs/2611.02368v1) | 2611.02368v1 | 12 |
+| 2026-11-02 | [RAPID: Increasing Efficiency of Internal Distillation via Randomized Methods](https://arxiv.org/abs/2611.04081v2) | 2611.04081v2 | 8 |
 | 2026-11-01 | [SVD-Prune: Spectral Vision Token Pruning under Extreme Compression](https://arxiv.org/abs/2611.02284v1) | 2611.02284v1 | 7 |
 | 2026-11-01 | [Same Function, Different Gradients: Evaluating Gradient Reliability under Reparameterization](https://arxiv.org/abs/2611.02052v1) | 2611.02052v1 | 6 |
 | 2026-11-01 | [Scalar Smoothness Is One Point on a Besov Spectrum](https://arxiv.org/abs/2611.02037v1) | 2611.02037v1 | 9 |
@@ -187,6 +202,7 @@
 | 2026-10-27 | [Soft Temporal Alignment Distillation for Camera-to-mmWave Radar Human Activity Recognition](https://arxiv.org/abs/2610.36637v1) | 2610.36637v1 | 10 |
 | 2026-10-27 | [Measuring Users' Security and Privacy Concerns About Third-Party Community Bots on Discord](https://arxiv.org/abs/2610.36626v1) | 2610.36626v1 | 7 |
 | 2026-10-27 | [From Solver Trajectories to Teaching Trajectories: Cognition-Aligned Reasoning Distillation](https://arxiv.org/abs/2610.36445v1) | 2610.36445v1 | 8 |
+| 2026-10-27 | [Dynamic Merging Mutually-Distilled Multi-View Networks for RGB-Event-based Representation Learning](https://arxiv.org/abs/2611.00107v2) | 2611.00107v2 | 8 |
 | 2026-10-26 | [CrowdCC: Jointly Benchmarking Corruption Robustness and Deployment Quantization in Crowd Counting](https://arxiv.org/abs/2610.36340v2) | 2610.36340v2 | 12 |
 | 2026-10-26 | [Training-Free Inference Acceleration for Video Large Language Models: Methods, Trade-offs, and Evaluation](https://arxiv.org/abs/2610.36327v1) | 2610.36327v1 | 8 |
 | 2026-10-26 | [Preserving rare-item recall under a storage budget: quantization, distillation, and the limits of teacher fidelity](https://arxiv.org/abs/2610.36267v1) | 2610.36267v1 | 18 |
@@ -208,6 +224,7 @@
 | 2026-10-26 | [SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference](https://arxiv.org/abs/2610.34824v2) | 2610.34824v2 | 12 |
 | 2026-10-26 | [RSKD: Grounding Semantic Consistency in Driving VLMs via Distillation](https://arxiv.org/abs/2610.34689v1) | 2610.34689v1 | 8 |
 | 2026-10-26 | [From Representations to Computational Trajectories: Intrinsic Fingerprinting for Large Language Model Provenance Verification](https://arxiv.org/abs/2610.34675v1) | 2610.34675v1 | 8 |
+| 2026-10-26 | [RedMall: Generative Recommendation for Large-Scale E-commerce](https://arxiv.org/abs/2611.08519v1) | 2611.08519v1 | 6 |
 | 2026-10-25 | [Recursive CLIP: Vision-Language Distillation with Looped Transformer Blocks](https://arxiv.org/abs/2610.34563v1) | 2610.34563v1 | 8 |
 | 2026-10-25 | [TRIAGE: Efficient Vision-Language-Action Inference Needs Both Reuse and Pruning](https://arxiv.org/abs/2610.34519v1) | 2610.34519v1 | 6 |
 | 2026-10-25 | [Improving the Chain-of-Thought Compressibility of Pruned Reasoning Models via Long--Short Contrastive Pruning](https://arxiv.org/abs/2610.34336v1) | 2610.34336v1 | 9 |

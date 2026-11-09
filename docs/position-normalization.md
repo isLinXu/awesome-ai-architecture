@@ -33,6 +33,7 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-06 | [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](https://arxiv.org/abs/2611.09554v1) | 2611.09554v1 | 12 |
 | 2026-11-05 | [How Deep is the Signal? Time-Context up to 30 Years for Colorectal Cancer Prediction in a Primary-Care EHR Model](https://arxiv.org/abs/2611.07265v1) | 2611.07265v1 | 0 |
 | 2026-11-04 | [RDT-3D: Resolution-Decoupled Training for High-Fidelity 3D Geometry Generation](https://arxiv.org/abs/2611.06141v1) | 2611.06141v1 | 0 |
 | 2026-11-04 | [Ray-Tracing-Based Dynamic Channel Sounding With Autoregressive Wi-Fi CSI Prediction](https://arxiv.org/abs/2611.05970v1) | 2611.05970v1 | 0 |

@@ -47,6 +47,7 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-06 | [TailDART: Compute-Efficient Foundation Models for Financial Time-Series Forecasting](https://arxiv.org/abs/2611.09176v1) | 2611.09176v1 | 6 |
 | 2026-10-29 | [Where Position Matters: Profiling-Guided Layer-Wise RoPE Allocation in Transformers](https://arxiv.org/abs/2610.39223v1) | 2610.39223v1 | 0 |
 | 2026-10-24 | [RAQ-MLA: Role-Aware Quantization for Multi-Head Latent Attention Caches](https://arxiv.org/abs/2610.33625v1) | 2610.33625v1 | 12 |
 | 2026-10-15 | [When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill](https://arxiv.org/abs/2610.21500v1) | 2610.21500v1 | 3 |

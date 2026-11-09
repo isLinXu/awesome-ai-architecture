@@ -122515,6 +122515,210 @@
       "category": "compression",
       "published": "2026-06-19",
       "score": 9
+    },
+    "2611.09176v1": {
+      "title": "TailDART: Compute-Efficient Foundation Models for Financial Time-Series Forecasting",
+      "category": "attention-variants",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.09700v1": {
+      "title": "Attend at the Right Resolution: Head-Adaptive Sparse Attention via Query-Key Interaction Structure",
+      "category": "efficient-attention",
+      "published": "2026-11-06",
+      "score": 8
+    },
+    "2611.09598v1": {
+      "title": "Transformer-FSQ: Discrete Latents for Extreme KV-Cache Compression",
+      "category": "efficient-attention",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.09554v1": {
+      "title": "Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs",
+      "category": "position-normalization",
+      "published": "2026-11-06",
+      "score": 12
+    },
+    "2611.09252v1": {
+      "title": "Rethinking MoE Load Balancing as Feedback Control",
+      "category": "ffn-moe",
+      "published": "2026-11-06",
+      "score": 16
+    },
+    "2611.09008v1": {
+      "title": "ISER-MoE: Dynamic In-Switch Replication of Hot Experts for Load Balancing in Expert-Parallel",
+      "category": "ffn-moe",
+      "published": "2026-11-06",
+      "score": 10
+    },
+    "2611.08741v1": {
+      "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
+      "category": "ffn-moe",
+      "published": "2026-11-05",
+      "score": 6
+    },
+    "2611.09412v1": {
+      "title": "MIRA: Mitigating Pole Geometry Bias in Recurrent Language Models",
+      "category": "beyond-transformer",
+      "published": "2026-11-06",
+      "score": 12
+    },
+    "2611.09336v1": {
+      "title": "RegNC-Mamba3: Shared Structural Feature Learning Using Non-Causal State Space Principles for Multi-Modal Image Registration",
+      "category": "beyond-transformer",
+      "published": "2026-11-06",
+      "score": 10
+    },
+    "2611.08969v1": {
+      "title": "PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals",
+      "category": "tokenization",
+      "published": "2026-11-06",
+      "score": 7
+    },
+    "2611.08802v1": {
+      "title": "Scale as a Modality: Multi-Scale Pixel-Space Diffusion Transformers",
+      "category": "tokenization",
+      "published": "2026-11-05",
+      "score": 6
+    },
+    "2611.02540v2": {
+      "title": "PixelBench: Can LLMs Understand and Generate Images Pixel by Pixel?",
+      "category": "tokenization",
+      "published": "2026-11-02",
+      "score": 6
+    },
+    "2611.09146v1": {
+      "title": "Second-order optimality conditions for $C^{1,1}$ sparsity constrained optimization problems via disjunctive programming",
+      "category": "optimizers",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.08924v1": {
+      "title": "ResQAdam: Residual-Preserving Adaptive Optimization for Memory-Efficient Quantization Aware Training",
+      "category": "optimizers",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.08883v1": {
+      "title": "Learning to Restart: Differentiable Restart Policies for Optimization Dynamics",
+      "category": "optimizers",
+      "published": "2026-11-06",
+      "score": 7
+    },
+    "2611.07084v2": {
+      "title": "DMuon-2: Scaling Matrix Optimizers in Data Parallelism with Topology-Aware Matrix Ownership and Communication",
+      "category": "optimizers",
+      "published": "2026-11-04",
+      "score": 13
+    },
+    "2611.00422v2": {
+      "title": "A Spectral Renormalization-Group View of Learning",
+      "category": "optimizers",
+      "published": "2026-10-30",
+      "score": 8
+    },
+    "2611.09825v1": {
+      "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 8
+    },
+    "2611.09722v1": {
+      "title": "FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 14
+    },
+    "2611.09490v1": {
+      "title": "CucumberVision at the Edge: Accuracy, Throughput, and Energy of RGB-D Cucumber Sizing on Jetson Orin Nano and Raspberry Pi 4",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 9
+    },
+    "2611.09424v1": {
+      "title": "MINE: Entropy-coded Memory-efficient Inference for Large Language Models",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.09355v1": {
+      "title": "HiMEM: Hippocampus-Inspired Memory Consolidation, Pruning, and Composition for Vision-Language-Action Models in 3D Scenes",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.09024v1": {
+      "title": "Knowledge Distillation from Neural Networks to Differentiable Logic Networks",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 10
+    },
+    "2611.08827v1": {
+      "title": "ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.08767v1": {
+      "title": "MEDALLION: Manifold Embedding Distillation and Attributions for Low-dimensional Latent InterpretatiON",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 8
+    },
+    "2611.08764v1": {
+      "title": "Pruning free resolutions over a complete intersection",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 6
+    },
+    "2611.08713v1": {
+      "title": "ResServe: Accurate and Efficient FP4 LLM Inference with Residue Compensation",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 8
+    },
+    "2611.08665v1": {
+      "title": "Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 6
+    },
+    "2611.08551v1": {
+      "title": "How Small Can We Go? Calibrating Activation-Cache Compression for SAE Training",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 11
+    },
+    "2611.07551v2": {
+      "title": "Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 8
+    },
+    "2611.08542v1": {
+      "title": "RapidMitDet: Boosting Computational Efficiency for Mitosis Detection via Magnification Alignment",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 7
+    },
+    "2611.04081v2": {
+      "title": "RAPID: Increasing Efficiency of Internal Distillation via Randomized Methods",
+      "category": "compression",
+      "published": "2026-11-02",
+      "score": 8
+    },
+    "2611.00107v2": {
+      "title": "Dynamic Merging Mutually-Distilled Multi-View Networks for RGB-Event-based Representation Learning",
+      "category": "compression",
+      "published": "2026-10-27",
+      "score": 8
+    },
+    "2611.08519v1": {
+      "title": "RedMall: Generative Recommendation for Large-Scale E-commerce",
+      "category": "compression",
+      "published": "2026-10-26",
+      "score": 6
     }
   }
 }

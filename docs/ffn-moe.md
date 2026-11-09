@@ -30,10 +30,13 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-06 | [Rethinking MoE Load Balancing as Feedback Control](https://arxiv.org/abs/2611.09252v1) | 2611.09252v1 | 16 |
+| 2026-11-06 | [ISER-MoE: Dynamic In-Switch Replication of Hot Experts for Load Balancing in Expert-Parallel](https://arxiv.org/abs/2611.09008v1) | 2611.09008v1 | 10 |
 | 2026-11-05 | [Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling](https://arxiv.org/abs/2611.08185v1) | 2611.08185v1 | 6 |
 | 2026-11-05 | [SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization](https://arxiv.org/abs/2611.08089v1) | 2611.08089v1 | 0 |
 | 2026-11-05 | [English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models](https://arxiv.org/abs/2611.07654v1) | 2611.07654v1 | 6 |
 | 2026-11-05 | [LMGN: A Unified Policy Learning Model for Last-Mile Grasp-Navigation](https://arxiv.org/abs/2611.07515v1) | 2611.07515v1 | 0 |
+| 2026-11-05 | [AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference](https://arxiv.org/abs/2611.08741v1) | 2611.08741v1 | 6 |
 | 2026-11-04 | [Server-Side Sparse Assignment for Federated Mixture-of-Experts](https://arxiv.org/abs/2611.07093v1) | 2611.07093v1 | 6 |
 | 2026-11-04 | [Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2](https://arxiv.org/abs/2611.06827v1) | 2611.06827v1 | 0 |
 | 2026-11-04 | [vExpert: Virtualizing Expert Storage for Adaptive Load Balancing in Distributed MoE Inference](https://arxiv.org/abs/2611.06057v1) | 2611.06057v1 | 6 |
