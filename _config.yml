@@ -1,0 +1,18 @@
+theme: jekyll-theme-cayman
+title: Awesome AI Architecture
+description: Attention · Transformers · 底层模块与架构的 awesome-list
+show_downloads: true
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+exclude:
+  - scripts/
+  - config/
+  - data/
+  - requirements.txt
+  - CONTRIBUTING.md
