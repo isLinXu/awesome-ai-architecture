@@ -122719,6 +122719,546 @@
       "category": "compression",
       "published": "2026-10-26",
       "score": 6
+    },
+    "2611.12062v1": {
+      "title": "Translating KV Caches Between Hybrid-Attention Language Models: MLA Latents, Linear-Attention States and Sparse-Attention Indexers",
+      "category": "attention-variants",
+      "published": "2026-11-09",
+      "score": 13
+    },
+    "2611.12186v1": {
+      "title": "NearFormer: Linear-Size Sparse Attention via Randomized Near Neighbors",
+      "category": "efficient-attention",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.11319v1": {
+      "title": "Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference",
+      "category": "efficient-attention",
+      "published": "2026-11-08",
+      "score": 7
+    },
+    "2611.10634v1": {
+      "title": "Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding",
+      "category": "efficient-attention",
+      "published": "2026-11-07",
+      "score": 11
+    },
+    "2611.12206v1": {
+      "title": "A Geometric Invariant of Attention Predicts Head Specialization from Weights Alone",
+      "category": "position-normalization",
+      "published": "2026-11-09",
+      "score": 8
+    },
+    "2611.01472v2": {
+      "title": "Causal Optimal-Transport Attention: Positional Priors and Length Extrapolation",
+      "category": "position-normalization",
+      "published": "2026-11-01",
+      "score": 10
+    },
+    "2611.12240v1": {
+      "title": "Prune, Don't Merge: Expert Compression of Mixture-of-Experts LLMs on Multilingual Production Tasks",
+      "category": "ffn-moe",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.11856v1": {
+      "title": "DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving",
+      "category": "ffn-moe",
+      "published": "2026-11-09",
+      "score": 8
+    },
+    "2611.11717v1": {
+      "title": "Autonomous Continual Learning and Knowledge Transfer via Cortex-Inspired Neural Assemblies",
+      "category": "ffn-moe",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.11696v1": {
+      "title": "Direct GPU Energy Measurements of Batch-Level Sharing in Mixture-of-Experts and Recurrent Models",
+      "category": "ffn-moe",
+      "published": "2026-11-08",
+      "score": 6
+    },
+    "2611.10960v1": {
+      "title": "Anatomy-Activated Mixture-of-Experts for 3D Medical Vision-Language Pre-training",
+      "category": "ffn-moe",
+      "published": "2026-11-07",
+      "score": 12
+    },
+    "2611.10825v1": {
+      "title": "MoE-DAgger: Transition-Aware Router-Entropy Gating for Selective Human Correction in Phase-Structured Manipulation",
+      "category": "ffn-moe",
+      "published": "2026-11-07",
+      "score": 7
+    },
+    "2611.10263v1": {
+      "title": "DAC-MACE: Context-Conditioned Expert Routing for Compact Scene Coordinate Regression in Camera Relocalization",
+      "category": "ffn-moe",
+      "published": "2026-11-06",
+      "score": 12
+    },
+    "2611.07654v2": {
+      "title": "English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models",
+      "category": "ffn-moe",
+      "published": "2026-11-05",
+      "score": 6
+    },
+    "2611.03043v2": {
+      "title": "VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts",
+      "category": "ffn-moe",
+      "published": "2026-11-02",
+      "score": 11
+    },
+    "2611.12127v1": {
+      "title": "Lost in Rounding: bf16 Recurrent State Makes Hybrid Reasoning Models Think Longer",
+      "category": "beyond-transformer",
+      "published": "2026-11-09",
+      "score": 11
+    },
+    "2611.12026v1": {
+      "title": "MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG",
+      "category": "beyond-transformer",
+      "published": "2026-11-09",
+      "score": 15
+    },
+    "2611.11336v1": {
+      "title": "Where Should a Gate Look? Input vs. State Gating in Diagonal State Space Models",
+      "category": "beyond-transformer",
+      "published": "2026-11-08",
+      "score": 8
+    },
+    "2611.10360v1": {
+      "title": "MambaLoc: Lightweight Indoor Localization Using Cross-Modal Knowledge Distillation",
+      "category": "beyond-transformer",
+      "published": "2026-11-07",
+      "score": 13
+    },
+    "2611.10353v1": {
+      "title": "DAPointRWKV: Domain Adaptive Vision RWKV for Point Cloud Completion",
+      "category": "beyond-transformer",
+      "published": "2026-11-07",
+      "score": 14
+    },
+    "2611.10316v1": {
+      "title": "The World Model Planning Accelerator (WMPA): Hardware-Algorithm Co-Design for Embedded AI in Robotics",
+      "category": "beyond-transformer",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.10237v1": {
+      "title": "Implicit Bias in State Space Models and Linear Autoregressive Training",
+      "category": "beyond-transformer",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.10032v1": {
+      "title": "GMD-Mamba: Lightweight 3D Medical Image Segmentation Using a Grouped Multi-Directional Mamba",
+      "category": "beyond-transformer",
+      "published": "2026-11-05",
+      "score": 6
+    },
+    "2610.36617v2": {
+      "title": "Balanced State Subspaces with Spectral Rank Allocation for Mamba-2 State Compression",
+      "category": "beyond-transformer",
+      "published": "2026-10-27",
+      "score": 8
+    },
+    "2611.09958v1": {
+      "title": "HippoMamba: A Mamba-augmented network for hippocampal segmentation and serial volumetry in Alzheimers disease",
+      "category": "beyond-transformer",
+      "published": "2026-10-26",
+      "score": 8
+    },
+    "2611.10936v1": {
+      "title": "Can small transformers learn the language of Coxeter groups?",
+      "category": "interpretability",
+      "published": "2026-11-07",
+      "score": 7
+    },
+    "2611.10457v1": {
+      "title": "Represented but Not Used: Value-Policy Dissociation in LLM Agents",
+      "category": "interpretability",
+      "published": "2026-11-07",
+      "score": 6
+    },
+    "2611.08438v2": {
+      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "category": "interpretability",
+      "published": "2026-11-05",
+      "score": 10
+    },
+    "2611.12628v1": {
+      "title": "Adapting Small Language Models to Romanized Nepali: Tokenizer Fertility, Reference Likelihood, and Generation Metrics",
+      "category": "tokenization",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.12464v1": {
+      "title": "Phrase-Level Speculative Decoding on a Frozen Target",
+      "category": "tokenization",
+      "published": "2026-11-09",
+      "score": 8
+    },
+    "2611.12426v1": {
+      "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
+      "category": "tokenization",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.11674v1": {
+      "title": "Brain-Aligned Latent Actions: Imposing Premotor Cortex Geometry on a Robot's Action Vocabulary",
+      "category": "tokenization",
+      "published": "2026-11-08",
+      "score": 7
+    },
+    "2611.11093v1": {
+      "title": "Does Pose Encoding Matter? Analyzing Geometric Representations for Discrete Motion Vocabulary Learning",
+      "category": "tokenization",
+      "published": "2026-11-08",
+      "score": 12
+    },
+    "2611.11081v1": {
+      "title": "A Hierarchical Tokenization Framework for Voxel-Level fMRI Representation Learning",
+      "category": "tokenization",
+      "published": "2026-11-08",
+      "score": 10
+    },
+    "2611.11058v1": {
+      "title": "Differentiable Virtual-Slot Partitioning for Adaptive Tokenization in Vision Transformers",
+      "category": "tokenization",
+      "published": "2026-11-08",
+      "score": 6
+    },
+    "2611.11027v1": {
+      "title": "MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling",
+      "category": "tokenization",
+      "published": "2026-11-08",
+      "score": 18
+    },
+    "2611.10209v1": {
+      "title": "Compact Greek Language Models from Scratch: Pretraining 500M- and 1B-Parameter Decoder-Only Transformers",
+      "category": "tokenization",
+      "published": "2026-11-06",
+      "score": 10
+    },
+    "2611.10160v1": {
+      "title": "Improving the Diffusability of Motion Tokenizer",
+      "category": "tokenization",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.07346v2": {
+      "title": "GreedTok Is a 0.3287-Approximation for Tokenization, Within 3% of the Best Possible Constant",
+      "category": "tokenization",
+      "published": "2026-11-05",
+      "score": 12
+    },
+    "2610.33857v3": {
+      "title": "TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens",
+      "category": "tokenization",
+      "published": "2026-10-24",
+      "score": 12
+    },
+    "2611.05410v2": {
+      "title": "Rethinking One Gene, One Token: Transcriptome-Aware Tokenization for Single-Cell Foundation Models",
+      "category": "tokenization",
+      "published": "2026-10-21",
+      "score": 13
+    },
+    "2611.12317v1": {
+      "title": "Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers",
+      "category": "optimizers",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.11905v1": {
+      "title": "On the Global Convergence of Stochastic Adam for Physics-Informed Neural Networks",
+      "category": "optimizers",
+      "published": "2026-11-09",
+      "score": 12
+    },
+    "2611.11537v1": {
+      "title": "Weight-Space Programming of Variational Quantum Circuits: Large Language Models Write Quantum Circuit Parameters Without an Optimizer",
+      "category": "optimizers",
+      "published": "2026-11-08",
+      "score": 7
+    },
+    "2611.11526v1": {
+      "title": "A Stability Analysis of AdamW: Unstable Equilibria and Non-Convergence",
+      "category": "optimizers",
+      "published": "2026-11-08",
+      "score": 9
+    },
+    "2611.11457v1": {
+      "title": "MOMENT-DP: Momentum Aware Evaluation of Correlated Noise for Differentially Private Training",
+      "category": "optimizers",
+      "published": "2026-11-08",
+      "score": 7
+    },
+    "2611.11277v1": {
+      "title": "Variance-Reduced Stochastic Hessian-Driven Nesterov Acceleration with Adam-Style Preconditioning",
+      "category": "optimizers",
+      "published": "2026-11-08",
+      "score": 6
+    },
+    "2611.11152v1": {
+      "title": "Full Fine-Tuning is not the Problem: Why Adam Fails and SGD Succeeds in Few-Shot CLIP Adaptation",
+      "category": "optimizers",
+      "published": "2026-11-08",
+      "score": 12
+    },
+    "2611.10984v1": {
+      "title": "Network Contention State Aware Dynamic Optimizer for Accelerator Collective Communication Libraries",
+      "category": "optimizers",
+      "published": "2026-11-07",
+      "score": 6
+    },
+    "2611.10730v1": {
+      "title": "Breaking Precision Walls in First-, Second-, and Zeroth-Order Optimizers: One Constant, Set in Advance",
+      "category": "optimizers",
+      "published": "2026-11-07",
+      "score": 13
+    },
+    "2611.10700v1": {
+      "title": "Spectral Bias Reduction in Local Gated ReLU Architectures",
+      "category": "optimizers",
+      "published": "2026-11-07",
+      "score": 7
+    },
+    "2611.10655v1": {
+      "title": "STABLE: A Continual Learning Optimizer with Adaptive Drift Control",
+      "category": "optimizers",
+      "published": "2026-11-07",
+      "score": 6
+    },
+    "2611.10212v1": {
+      "title": "DisMUSE: An Efficient Distributed Singular-Spectrum-Based Optimization Approach with Theoretical Convergence Guarantee",
+      "category": "optimizers",
+      "published": "2026-11-06",
+      "score": 12
+    },
+    "2611.10188v1": {
+      "title": "BiMuon: A Geometry-Aware Stochastic Bilevel Optimization Approach",
+      "category": "optimizers",
+      "published": "2026-11-06",
+      "score": 7
+    },
+    "2611.10105v1": {
+      "title": "Quantum Natural Muon: Spectral-Natural Optimization for Variational Quantum Circuits",
+      "category": "optimizers",
+      "published": "2026-11-06",
+      "score": 7
+    },
+    "2611.12878v1": {
+      "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.12832v1": {
+      "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 8
+    },
+    "2611.12807v1": {
+      "title": "Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 10
+    },
+    "2611.12634v1": {
+      "title": "How Far Does Second-Order Linear Response Predict Quantization Mismatch? Pre-Registered Measurements on Five Language Models",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 15
+    },
+    "2611.12311v1": {
+      "title": "MNN-Pocket-0.3B Technical Report",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 16
+    },
+    "2611.11975v1": {
+      "title": "AutoQS: Automated Quantization Strategy Design with Large Language Models",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 9
+    },
+    "2611.11967v1": {
+      "title": "Pairwise distortion distribution for compression and quantization",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 7
+    },
+    "2611.11777v1": {
+      "title": "Towards Trustworthy Mobile Speech Interaction: Ensuring Voice Authenticity and Transmission Integrity",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 9
+    },
+    "2611.11695v1": {
+      "title": "Language model capabilities fail in a shared, predictable order under compression and perturbation",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 12
+    },
+    "2611.11598v1": {
+      "title": "Perturbing Inputs Improves Pretraining Distillation",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 12
+    },
+    "2611.11562v1": {
+      "title": "UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 6
+    },
+    "2611.11497v1": {
+      "title": "TID System for Speech-COSER Challenge 2026: ASR Track",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 6
+    },
+    "2611.11450v1": {
+      "title": "How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 7
+    },
+    "2611.11399v1": {
+      "title": "RoCoMark: Robust Code Watermarking Against LLM-Based Functionality-Preserving Rewriting Attacks",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 7
+    },
+    "2611.11320v1": {
+      "title": "Beyond Similarity Entropy: A Rank-Guided Data-Free Quantization Framework for Vision Transformers",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 8
+    },
+    "2611.11223v1": {
+      "title": "SGA-Sparse: Training Native SwiGLU Gates for Activation-Sparse and Low-Bit LLMs",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 15
+    },
+    "2611.11218v1": {
+      "title": "Edge Computing for Computer Vision in IoT: Feasibility and Directions",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 7
+    },
+    "2611.11103v1": {
+      "title": "An In-Ear Sleep Modulation SoC Featuring a CNN-LSTM Accelerator with Long-Kernel Memory Reuse and Runtime Dynamic Quantization",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 6
+    },
+    "2611.11079v1": {
+      "title": "When Calibration Data Matter in Sub-4-Bit Language Model Quantization",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 16
+    },
+    "2611.11076v1": {
+      "title": "ADC-RANet: Improving Resolution Adaptive Neural Networks with Attention, Distillation and Calibration",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 8
+    },
+    "2611.11071v1": {
+      "title": "NanoNet: Ultra-Lightweight Network for MRI Brain Tumor Classification toward Edge AI",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 23
+    },
+    "2611.11013v1": {
+      "title": "Slim Foundation Models for Latency-Critical Recommendation Serving",
+      "category": "compression",
+      "published": "2026-11-07",
+      "score": 6
+    },
+    "2611.10991v1": {
+      "title": "Sensitivity-Gated Accumulator Caching for On-Device Learning of Low-Bit Hand Networks",
+      "category": "compression",
+      "published": "2026-11-07",
+      "score": 9
+    },
+    "2611.10826v1": {
+      "title": "Sparse Graph Neural Networks With Spectral Virtual Nodes for MIMO Detection",
+      "category": "compression",
+      "published": "2026-11-07",
+      "score": 7
+    },
+    "2611.10797v1": {
+      "title": "Adapting Large Language Models via Multi-Task Learning for Mental Health Problem, Emotion, and Sentiment Detection",
+      "category": "compression",
+      "published": "2026-11-07",
+      "score": 11
+    },
+    "2611.10672v1": {
+      "title": "Heterogeneous Asymmetric Contrastive Distillation",
+      "category": "compression",
+      "published": "2026-11-07",
+      "score": 8
+    },
+    "2611.10649v1": {
+      "title": "MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations",
+      "category": "compression",
+      "published": "2026-11-07",
+      "score": 10
+    },
+    "2611.10386v1": {
+      "title": "Pruning DNA Sequence",
+      "category": "compression",
+      "published": "2026-11-07",
+      "score": 6
+    },
+    "2611.10165v1": {
+      "title": "AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.10096v1": {
+      "title": "Coordinated Mixed-Precision KV Cache Quantization for Efficient LLM-based Multi-agent Systems",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 11
+    },
+    "2611.09424v2": {
+      "title": "MINE: Entropy-coded Memory-efficient Inference for Large Language Models",
+      "category": "compression",
+      "published": "2026-11-06",
+      "score": 6
+    },
+    "2611.10033v1": {
+      "title": "Ultra-Lightweight 3D Medical Image Segmentation via Knowledge Distillation in Label-Scarce Domains",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 11
+    },
+    "2611.07425v2": {
+      "title": "BRIDGE: Bridging the Semantic Quantization Gap for Generative Recommendation",
+      "category": "compression",
+      "published": "2026-11-05",
+      "score": 9
+    },
+    "2611.06781v2": {
+      "title": "Semantic Residual Vector Quantization for Sign Language Generation",
+      "category": "compression",
+      "published": "2026-11-04",
+      "score": 6
+    },
+    "2611.00403v2": {
+      "title": "MXCode: Vector Quantization for MX-Native Inference at Scale",
+      "category": "compression",
+      "published": "2026-10-30",
+      "score": 11
     }
   }
 }

@@ -43,6 +43,9 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-09 | [NearFormer: Linear-Size Sparse Attention via Randomized Near Neighbors](https://arxiv.org/abs/2611.12186v1) | 2611.12186v1 | 6 |
+| 2026-11-08 | [Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference](https://arxiv.org/abs/2611.11319v1) | 2611.11319v1 | 7 |
+| 2026-11-07 | [Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding](https://arxiv.org/abs/2611.10634v1) | 2611.10634v1 | 11 |
 | 2026-11-06 | [Attend at the Right Resolution: Head-Adaptive Sparse Attention via Query-Key Interaction Structure](https://arxiv.org/abs/2611.09700v1) | 2611.09700v1 | 8 |
 | 2026-11-06 | [Transformer-FSQ: Discrete Latents for Extreme KV-Cache Compression](https://arxiv.org/abs/2611.09598v1) | 2611.09598v1 | 6 |
 | 2026-11-05 | [Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout](https://arxiv.org/abs/2611.08376v1) | 2611.08376v1 | 6 |

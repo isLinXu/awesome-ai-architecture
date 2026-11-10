@@ -37,12 +37,20 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-09 | [Lost in Rounding: bf16 Recurrent State Makes Hybrid Reasoning Models Think Longer](https://arxiv.org/abs/2611.12127v1) | 2611.12127v1 | 11 |
+| 2026-11-09 | [MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG](https://arxiv.org/abs/2611.12026v1) | 2611.12026v1 | 15 |
+| 2026-11-08 | [Where Should a Gate Look? Input vs. State Gating in Diagonal State Space Models](https://arxiv.org/abs/2611.11336v1) | 2611.11336v1 | 8 |
+| 2026-11-07 | [MambaLoc: Lightweight Indoor Localization Using Cross-Modal Knowledge Distillation](https://arxiv.org/abs/2611.10360v1) | 2611.10360v1 | 13 |
+| 2026-11-07 | [DAPointRWKV: Domain Adaptive Vision RWKV for Point Cloud Completion](https://arxiv.org/abs/2611.10353v1) | 2611.10353v1 | 14 |
 | 2026-11-06 | [MIRA: Mitigating Pole Geometry Bias in Recurrent Language Models](https://arxiv.org/abs/2611.09412v1) | 2611.09412v1 | 12 |
 | 2026-11-06 | [RegNC-Mamba3: Shared Structural Feature Learning Using Non-Causal State Space Principles for Multi-Modal Image Registration](https://arxiv.org/abs/2611.09336v1) | 2611.09336v1 | 10 |
+| 2026-11-06 | [The World Model Planning Accelerator (WMPA): Hardware-Algorithm Co-Design for Embedded AI in Robotics](https://arxiv.org/abs/2611.10316v1) | 2611.10316v1 | 6 |
+| 2026-11-06 | [Implicit Bias in State Space Models and Linear Autoregressive Training](https://arxiv.org/abs/2611.10237v1) | 2611.10237v1 | 6 |
 | 2026-11-05 | [First-Token Attraction in Mamba Dynamics](https://arxiv.org/abs/2611.08303v1) | 2611.08303v1 | 6 |
 | 2026-11-05 | [Identifying Neural Dynamics Using Nonlinear Interventional State Space Models](https://arxiv.org/abs/2611.08113v1) | 2611.08113v1 | 6 |
 | 2026-11-05 | [OcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification](https://arxiv.org/abs/2611.07865v1) | 2611.07865v1 | 6 |
 | 2026-11-05 | [MambaTG: Candidate-Aware State Space Modeling for Future Link Prediction on Temporal Graphs](https://arxiv.org/abs/2611.07569v1) | 2611.07569v1 | 12 |
+| 2026-11-05 | [GMD-Mamba: Lightweight 3D Medical Image Segmentation Using a Grouped Multi-Directional Mamba](https://arxiv.org/abs/2611.10032v1) | 2611.10032v1 | 6 |
 | 2026-11-04 | [Shallow Encoding Emits Deep Memories](https://arxiv.org/abs/2611.06084v1) | 2611.06084v1 | 0 |
 | 2026-11-03 | [MambaHand: Local Identity and Behavioral Sequence Learning with Mamba for Dynamic Hand Gesture Authentication](https://arxiv.org/abs/2611.04626v1) | 2611.04626v1 | 6 |
 | 2026-11-03 | [Multi-Path Mamba Diffusion for 3D Point Cloud Semantic Scene Completion](https://arxiv.org/abs/2611.04583v1) | 2611.04583v1 | 6 |
@@ -63,7 +71,9 @@
 | 2026-10-28 | [ParaTTT: Parallelizing Test-Time Training Layers with Deep Memories](https://arxiv.org/abs/2610.38255v1) | 2610.38255v1 | 0 |
 | 2026-10-27 | [Multi-task Disentangling Fusion Mamba-CNN for MODIS Spectral-Temporal Unmixing with Endmember Variability Modeling](https://arxiv.org/abs/2610.36750v1) | 2610.36750v1 | 6 |
 | 2026-10-27 | [Balanced State Subspaces for Mamba-2 State Compression](https://arxiv.org/abs/2610.36617v1) | 2610.36617v1 | 6 |
+| 2026-10-27 | [Balanced State Subspaces with Spectral Rank Allocation for Mamba-2 State Compression](https://arxiv.org/abs/2610.36617v2) | 2610.36617v2 | 8 |
 | 2026-10-26 | [LayoutMamba: Efficient Document Layout Analysis with Hybrid Mamba-Transformer Networks](https://arxiv.org/abs/2610.34879v1) | 2610.34879v1 | 6 |
+| 2026-10-26 | [HippoMamba: A Mamba-augmented network for hippocampal segmentation and serial volumetry in Alzheimers disease](https://arxiv.org/abs/2611.09958v1) | 2611.09958v1 | 8 |
 | 2026-10-25 | [Higher-Order Marginal Likelihood Approximation for Nonlinear State Space Models](https://arxiv.org/abs/2610.34629v1) | 2610.34629v1 | 6 |
 | 2026-10-25 | [CORMA: Constraint-Routed Decision Mamba for Generalizable Multi-Constraint Offline Safe Reinforcement Learning](https://arxiv.org/abs/2610.34208v1) | 2610.34208v1 | 6 |
 | 2026-10-25 | [Hybrid Mamba-Transformer Network for Single-Shot 3D Reconstruction from Fringe Patterns](https://arxiv.org/abs/2610.33988v1) | 2610.33988v1 | 6 |

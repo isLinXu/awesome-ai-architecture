@@ -30,13 +30,21 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-09 | [Prune, Don't Merge: Expert Compression of Mixture-of-Experts LLMs on Multilingual Production Tasks](https://arxiv.org/abs/2611.12240v1) | 2611.12240v1 | 6 |
+| 2026-11-09 | [DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving](https://arxiv.org/abs/2611.11856v1) | 2611.11856v1 | 8 |
+| 2026-11-09 | [Autonomous Continual Learning and Knowledge Transfer via Cortex-Inspired Neural Assemblies](https://arxiv.org/abs/2611.11717v1) | 2611.11717v1 | 6 |
+| 2026-11-08 | [Direct GPU Energy Measurements of Batch-Level Sharing in Mixture-of-Experts and Recurrent Models](https://arxiv.org/abs/2611.11696v1) | 2611.11696v1 | 6 |
+| 2026-11-07 | [Anatomy-Activated Mixture-of-Experts for 3D Medical Vision-Language Pre-training](https://arxiv.org/abs/2611.10960v1) | 2611.10960v1 | 12 |
+| 2026-11-07 | [MoE-DAgger: Transition-Aware Router-Entropy Gating for Selective Human Correction in Phase-Structured Manipulation](https://arxiv.org/abs/2611.10825v1) | 2611.10825v1 | 7 |
 | 2026-11-06 | [Rethinking MoE Load Balancing as Feedback Control](https://arxiv.org/abs/2611.09252v1) | 2611.09252v1 | 16 |
 | 2026-11-06 | [ISER-MoE: Dynamic In-Switch Replication of Hot Experts for Load Balancing in Expert-Parallel](https://arxiv.org/abs/2611.09008v1) | 2611.09008v1 | 10 |
+| 2026-11-06 | [DAC-MACE: Context-Conditioned Expert Routing for Compact Scene Coordinate Regression in Camera Relocalization](https://arxiv.org/abs/2611.10263v1) | 2611.10263v1 | 12 |
 | 2026-11-05 | [Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling](https://arxiv.org/abs/2611.08185v1) | 2611.08185v1 | 6 |
 | 2026-11-05 | [SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization](https://arxiv.org/abs/2611.08089v1) | 2611.08089v1 | 0 |
 | 2026-11-05 | [English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models](https://arxiv.org/abs/2611.07654v1) | 2611.07654v1 | 6 |
 | 2026-11-05 | [LMGN: A Unified Policy Learning Model for Last-Mile Grasp-Navigation](https://arxiv.org/abs/2611.07515v1) | 2611.07515v1 | 0 |
 | 2026-11-05 | [AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference](https://arxiv.org/abs/2611.08741v1) | 2611.08741v1 | 6 |
+| 2026-11-05 | [English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models](https://arxiv.org/abs/2611.07654v2) | 2611.07654v2 | 6 |
 | 2026-11-04 | [Server-Side Sparse Assignment for Federated Mixture-of-Experts](https://arxiv.org/abs/2611.07093v1) | 2611.07093v1 | 6 |
 | 2026-11-04 | [Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2](https://arxiv.org/abs/2611.06827v1) | 2611.06827v1 | 0 |
 | 2026-11-04 | [vExpert: Virtualizing Expert Storage for Adaptive Load Balancing in Distributed MoE Inference](https://arxiv.org/abs/2611.06057v1) | 2611.06057v1 | 6 |
@@ -53,6 +61,7 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 | 2026-11-02 | [VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts](https://arxiv.org/abs/2611.03043v1) | 2611.03043v1 | 7 |
 | 2026-11-02 | [VioTech: Frame-Level Violin Playing Technique Detection with Multi-Scale Mixture-of-Experts](https://arxiv.org/abs/2611.02680v1) | 2611.02680v1 | 6 |
 | 2026-11-02 | [MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking](https://arxiv.org/abs/2611.02613v1) | 2611.02613v1 | 6 |
+| 2026-11-02 | [VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts](https://arxiv.org/abs/2611.03043v2) | 2611.03043v2 | 11 |
 | 2026-11-01 | [MatMoE: Matryoshka Mixture-of-Experts with Dynamic Mixed-Precision Quantization for Efficient Inference](https://arxiv.org/abs/2611.01704v1) | 2611.01704v1 | 6 |
 | 2026-11-01 | [When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts](https://arxiv.org/abs/2611.01602v1) | 2611.01602v1 | 6 |
 | 2026-10-30 | [PRISM-Net: Dynamic Routing Network with VLM-Guided Disentangled Attribute Distillation for Explainable Fine-Grained Product Retrieval](https://arxiv.org/abs/2611.00458v1) | 2611.00458v1 | 0 |

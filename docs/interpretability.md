@@ -25,7 +25,10 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-07 | [Can small transformers learn the language of Coxeter groups?](https://arxiv.org/abs/2611.10936v1) | 2611.10936v1 | 7 |
+| 2026-11-07 | [Represented but Not Used: Value-Policy Dissociation in LLM Agents](https://arxiv.org/abs/2611.10457v1) | 2611.10457v1 | 6 |
 | 2026-11-05 | [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438v1) | 2611.08438v1 | 9 |
+| 2026-11-05 | [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438v2) | 2611.08438v2 | 10 |
 | 2026-10-30 | [A Framework for Task-Agnostic Counterfactual Fairness in Transformers through Activation Steering](https://arxiv.org/abs/2611.00298v1) | 2611.00298v1 | 0 |
 | 2026-10-26 | [Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching](https://arxiv.org/abs/2610.34756v1) | 2610.34756v1 | 0 |
 | 2026-10-19 | [Shaped SAEs: Expanding the Toolkit for Mechanistic Interpretability](https://arxiv.org/abs/2610.27375v1) | 2610.27375v1 | 9 |

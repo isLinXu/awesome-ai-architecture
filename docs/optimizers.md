@@ -29,9 +29,23 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-09 | [Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers](https://arxiv.org/abs/2611.12317v1) | 2611.12317v1 | 6 |
+| 2026-11-09 | [On the Global Convergence of Stochastic Adam for Physics-Informed Neural Networks](https://arxiv.org/abs/2611.11905v1) | 2611.11905v1 | 12 |
+| 2026-11-08 | [Weight-Space Programming of Variational Quantum Circuits: Large Language Models Write Quantum Circuit Parameters Without an Optimizer](https://arxiv.org/abs/2611.11537v1) | 2611.11537v1 | 7 |
+| 2026-11-08 | [A Stability Analysis of AdamW: Unstable Equilibria and Non-Convergence](https://arxiv.org/abs/2611.11526v1) | 2611.11526v1 | 9 |
+| 2026-11-08 | [MOMENT-DP: Momentum Aware Evaluation of Correlated Noise for Differentially Private Training](https://arxiv.org/abs/2611.11457v1) | 2611.11457v1 | 7 |
+| 2026-11-08 | [Variance-Reduced Stochastic Hessian-Driven Nesterov Acceleration with Adam-Style Preconditioning](https://arxiv.org/abs/2611.11277v1) | 2611.11277v1 | 6 |
+| 2026-11-08 | [Full Fine-Tuning is not the Problem: Why Adam Fails and SGD Succeeds in Few-Shot CLIP Adaptation](https://arxiv.org/abs/2611.11152v1) | 2611.11152v1 | 12 |
+| 2026-11-07 | [Network Contention State Aware Dynamic Optimizer for Accelerator Collective Communication Libraries](https://arxiv.org/abs/2611.10984v1) | 2611.10984v1 | 6 |
+| 2026-11-07 | [Breaking Precision Walls in First-, Second-, and Zeroth-Order Optimizers: One Constant, Set in Advance](https://arxiv.org/abs/2611.10730v1) | 2611.10730v1 | 13 |
+| 2026-11-07 | [Spectral Bias Reduction in Local Gated ReLU Architectures](https://arxiv.org/abs/2611.10700v1) | 2611.10700v1 | 7 |
+| 2026-11-07 | [STABLE: A Continual Learning Optimizer with Adaptive Drift Control](https://arxiv.org/abs/2611.10655v1) | 2611.10655v1 | 6 |
 | 2026-11-06 | [Second-order optimality conditions for $C^{1,1}$ sparsity constrained optimization problems via disjunctive programming](https://arxiv.org/abs/2611.09146v1) | 2611.09146v1 | 6 |
 | 2026-11-06 | [ResQAdam: Residual-Preserving Adaptive Optimization for Memory-Efficient Quantization Aware Training](https://arxiv.org/abs/2611.08924v1) | 2611.08924v1 | 6 |
 | 2026-11-06 | [Learning to Restart: Differentiable Restart Policies for Optimization Dynamics](https://arxiv.org/abs/2611.08883v1) | 2611.08883v1 | 7 |
+| 2026-11-06 | [DisMUSE: An Efficient Distributed Singular-Spectrum-Based Optimization Approach with Theoretical Convergence Guarantee](https://arxiv.org/abs/2611.10212v1) | 2611.10212v1 | 12 |
+| 2026-11-06 | [BiMuon: A Geometry-Aware Stochastic Bilevel Optimization Approach](https://arxiv.org/abs/2611.10188v1) | 2611.10188v1 | 7 |
+| 2026-11-06 | [Quantum Natural Muon: Spectral-Natural Optimization for Variational Quantum Circuits](https://arxiv.org/abs/2611.10105v1) | 2611.10105v1 | 7 |
 | 2026-11-05 | [Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning](https://arxiv.org/abs/2611.08414v1) | 2611.08414v1 | 7 |
 | 2026-11-05 | [Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379v1) | 2611.08379v1 | 8 |
 | 2026-11-05 | [Second-order geometric consistency of nonlinear FE-HMM on surfaces via corrector non-degeneracy](https://arxiv.org/abs/2611.07761v1) | 2611.07761v1 | 8 |

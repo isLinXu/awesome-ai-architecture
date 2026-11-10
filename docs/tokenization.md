@@ -25,12 +25,23 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-09 | [Adapting Small Language Models to Romanized Nepali: Tokenizer Fertility, Reference Likelihood, and Generation Metrics](https://arxiv.org/abs/2611.12628v1) | 2611.12628v1 | 6 |
+| 2026-11-09 | [Phrase-Level Speculative Decoding on a Frozen Target](https://arxiv.org/abs/2611.12464v1) | 2611.12464v1 | 8 |
+| 2026-11-09 | [dNaViT: Discrete Codes are General-Purpose Visual Representations](https://arxiv.org/abs/2611.12426v1) | 2611.12426v1 | 6 |
+| 2026-11-08 | [Brain-Aligned Latent Actions: Imposing Premotor Cortex Geometry on a Robot's Action Vocabulary](https://arxiv.org/abs/2611.11674v1) | 2611.11674v1 | 7 |
+| 2026-11-08 | [Does Pose Encoding Matter? Analyzing Geometric Representations for Discrete Motion Vocabulary Learning](https://arxiv.org/abs/2611.11093v1) | 2611.11093v1 | 12 |
+| 2026-11-08 | [A Hierarchical Tokenization Framework for Voxel-Level fMRI Representation Learning](https://arxiv.org/abs/2611.11081v1) | 2611.11081v1 | 10 |
+| 2026-11-08 | [Differentiable Virtual-Slot Partitioning for Adaptive Tokenization in Vision Transformers](https://arxiv.org/abs/2611.11058v1) | 2611.11058v1 | 6 |
+| 2026-11-08 | [MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling](https://arxiv.org/abs/2611.11027v1) | 2611.11027v1 | 18 |
 | 2026-11-06 | [PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals](https://arxiv.org/abs/2611.08969v1) | 2611.08969v1 | 7 |
+| 2026-11-06 | [Compact Greek Language Models from Scratch: Pretraining 500M- and 1B-Parameter Decoder-Only Transformers](https://arxiv.org/abs/2611.10209v1) | 2611.10209v1 | 10 |
+| 2026-11-06 | [Improving the Diffusability of Motion Tokenizer](https://arxiv.org/abs/2611.10160v1) | 2611.10160v1 | 6 |
 | 2026-11-05 | [Towards Practical 20 kbps Generative Video Compression via Adaptive Tokenization and Entropy Modeling](https://arxiv.org/abs/2611.08099v1) | 2611.08099v1 | 10 |
 | 2026-11-05 | [OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation](https://arxiv.org/abs/2611.07523v1) | 2611.07523v1 | 10 |
 | 2026-11-05 | [FFMT: Frequency-Factorized Multi-Rate Tokenization for Music-to-Dance Generation](https://arxiv.org/abs/2611.07384v1) | 2611.07384v1 | 6 |
 | 2026-11-05 | [GreedTok is a Constant-Factor Approximation for Partition-Cover Tokenization](https://arxiv.org/abs/2611.07346v1) | 2611.07346v1 | 12 |
 | 2026-11-05 | [Scale as a Modality: Multi-Scale Pixel-Space Diffusion Transformers](https://arxiv.org/abs/2611.08802v1) | 2611.08802v1 | 6 |
+| 2026-11-05 | [GreedTok Is a 0.3287-Approximation for Tokenization, Within 3% of the Best Possible Constant](https://arxiv.org/abs/2611.07346v2) | 2611.07346v2 | 12 |
 | 2026-11-04 | [AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment](https://arxiv.org/abs/2611.06170v1) | 2611.06170v1 | 12 |
 | 2026-11-03 | [Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers](https://arxiv.org/abs/2611.05742v1) | 2611.05742v1 | 7 |
 | 2026-11-03 | [SPADE: Spatiotemporal Preference Alignment and Diversity Enhancement for Local Search](https://arxiv.org/abs/2611.04662v1) | 2611.04662v1 | 12 |
@@ -56,6 +67,7 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 | 2026-10-24 | [TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens](https://arxiv.org/abs/2610.33857v2) | 2610.33857v2 | 12 |
 | 2026-10-24 | [Patch-Derived or Register Tokens? Comparing Variable-Length Image Tokenizers](https://arxiv.org/abs/2610.33540v1) | 2610.33540v1 | 9 |
 | 2026-10-24 | [A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Post-Training Alignment](https://arxiv.org/abs/2610.33451v1) | 2610.33451v1 | 10 |
+| 2026-10-24 | [TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens](https://arxiv.org/abs/2610.33857v3) | 2610.33857v3 | 12 |
 | 2026-10-23 | [Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora](https://arxiv.org/abs/2610.32921v1) | 2610.32921v1 | 12 |
 | 2026-10-23 | [EMG Tokenization Preserves Movement Information at a Fraction of the Bitrate](https://arxiv.org/abs/2610.32674v1) | 2610.32674v1 | 10 |
 | 2026-10-23 | [AgentTrace: Execution-Level Fingerprinting of Black-Box LLM Agents](https://arxiv.org/abs/2610.32092v1) | 2610.32092v1 | 8 |
@@ -70,6 +82,7 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 | 2026-10-21 | [Rethinking One Gene, One Token: Transcriptome-Aware Tokenization for Single-Cell Foundation Models](https://arxiv.org/abs/2611.05410v1) | 2611.05410v1 | 13 |
 | 2026-10-21 | [Progressive Learning from Content to Relevance to Personalization for CTR Prediction](https://arxiv.org/abs/2610.29138v1) | 2610.29138v1 | 9 |
 | 2026-10-21 | [Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach](https://arxiv.org/abs/2610.29123v2) | 2610.29123v2 | 9 |
+| 2026-10-21 | [Rethinking One Gene, One Token: Transcriptome-Aware Tokenization for Single-Cell Foundation Models](https://arxiv.org/abs/2611.05410v2) | 2611.05410v2 | 13 |
 | 2026-10-20 | [Rethinking Time Series Tokenization from a Frequency Perspective](https://arxiv.org/abs/2610.28997v2) | 2610.28997v2 | 10 |
 | 2026-10-20 | [CSD: Common-Support Distillation for Cross-Tokenizer Knowledge Transfer](https://arxiv.org/abs/2610.28895v1) | 2610.28895v1 | 8 |
 | 2026-10-20 | [Turning TS2Vec into a Foundation Model for Time Series Classification](https://arxiv.org/abs/2610.28602v1) | 2610.28602v1 | 6 |

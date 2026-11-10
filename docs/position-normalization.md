@@ -33,6 +33,7 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-09 | [A Geometric Invariant of Attention Predicts Head Specialization from Weights Alone](https://arxiv.org/abs/2611.12206v1) | 2611.12206v1 | 8 |
 | 2026-11-06 | [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](https://arxiv.org/abs/2611.09554v1) | 2611.09554v1 | 12 |
 | 2026-11-05 | [How Deep is the Signal? Time-Context up to 30 Years for Colorectal Cancer Prediction in a Primary-Care EHR Model](https://arxiv.org/abs/2611.07265v1) | 2611.07265v1 | 0 |
 | 2026-11-04 | [RDT-3D: Resolution-Decoupled Training for High-Fidelity 3D Geometry Generation](https://arxiv.org/abs/2611.06141v1) | 2611.06141v1 | 0 |
@@ -40,6 +41,7 @@
 | 2026-11-03 | [Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation](https://arxiv.org/abs/2611.05041v1) | 2611.05041v1 | 6 |
 | 2026-11-02 | [In-context learning of solution to simple linear regression task using transformer with masked linear self-attention](https://arxiv.org/abs/2611.02817v1) | 2611.02817v1 | 0 |
 | 2026-11-01 | [Causal Optimal-Transport Attention: Positional Priors and Length Extrapolation](https://arxiv.org/abs/2611.01472v1) | 2611.01472v1 | 6 |
+| 2026-11-01 | [Causal Optimal-Transport Attention: Positional Priors and Length Extrapolation](https://arxiv.org/abs/2611.01472v2) | 2611.01472v2 | 10 |
 | 2026-10-27 | [Rethinking Positional Encoding and Interaction Granularity for CTR Prediction](https://arxiv.org/abs/2610.37140v1) | 2610.37140v1 | 6 |
 | 2026-10-25 | [Wave Is All You Need: A Quantum Language Model Based on Fully Connected Quantum Boltzmann Machine](https://arxiv.org/abs/2610.34492v1) | 2610.34492v1 | 0 |
 | 2026-10-23 | [Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning](https://arxiv.org/abs/2610.32951v1) | 2610.32951v1 | 0 |
