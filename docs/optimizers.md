@@ -29,8 +29,12 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-10 | [Weak Quasi-Convexity: First- and Second-Order Conditions, Monotonicity, and Quadratic Functions](https://arxiv.org/abs/2611.13878v1) | 2611.13878v1 | 7 |
+| 2026-11-10 | [Exact (Non-)Accelerations of Heavy-Ball Discretizations](https://arxiv.org/abs/2611.13584v1) | 2611.13584v1 | 7 |
+| 2026-11-10 | [Closing the BF16-FP16 Convergence Speed Gap in RL Post-Training with Stochastic Rounding](https://arxiv.org/abs/2611.13545v1) | 2611.13545v1 | 7 |
 | 2026-11-09 | [Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers](https://arxiv.org/abs/2611.12317v1) | 2611.12317v1 | 6 |
 | 2026-11-09 | [On the Global Convergence of Stochastic Adam for Physics-Informed Neural Networks](https://arxiv.org/abs/2611.11905v1) | 2611.11905v1 | 12 |
+| 2026-11-09 | [Byzantine-Robust Muon: Resilient Momentum Orthogonalization for Distributed Learning](https://arxiv.org/abs/2611.13137v1) | 2611.13137v1 | 14 |
 | 2026-11-08 | [Weight-Space Programming of Variational Quantum Circuits: Large Language Models Write Quantum Circuit Parameters Without an Optimizer](https://arxiv.org/abs/2611.11537v1) | 2611.11537v1 | 7 |
 | 2026-11-08 | [A Stability Analysis of AdamW: Unstable Equilibria and Non-Convergence](https://arxiv.org/abs/2611.11526v1) | 2611.11526v1 | 9 |
 | 2026-11-08 | [MOMENT-DP: Momentum Aware Evaluation of Correlated Noise for Differentially Private Training](https://arxiv.org/abs/2611.11457v1) | 2611.11457v1 | 7 |
@@ -40,6 +44,7 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 | 2026-11-07 | [Breaking Precision Walls in First-, Second-, and Zeroth-Order Optimizers: One Constant, Set in Advance](https://arxiv.org/abs/2611.10730v1) | 2611.10730v1 | 13 |
 | 2026-11-07 | [Spectral Bias Reduction in Local Gated ReLU Architectures](https://arxiv.org/abs/2611.10700v1) | 2611.10700v1 | 7 |
 | 2026-11-07 | [STABLE: A Continual Learning Optimizer with Adaptive Drift Control](https://arxiv.org/abs/2611.10655v1) | 2611.10655v1 | 6 |
+| 2026-11-07 | [STABLE: A Continual Learning Optimizer with Adaptive Drift Control](https://arxiv.org/abs/2611.10655v2) | 2611.10655v2 | 6 |
 | 2026-11-06 | [Second-order optimality conditions for $C^{1,1}$ sparsity constrained optimization problems via disjunctive programming](https://arxiv.org/abs/2611.09146v1) | 2611.09146v1 | 6 |
 | 2026-11-06 | [ResQAdam: Residual-Preserving Adaptive Optimization for Memory-Efficient Quantization Aware Training](https://arxiv.org/abs/2611.08924v1) | 2611.08924v1 | 6 |
 | 2026-11-06 | [Learning to Restart: Differentiable Restart Policies for Optimization Dynamics](https://arxiv.org/abs/2611.08883v1) | 2611.08883v1 | 7 |

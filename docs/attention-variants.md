@@ -47,6 +47,7 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-10 | [Sanity Checks for Attention Surgery: Null Models and Matched Interventions for Representation-Motivated Design](https://arxiv.org/abs/2611.13543v1) | 2611.13543v1 | 6 |
 | 2026-11-09 | [Translating KV Caches Between Hybrid-Attention Language Models: MLA Latents, Linear-Attention States and Sparse-Attention Indexers](https://arxiv.org/abs/2611.12062v1) | 2611.12062v1 | 13 |
 | 2026-11-06 | [TailDART: Compute-Efficient Foundation Models for Financial Time-Series Forecasting](https://arxiv.org/abs/2611.09176v1) | 2611.09176v1 | 6 |
 | 2026-10-29 | [Where Position Matters: Profiling-Guided Layer-Wise RoPE Allocation in Transformers](https://arxiv.org/abs/2610.39223v1) | 2610.39223v1 | 0 |

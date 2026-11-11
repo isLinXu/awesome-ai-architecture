@@ -30,9 +30,11 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-10 | [Understanding Mixture-of-Experts Language Models Beyond Expert Boundaries](https://arxiv.org/abs/2611.13975v1) | 2611.13975v1 | 6 |
 | 2026-11-09 | [Prune, Don't Merge: Expert Compression of Mixture-of-Experts LLMs on Multilingual Production Tasks](https://arxiv.org/abs/2611.12240v1) | 2611.12240v1 | 6 |
 | 2026-11-09 | [DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving](https://arxiv.org/abs/2611.11856v1) | 2611.11856v1 | 8 |
 | 2026-11-09 | [Autonomous Continual Learning and Knowledge Transfer via Cortex-Inspired Neural Assemblies](https://arxiv.org/abs/2611.11717v1) | 2611.11717v1 | 6 |
+| 2026-11-09 | [One-Sided Expert-Parallel All-to-All for Mixture-of-Experts Inference over NVLink](https://arxiv.org/abs/2611.13188v1) | 2611.13188v1 | 6 |
 | 2026-11-08 | [Direct GPU Energy Measurements of Batch-Level Sharing in Mixture-of-Experts and Recurrent Models](https://arxiv.org/abs/2611.11696v1) | 2611.11696v1 | 6 |
 | 2026-11-07 | [Anatomy-Activated Mixture-of-Experts for 3D Medical Vision-Language Pre-training](https://arxiv.org/abs/2611.10960v1) | 2611.10960v1 | 12 |
 | 2026-11-07 | [MoE-DAgger: Transition-Aware Router-Entropy Gating for Selective Human Correction in Phase-Structured Manipulation](https://arxiv.org/abs/2611.10825v1) | 2611.10825v1 | 7 |
@@ -74,6 +76,7 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 | 2026-10-27 | [Muon Makes the First Mixture-of-Experts Layer Harder to Balance](https://arxiv.org/abs/2610.37914v1) | 2610.37914v1 | 6 |
 | 2026-10-27 | [Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data](https://arxiv.org/abs/2610.37386v1) | 2610.37386v1 | 6 |
 | 2026-10-27 | [Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model](https://arxiv.org/abs/2610.37375v1) | 2610.37375v1 | 0 |
+| 2026-10-27 | [Muon Makes the First Mixture-of-Experts Layer Harder to Balance](https://arxiv.org/abs/2610.37914v2) | 2610.37914v2 | 8 |
 | 2026-10-26 | [INC-MoE: Overlapping In-Network Collectives and Expert Computation for Expert-Parallel Mixture-of-Experts Inference](https://arxiv.org/abs/2610.36339v1) | 2610.36339v1 | 6 |
 | 2026-10-26 | [DuplexTune: Coupled-State Replay for Memory-Efficient Mixture-of-Experts Adaptation](https://arxiv.org/abs/2610.36009v1) | 2610.36009v1 | 6 |
 | 2026-10-26 | [Prefetch-Steered Routing: Deterministic Cache-Aware Expert Selection for Offloaded Mixture-of-Experts Decoding](https://arxiv.org/abs/2610.34721v1) | 2610.34721v1 | 6 |

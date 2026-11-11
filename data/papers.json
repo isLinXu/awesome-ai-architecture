@@ -123259,6 +123259,240 @@
       "category": "compression",
       "published": "2026-10-30",
       "score": 11
+    },
+    "2611.13543v1": {
+      "title": "Sanity Checks for Attention Surgery: Null Models and Matched Interventions for Representation-Motivated Design",
+      "category": "attention-variants",
+      "published": "2026-11-10",
+      "score": 6
+    },
+    "2611.13293v1": {
+      "title": "Decode Token Parallelism: Memory-Efficient Distributed Attention Parallelism for Scalable LLM Decoding",
+      "category": "efficient-attention",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.12956v1": {
+      "title": "ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation",
+      "category": "efficient-attention",
+      "published": "2026-11-07",
+      "score": 12
+    },
+    "2611.13334v1": {
+      "title": "Disentangling Multimodal Rotary Positional Embedding in Vision-Language Models",
+      "category": "position-normalization",
+      "published": "2026-11-09",
+      "score": 10
+    },
+    "2611.13975v1": {
+      "title": "Understanding Mixture-of-Experts Language Models Beyond Expert Boundaries",
+      "category": "ffn-moe",
+      "published": "2026-11-10",
+      "score": 6
+    },
+    "2611.13188v1": {
+      "title": "One-Sided Expert-Parallel All-to-All for Mixture-of-Experts Inference over NVLink",
+      "category": "ffn-moe",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2610.37914v2": {
+      "title": "Muon Makes the First Mixture-of-Experts Layer Harder to Balance",
+      "category": "ffn-moe",
+      "published": "2026-10-27",
+      "score": 8
+    },
+    "2611.14246v1": {
+      "title": "SinkState: On-the-Fly SVD of Recurrent States for Efficient Hybrid LLM Serving",
+      "category": "beyond-transformer",
+      "published": "2026-11-10",
+      "score": 13
+    },
+    "2611.13661v1": {
+      "title": "SepsisFlow: an event-stream foundation model for continuous risk warning and trajectory modelling in ICU sepsis",
+      "category": "beyond-transformer",
+      "published": "2026-11-10",
+      "score": 6
+    },
+    "2611.13523v1": {
+      "title": "Parallel Broyden Methods for Efficiently Evaluating Nonlinear State Space Models",
+      "category": "beyond-transformer",
+      "published": "2026-11-10",
+      "score": 6
+    },
+    "2611.13514v1": {
+      "title": "Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation",
+      "category": "beyond-transformer",
+      "published": "2026-11-10",
+      "score": 10
+    },
+    "2611.13868v1": {
+      "title": "Mechanistic Interpretability of Deep Neural Networks: Methods, Frameworks, and Perspectives",
+      "category": "interpretability",
+      "published": "2026-11-10",
+      "score": 10
+    },
+    "2611.14504v1": {
+      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+      "category": "landmark-models",
+      "published": "2026-11-10",
+      "score": 13
+    },
+    "2611.06817v3": {
+      "title": "Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+      "category": "landmark-models",
+      "published": "2026-11-04",
+      "score": 14
+    },
+    "2611.14035v1": {
+      "title": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
+      "category": "tokenization",
+      "published": "2026-11-10",
+      "score": 7
+    },
+    "2611.13609v1": {
+      "title": "Post-OCR Correction of Mixed-Script Uzbek Text: Byte-Level ByT5 with an Empirical Homoglyph Noise Matrix",
+      "category": "tokenization",
+      "published": "2026-11-10",
+      "score": 6
+    },
+    "2611.13607v1": {
+      "title": "One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data",
+      "category": "tokenization",
+      "published": "2026-11-10",
+      "score": 16
+    },
+    "2611.13441v1": {
+      "title": "Inherited Weights: Measuring the Tokenization Premium and the Sovereignty Cost of Language Models for the Global South",
+      "category": "tokenization",
+      "published": "2026-11-10",
+      "score": 12
+    },
+    "2611.13061v1": {
+      "title": "The Left Ripple of Byte-Pair Encoding: Certified Lookbehind for Every Dictionary",
+      "category": "tokenization",
+      "published": "2026-11-09",
+      "score": 8
+    },
+    "2611.13059v1": {
+      "title": "A Multi-Word Tokenizer for 204 Languages That Needs Fewer Tokens Than GPT-4o's, Including on English",
+      "category": "tokenization",
+      "published": "2026-11-09",
+      "score": 18
+    },
+    "2611.13058v1": {
+      "title": "The Indic Token Tax in 2026: Measuring Tokenizer. Disparity and Its Cost for the Languages of India",
+      "category": "tokenization",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.13878v1": {
+      "title": "Weak Quasi-Convexity: First- and Second-Order Conditions, Monotonicity, and Quadratic Functions",
+      "category": "optimizers",
+      "published": "2026-11-10",
+      "score": 7
+    },
+    "2611.13584v1": {
+      "title": "Exact (Non-)Accelerations of Heavy-Ball Discretizations",
+      "category": "optimizers",
+      "published": "2026-11-10",
+      "score": 7
+    },
+    "2611.13545v1": {
+      "title": "Closing the BF16-FP16 Convergence Speed Gap in RL Post-Training with Stochastic Rounding",
+      "category": "optimizers",
+      "published": "2026-11-10",
+      "score": 7
+    },
+    "2611.13137v1": {
+      "title": "Byzantine-Robust Muon: Resilient Momentum Orthogonalization for Distributed Learning",
+      "category": "optimizers",
+      "published": "2026-11-09",
+      "score": 14
+    },
+    "2611.10655v2": {
+      "title": "STABLE: A Continual Learning Optimizer with Adaptive Drift Control",
+      "category": "optimizers",
+      "published": "2026-11-07",
+      "score": 6
+    },
+    "2611.14418v1": {
+      "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
+      "category": "compression",
+      "published": "2026-11-10",
+      "score": 8
+    },
+    "2611.14196v1": {
+      "title": "Joint Quantization and Dynamic Partitioning for Context-Aware Edge Vision Transformers",
+      "category": "compression",
+      "published": "2026-11-10",
+      "score": 11
+    },
+    "2611.14066v1": {
+      "title": "Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals",
+      "category": "compression",
+      "published": "2026-11-10",
+      "score": 7
+    },
+    "2611.13814v1": {
+      "title": "Swanada: Split-Encoder Capability-Routed Conformer CTC and Sub-30 MB On-Device Speech Recognition Across Twelve Scripts",
+      "category": "compression",
+      "published": "2026-11-10",
+      "score": 10
+    },
+    "2611.13730v1": {
+      "title": "Deterministic, Reproducible Inference in Exact Integer Arithmetic, and Verifiable Distributed Inference as Its Consequence",
+      "category": "compression",
+      "published": "2026-11-10",
+      "score": 6
+    },
+    "2611.13707v1": {
+      "title": "Joint Activation and Weight Quantization for Learned Image Compression",
+      "category": "compression",
+      "published": "2026-11-10",
+      "score": 12
+    },
+    "2611.13699v1": {
+      "title": "Residual-Closed-Loop SAGE-Brent Estimation for Unknown-Order Wideband Underwater Acoustic Channels",
+      "category": "compression",
+      "published": "2026-11-10",
+      "score": 6
+    },
+    "2611.13410v1": {
+      "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+      "category": "compression",
+      "published": "2026-11-10",
+      "score": 7
+    },
+    "2611.13325v1": {
+      "title": "F3-AGI v4.0: Bioenergetically-Gated Active Inference, Metaplastic Preconditioning, and Residual Program Synthesis for Sample-Efficient Abstract Reasoning",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.13262v1": {
+      "title": "Adaptive Residual Quantization for Memory-Efficient Temporal Action Segmentation",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.12311v2": {
+      "title": "MNN-Pocket-0.3B Technical Report",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 16
+    },
+    "2611.13030v1": {
+      "title": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 7
+    },
+    "2611.11399v2": {
+      "title": "RoCoMark: Robust Code Watermarking Against LLM-Based Functionality-Preserving Rewriting Attacks",
+      "category": "compression",
+      "published": "2026-11-08",
+      "score": 7
     }
   }
 }

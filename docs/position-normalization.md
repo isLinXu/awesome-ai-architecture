@@ -34,6 +34,7 @@
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
 | 2026-11-09 | [A Geometric Invariant of Attention Predicts Head Specialization from Weights Alone](https://arxiv.org/abs/2611.12206v1) | 2611.12206v1 | 8 |
+| 2026-11-09 | [Disentangling Multimodal Rotary Positional Embedding in Vision-Language Models](https://arxiv.org/abs/2611.13334v1) | 2611.13334v1 | 10 |
 | 2026-11-06 | [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](https://arxiv.org/abs/2611.09554v1) | 2611.09554v1 | 12 |
 | 2026-11-05 | [How Deep is the Signal? Time-Context up to 30 Years for Colorectal Cancer Prediction in a Primary-Care EHR Model](https://arxiv.org/abs/2611.07265v1) | 2611.07265v1 | 0 |
 | 2026-11-04 | [RDT-3D: Resolution-Decoupled Training for High-Fidelity 3D Geometry Generation](https://arxiv.org/abs/2611.06141v1) | 2611.06141v1 | 0 |

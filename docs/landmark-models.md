@@ -30,7 +30,9 @@ GQA 靠 Llama 2/3，MLA 靠 DeepSeek-V3。这条赛道收录定义时代的模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-10 | [Emergent Biological Capabilities in a Foundation Model for Molecular Interactions](https://arxiv.org/abs/2611.14504v1) | 2611.14504v1 | 13 |
 | 2026-11-04 | [Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](https://arxiv.org/abs/2611.06817v2) | 2611.06817v2 | 14 |
+| 2026-11-04 | [Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](https://arxiv.org/abs/2611.06817v3) | 2611.06817v3 | 14 |
 | 2026-11-03 | [Scaling Laws For Data-Constrained Dense Retrieval](https://arxiv.org/abs/2611.04979v1) | 2611.04979v1 | 7 |
 | 2026-11-03 | [Amortized Nonlinear Variable Selection with Prior-Data Fitted Networks](https://arxiv.org/abs/2611.04848v1) | 2611.04848v1 | 8 |
 | 2026-11-02 | [A Scaling Theory of Multi-Epoch Pretraining: Late-Time Overfitting and Ensembling](https://arxiv.org/abs/2611.03590v1) | 2611.03590v1 | 7 |

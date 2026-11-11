@@ -25,9 +25,16 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-10 | [ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models](https://arxiv.org/abs/2611.14035v1) | 2611.14035v1 | 7 |
+| 2026-11-10 | [Post-OCR Correction of Mixed-Script Uzbek Text: Byte-Level ByT5 with an Empirical Homoglyph Noise Matrix](https://arxiv.org/abs/2611.13609v1) | 2611.13609v1 | 6 |
+| 2026-11-10 | [One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data](https://arxiv.org/abs/2611.13607v1) | 2611.13607v1 | 16 |
+| 2026-11-10 | [Inherited Weights: Measuring the Tokenization Premium and the Sovereignty Cost of Language Models for the Global South](https://arxiv.org/abs/2611.13441v1) | 2611.13441v1 | 12 |
 | 2026-11-09 | [Adapting Small Language Models to Romanized Nepali: Tokenizer Fertility, Reference Likelihood, and Generation Metrics](https://arxiv.org/abs/2611.12628v1) | 2611.12628v1 | 6 |
 | 2026-11-09 | [Phrase-Level Speculative Decoding on a Frozen Target](https://arxiv.org/abs/2611.12464v1) | 2611.12464v1 | 8 |
 | 2026-11-09 | [dNaViT: Discrete Codes are General-Purpose Visual Representations](https://arxiv.org/abs/2611.12426v1) | 2611.12426v1 | 6 |
+| 2026-11-09 | [The Left Ripple of Byte-Pair Encoding: Certified Lookbehind for Every Dictionary](https://arxiv.org/abs/2611.13061v1) | 2611.13061v1 | 8 |
+| 2026-11-09 | [A Multi-Word Tokenizer for 204 Languages That Needs Fewer Tokens Than GPT-4o's, Including on English](https://arxiv.org/abs/2611.13059v1) | 2611.13059v1 | 18 |
+| 2026-11-09 | [The Indic Token Tax in 2026: Measuring Tokenizer. Disparity and Its Cost for the Languages of India](https://arxiv.org/abs/2611.13058v1) | 2611.13058v1 | 6 |
 | 2026-11-08 | [Brain-Aligned Latent Actions: Imposing Premotor Cortex Geometry on a Robot's Action Vocabulary](https://arxiv.org/abs/2611.11674v1) | 2611.11674v1 | 7 |
 | 2026-11-08 | [Does Pose Encoding Matter? Analyzing Geometric Representations for Discrete Motion Vocabulary Learning](https://arxiv.org/abs/2611.11093v1) | 2611.11093v1 | 12 |
 | 2026-11-08 | [A Hierarchical Tokenization Framework for Voxel-Level fMRI Representation Learning](https://arxiv.org/abs/2611.11081v1) | 2611.11081v1 | 10 |

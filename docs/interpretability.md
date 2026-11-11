@@ -25,6 +25,7 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-10 | [Mechanistic Interpretability of Deep Neural Networks: Methods, Frameworks, and Perspectives](https://arxiv.org/abs/2611.13868v1) | 2611.13868v1 | 10 |
 | 2026-11-07 | [Can small transformers learn the language of Coxeter groups?](https://arxiv.org/abs/2611.10936v1) | 2611.10936v1 | 7 |
 | 2026-11-07 | [Represented but Not Used: Value-Policy Dissociation in LLM Agents](https://arxiv.org/abs/2611.10457v1) | 2611.10457v1 | 6 |
 | 2026-11-05 | [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438v1) | 2611.08438v1 | 9 |

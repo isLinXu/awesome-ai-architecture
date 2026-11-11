@@ -28,6 +28,14 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-10 | [Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model](https://arxiv.org/abs/2611.14418v1) | 2611.14418v1 | 8 |
+| 2026-11-10 | [Joint Quantization and Dynamic Partitioning for Context-Aware Edge Vision Transformers](https://arxiv.org/abs/2611.14196v1) | 2611.14196v1 | 11 |
+| 2026-11-10 | [Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals](https://arxiv.org/abs/2611.14066v1) | 2611.14066v1 | 7 |
+| 2026-11-10 | [Swanada: Split-Encoder Capability-Routed Conformer CTC and Sub-30 MB On-Device Speech Recognition Across Twelve Scripts](https://arxiv.org/abs/2611.13814v1) | 2611.13814v1 | 10 |
+| 2026-11-10 | [Deterministic, Reproducible Inference in Exact Integer Arithmetic, and Verifiable Distributed Inference as Its Consequence](https://arxiv.org/abs/2611.13730v1) | 2611.13730v1 | 6 |
+| 2026-11-10 | [Joint Activation and Weight Quantization for Learned Image Compression](https://arxiv.org/abs/2611.13707v1) | 2611.13707v1 | 12 |
+| 2026-11-10 | [Residual-Closed-Loop SAGE-Brent Estimation for Unknown-Order Wideband Underwater Acoustic Channels](https://arxiv.org/abs/2611.13699v1) | 2611.13699v1 | 6 |
+| 2026-11-10 | [SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](https://arxiv.org/abs/2611.13410v1) | 2611.13410v1 | 7 |
 | 2026-11-09 | [Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](https://arxiv.org/abs/2611.12878v1) | 2611.12878v1 | 6 |
 | 2026-11-09 | [What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts](https://arxiv.org/abs/2611.12832v1) | 2611.12832v1 | 8 |
 | 2026-11-09 | [Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense](https://arxiv.org/abs/2611.12807v1) | 2611.12807v1 | 10 |
@@ -36,6 +44,10 @@
 | 2026-11-09 | [AutoQS: Automated Quantization Strategy Design with Large Language Models](https://arxiv.org/abs/2611.11975v1) | 2611.11975v1 | 9 |
 | 2026-11-09 | [Pairwise distortion distribution for compression and quantization](https://arxiv.org/abs/2611.11967v1) | 2611.11967v1 | 7 |
 | 2026-11-09 | [Towards Trustworthy Mobile Speech Interaction: Ensuring Voice Authenticity and Transmission Integrity](https://arxiv.org/abs/2611.11777v1) | 2611.11777v1 | 9 |
+| 2026-11-09 | [F3-AGI v4.0: Bioenergetically-Gated Active Inference, Metaplastic Preconditioning, and Residual Program Synthesis for Sample-Efficient Abstract Reasoning](https://arxiv.org/abs/2611.13325v1) | 2611.13325v1 | 6 |
+| 2026-11-09 | [Adaptive Residual Quantization for Memory-Efficient Temporal Action Segmentation](https://arxiv.org/abs/2611.13262v1) | 2611.13262v1 | 6 |
+| 2026-11-09 | [MNN-Pocket-0.3B Technical Report](https://arxiv.org/abs/2611.12311v2) | 2611.12311v2 | 16 |
+| 2026-11-09 | [APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2611.13030v1) | 2611.13030v1 | 7 |
 | 2026-11-08 | [Language model capabilities fail in a shared, predictable order under compression and perturbation](https://arxiv.org/abs/2611.11695v1) | 2611.11695v1 | 12 |
 | 2026-11-08 | [Perturbing Inputs Improves Pretraining Distillation](https://arxiv.org/abs/2611.11598v1) | 2611.11598v1 | 12 |
 | 2026-11-08 | [UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression](https://arxiv.org/abs/2611.11562v1) | 2611.11562v1 | 6 |
@@ -49,6 +61,7 @@
 | 2026-11-08 | [When Calibration Data Matter in Sub-4-Bit Language Model Quantization](https://arxiv.org/abs/2611.11079v1) | 2611.11079v1 | 16 |
 | 2026-11-08 | [ADC-RANet: Improving Resolution Adaptive Neural Networks with Attention, Distillation and Calibration](https://arxiv.org/abs/2611.11076v1) | 2611.11076v1 | 8 |
 | 2026-11-08 | [NanoNet: Ultra-Lightweight Network for MRI Brain Tumor Classification toward Edge AI](https://arxiv.org/abs/2611.11071v1) | 2611.11071v1 | 23 |
+| 2026-11-08 | [RoCoMark: Robust Code Watermarking Against LLM-Based Functionality-Preserving Rewriting Attacks](https://arxiv.org/abs/2611.11399v2) | 2611.11399v2 | 7 |
 | 2026-11-07 | [Slim Foundation Models for Latency-Critical Recommendation Serving](https://arxiv.org/abs/2611.11013v1) | 2611.11013v1 | 6 |
 | 2026-11-07 | [Sensitivity-Gated Accumulator Caching for On-Device Learning of Low-Bit Hand Networks](https://arxiv.org/abs/2611.10991v1) | 2611.10991v1 | 9 |
 | 2026-11-07 | [Sparse Graph Neural Networks With Spectral Virtual Nodes for MIMO Detection](https://arxiv.org/abs/2611.10826v1) | 2611.10826v1 | 7 |

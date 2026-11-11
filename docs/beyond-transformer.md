@@ -37,6 +37,10 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-10 | [SinkState: On-the-Fly SVD of Recurrent States for Efficient Hybrid LLM Serving](https://arxiv.org/abs/2611.14246v1) | 2611.14246v1 | 13 |
+| 2026-11-10 | [SepsisFlow: an event-stream foundation model for continuous risk warning and trajectory modelling in ICU sepsis](https://arxiv.org/abs/2611.13661v1) | 2611.13661v1 | 6 |
+| 2026-11-10 | [Parallel Broyden Methods for Efficiently Evaluating Nonlinear State Space Models](https://arxiv.org/abs/2611.13523v1) | 2611.13523v1 | 6 |
+| 2026-11-10 | [Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation](https://arxiv.org/abs/2611.13514v1) | 2611.13514v1 | 10 |
 | 2026-11-09 | [Lost in Rounding: bf16 Recurrent State Makes Hybrid Reasoning Models Think Longer](https://arxiv.org/abs/2611.12127v1) | 2611.12127v1 | 11 |
 | 2026-11-09 | [MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG](https://arxiv.org/abs/2611.12026v1) | 2611.12026v1 | 15 |
 | 2026-11-08 | [Where Should a Gate Look? Input vs. State Gating in Diagonal State Space Models](https://arxiv.org/abs/2611.11336v1) | 2611.11336v1 | 8 |
