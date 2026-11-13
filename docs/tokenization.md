@@ -25,10 +25,19 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-12 | [Optimal Single-History Tokenization Disambiguation for Provably Secure Linguistic Steganography](https://arxiv.org/abs/2611.17091v1) | 2611.17091v1 | 8 |
+| 2026-11-12 | [EvenVLM: A Text and Multimodal Dataset for the Even Language with Vision-Language Fine-Tuning](https://arxiv.org/abs/2611.16500v1) | 2611.16500v1 | 12 |
+| 2026-11-11 | [Vocabulary-Free Next-Event Prediction on Temporal Graphs](https://arxiv.org/abs/2611.16063v1) | 2611.16063v1 | 7 |
+| 2026-11-11 | [ActionCodec2: A Streaming Action Tokenizer](https://arxiv.org/abs/2611.15490v1) | 2611.15490v1 | 8 |
+| 2026-11-11 | [MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models](https://arxiv.org/abs/2611.15315v1) | 2611.15315v1 | 6 |
+| 2026-11-11 | [Tokenization: Hardness and Bicriteria Approximation Algorithms](https://arxiv.org/abs/2611.15074v1) | 2611.15074v1 | 8 |
+| 2026-11-11 | [Speech Tokenizers are Vulnerable: Transferable Semantic Attack and Robust Tokenizer](https://arxiv.org/abs/2611.14929v1) | 2611.14929v1 | 6 |
 | 2026-11-10 | [ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models](https://arxiv.org/abs/2611.14035v1) | 2611.14035v1 | 7 |
 | 2026-11-10 | [Post-OCR Correction of Mixed-Script Uzbek Text: Byte-Level ByT5 with an Empirical Homoglyph Noise Matrix](https://arxiv.org/abs/2611.13609v1) | 2611.13609v1 | 6 |
 | 2026-11-10 | [One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data](https://arxiv.org/abs/2611.13607v1) | 2611.13607v1 | 16 |
 | 2026-11-10 | [Inherited Weights: Measuring the Tokenization Premium and the Sovereignty Cost of Language Models for the Global South](https://arxiv.org/abs/2611.13441v1) | 2611.13441v1 | 12 |
+| 2026-11-10 | [What Do Tokenizer Comparisons Measure? Disentangling Granularity, Root Assignment, and Word-Level Readout across Amharic and Hausa](https://arxiv.org/abs/2611.14818v1) | 2611.14818v1 | 8 |
+| 2026-11-10 | [One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data](https://arxiv.org/abs/2611.13607v2) | 2611.13607v2 | 16 |
 | 2026-11-09 | [Adapting Small Language Models to Romanized Nepali: Tokenizer Fertility, Reference Likelihood, and Generation Metrics](https://arxiv.org/abs/2611.12628v1) | 2611.12628v1 | 6 |
 | 2026-11-09 | [Phrase-Level Speculative Decoding on a Frozen Target](https://arxiv.org/abs/2611.12464v1) | 2611.12464v1 | 8 |
 | 2026-11-09 | [dNaViT: Discrete Codes are General-Purpose Visual Representations](https://arxiv.org/abs/2611.12426v1) | 2611.12426v1 | 6 |
@@ -75,6 +84,7 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 | 2026-10-24 | [Patch-Derived or Register Tokens? Comparing Variable-Length Image Tokenizers](https://arxiv.org/abs/2610.33540v1) | 2610.33540v1 | 9 |
 | 2026-10-24 | [A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Post-Training Alignment](https://arxiv.org/abs/2610.33451v1) | 2610.33451v1 | 10 |
 | 2026-10-24 | [TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens](https://arxiv.org/abs/2610.33857v3) | 2610.33857v3 | 12 |
+| 2026-10-24 | [TrackTok: Semantically Persistent Tokens for Latent Video Generation](https://arxiv.org/abs/2610.33857v4) | 2610.33857v4 | 10 |
 | 2026-10-23 | [Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora](https://arxiv.org/abs/2610.32921v1) | 2610.32921v1 | 12 |
 | 2026-10-23 | [EMG Tokenization Preserves Movement Information at a Fraction of the Bitrate](https://arxiv.org/abs/2610.32674v1) | 2610.32674v1 | 10 |
 | 2026-10-23 | [AgentTrace: Execution-Level Fingerprinting of Black-Box LLM Agents](https://arxiv.org/abs/2610.32092v1) | 2610.32092v1 | 8 |

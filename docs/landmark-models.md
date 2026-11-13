@@ -30,6 +30,8 @@ GQA 靠 Llama 2/3，MLA 靠 DeepSeek-V3。这条赛道收录定义时代的模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-12 | [Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors](https://arxiv.org/abs/2611.17060v1) | 2611.17060v1 | 8 |
+| 2026-11-12 | [A scaling law for numerical computation of fracture stress intensity factors](https://arxiv.org/abs/2611.16850v1) | 2611.16850v1 | 7 |
 | 2026-11-10 | [Emergent Biological Capabilities in a Foundation Model for Molecular Interactions](https://arxiv.org/abs/2611.14504v1) | 2611.14504v1 | 13 |
 | 2026-11-04 | [Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](https://arxiv.org/abs/2611.06817v2) | 2611.06817v2 | 14 |
 | 2026-11-04 | [Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](https://arxiv.org/abs/2611.06817v3) | 2611.06817v3 | 14 |

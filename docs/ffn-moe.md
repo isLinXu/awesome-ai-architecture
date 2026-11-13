@@ -30,6 +30,9 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-12 | [PolicySniff: Inferring Agent Policy States through Shared-GPU Execution](https://arxiv.org/abs/2611.16158v1) | 2611.16158v1 | 8 |
+| 2026-11-11 | [Fewer Expert Transfers Without Changing Routing: Expert Eviction for MoE Offloading](https://arxiv.org/abs/2611.15842v1) | 2611.15842v1 | 6 |
+| 2026-11-11 | [MoE Pretraining:Parallelism Layout Changes the Model, Not Quality](https://arxiv.org/abs/2611.15271v1) | 2611.15271v1 | 10 |
 | 2026-11-10 | [Understanding Mixture-of-Experts Language Models Beyond Expert Boundaries](https://arxiv.org/abs/2611.13975v1) | 2611.13975v1 | 6 |
 | 2026-11-09 | [Prune, Don't Merge: Expert Compression of Mixture-of-Experts LLMs on Multilingual Production Tasks](https://arxiv.org/abs/2611.12240v1) | 2611.12240v1 | 6 |
 | 2026-11-09 | [DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving](https://arxiv.org/abs/2611.11856v1) | 2611.11856v1 | 8 |
@@ -64,6 +67,7 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 | 2026-11-02 | [VioTech: Frame-Level Violin Playing Technique Detection with Multi-Scale Mixture-of-Experts](https://arxiv.org/abs/2611.02680v1) | 2611.02680v1 | 6 |
 | 2026-11-02 | [MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking](https://arxiv.org/abs/2611.02613v1) | 2611.02613v1 | 6 |
 | 2026-11-02 | [VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts](https://arxiv.org/abs/2611.03043v2) | 2611.03043v2 | 11 |
+| 2026-11-02 | [VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts](https://arxiv.org/abs/2611.03043v3) | 2611.03043v3 | 11 |
 | 2026-11-01 | [MatMoE: Matryoshka Mixture-of-Experts with Dynamic Mixed-Precision Quantization for Efficient Inference](https://arxiv.org/abs/2611.01704v1) | 2611.01704v1 | 6 |
 | 2026-11-01 | [When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts](https://arxiv.org/abs/2611.01602v1) | 2611.01602v1 | 6 |
 | 2026-10-30 | [PRISM-Net: Dynamic Routing Network with VLM-Guided Disentangled Attribute Distillation for Explainable Fine-Grained Product Retrieval](https://arxiv.org/abs/2611.00458v1) | 2611.00458v1 | 0 |

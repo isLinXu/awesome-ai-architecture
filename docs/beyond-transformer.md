@@ -37,6 +37,11 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-12 | [Symmetry in Time: A Representation Theory of Linear Recurrent Memory](https://arxiv.org/abs/2611.17162v1) | 2611.17162v1 | 8 |
+| 2026-11-12 | [Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences](https://arxiv.org/abs/2611.16934v1) | 2611.16934v1 | 6 |
+| 2026-11-12 | [Climate Temporal Temperature Prediction via an Adaptive Stacked Bidirectional Residual Mamba Network](https://arxiv.org/abs/2611.16322v1) | 2611.16322v1 | 12 |
+| 2026-11-11 | [SCR-Mamba: Skeleton-conditioned Mamba with cross-scale incremental refinement for efficient 3D human pose estimation](https://arxiv.org/abs/2611.15526v1) | 2611.15526v1 | 6 |
+| 2026-11-11 | [The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals](https://arxiv.org/abs/2611.14955v1) | 2611.14955v1 | 6 |
 | 2026-11-10 | [SinkState: On-the-Fly SVD of Recurrent States for Efficient Hybrid LLM Serving](https://arxiv.org/abs/2611.14246v1) | 2611.14246v1 | 13 |
 | 2026-11-10 | [SepsisFlow: an event-stream foundation model for continuous risk warning and trajectory modelling in ICU sepsis](https://arxiv.org/abs/2611.13661v1) | 2611.13661v1 | 6 |
 | 2026-11-10 | [Parallel Broyden Methods for Efficiently Evaluating Nonlinear State Space Models](https://arxiv.org/abs/2611.13523v1) | 2611.13523v1 | 6 |

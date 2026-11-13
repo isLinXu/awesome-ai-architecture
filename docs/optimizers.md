@@ -29,9 +29,21 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-12 | [Factored One-sided Adam-Moment for Practical and Scalable SOAP](https://arxiv.org/abs/2611.16905v1) | 2611.16905v1 | 17 |
+| 2026-11-12 | [Natural Gradient Learning in Predictive Coding through Lateral Circuits](https://arxiv.org/abs/2611.16666v1) | 2611.16666v1 | 9 |
+| 2026-11-12 | [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://arxiv.org/abs/2611.16560v1) | 2611.16560v1 | 7 |
+| 2026-11-12 | [SS-HSDP: Efficient and Flexible Sharded Data Parallelism via Runtime-Update Decoupling](https://arxiv.org/abs/2611.16467v1) | 2611.16467v1 | 8 |
+| 2026-11-12 | [SoScale: Second-Order Scale Search for FP4 Quantization](https://arxiv.org/abs/2611.16426v1) | 2611.16426v1 | 6 |
+| 2026-11-11 | [Machine learning and high accuracy: Neural preconditioners for computational gravity](https://arxiv.org/abs/2611.16106v1) | 2611.16106v1 | 7 |
+| 2026-11-11 | [Characterizing the Edge of Stability in Variational Training Without Priors](https://arxiv.org/abs/2611.15990v1) | 2611.15990v1 | 7 |
+| 2026-11-11 | [Optimal higher order convergence rates for the MUON optimizer](https://arxiv.org/abs/2611.15825v1) | 2611.15825v1 | 16 |
+| 2026-11-11 | [Learning Rate Transfer and Feature Learning Across Depth for Constrained Spectral Optimizers: Complete Scion](https://arxiv.org/abs/2611.15291v1) | 2611.15291v1 | 11 |
+| 2026-11-11 | [Probe-Based Routing for Join Optimizer Selection](https://arxiv.org/abs/2611.15263v1) | 2611.15263v1 | 6 |
 | 2026-11-10 | [Weak Quasi-Convexity: First- and Second-Order Conditions, Monotonicity, and Quadratic Functions](https://arxiv.org/abs/2611.13878v1) | 2611.13878v1 | 7 |
 | 2026-11-10 | [Exact (Non-)Accelerations of Heavy-Ball Discretizations](https://arxiv.org/abs/2611.13584v1) | 2611.13584v1 | 7 |
 | 2026-11-10 | [Closing the BF16-FP16 Convergence Speed Gap in RL Post-Training with Stochastic Rounding](https://arxiv.org/abs/2611.13545v1) | 2611.13545v1 | 7 |
+| 2026-11-10 | [Discrete total variation under the multinomial, Part 5: cyclic total variation](https://arxiv.org/abs/2611.14735v1) | 2611.14735v1 | 8 |
+| 2026-11-10 | [CAFIN: CUDA-accelerated Adaptive Fisher Information Matrix Network Optimization via GPU-Native Kernel Fusion](https://arxiv.org/abs/2611.14589v1) | 2611.14589v1 | 18 |
 | 2026-11-09 | [Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers](https://arxiv.org/abs/2611.12317v1) | 2611.12317v1 | 6 |
 | 2026-11-09 | [On the Global Convergence of Stochastic Adam for Physics-Informed Neural Networks](https://arxiv.org/abs/2611.11905v1) | 2611.11905v1 | 12 |
 | 2026-11-09 | [Byzantine-Robust Muon: Resilient Momentum Orthogonalization for Distributed Learning](https://arxiv.org/abs/2611.13137v1) | 2611.13137v1 | 14 |
@@ -51,6 +63,7 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 | 2026-11-06 | [DisMUSE: An Efficient Distributed Singular-Spectrum-Based Optimization Approach with Theoretical Convergence Guarantee](https://arxiv.org/abs/2611.10212v1) | 2611.10212v1 | 12 |
 | 2026-11-06 | [BiMuon: A Geometry-Aware Stochastic Bilevel Optimization Approach](https://arxiv.org/abs/2611.10188v1) | 2611.10188v1 | 7 |
 | 2026-11-06 | [Quantum Natural Muon: Spectral-Natural Optimization for Variational Quantum Circuits](https://arxiv.org/abs/2611.10105v1) | 2611.10105v1 | 7 |
+| 2026-11-06 | [BiMuon: A Geometry-Aware Stochastic Bilevel Optimization Approach](https://arxiv.org/abs/2611.10188v2) | 2611.10188v2 | 7 |
 | 2026-11-05 | [Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning](https://arxiv.org/abs/2611.08414v1) | 2611.08414v1 | 7 |
 | 2026-11-05 | [Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379v1) | 2611.08379v1 | 8 |
 | 2026-11-05 | [Second-order geometric consistency of nonlinear FE-HMM on surfaces via corrector non-degeneracy](https://arxiv.org/abs/2611.07761v1) | 2611.07761v1 | 8 |

@@ -28,6 +28,29 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-12 | [Two mathematical models of knowledge distillation](https://arxiv.org/abs/2611.17230v1) | 2611.17230v1 | 10 |
+| 2026-11-12 | [Theoretical and Empirical Analysis of Sparse Convolution](https://arxiv.org/abs/2611.17212v1) | 2611.17212v1 | 10 |
+| 2026-11-12 | [Reentrant Nematicity from Landau Quantization near a Pomeranchuk Instability](https://arxiv.org/abs/2611.17150v1) | 2611.17150v1 | 6 |
+| 2026-11-12 | [PISim: A Unified Photonic Inference Simulator for Hardware-Aware Cross-Layer Design-Space Exploration](https://arxiv.org/abs/2611.16522v1) | 2611.16522v1 | 7 |
+| 2026-11-12 | [Authenticated Approximate Nearest Neighbor Search in Outsourced Vector Databases](https://arxiv.org/abs/2611.16516v1) | 2611.16516v1 | 8 |
+| 2026-11-12 | [SignRot: LLM Quantization with Massive Outlier-Aware Sign-Adjusted Rotation](https://arxiv.org/abs/2611.16502v1) | 2611.16502v1 | 6 |
+| 2026-11-12 | [One Model, Two Precisions: Does Disagreement Between Quantized Copies Tell You When a Small Model Is Wrong?](https://arxiv.org/abs/2611.16478v1) | 2611.16478v1 | 9 |
+| 2026-11-12 | [DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models](https://arxiv.org/abs/2611.16345v1) | 2611.16345v1 | 6 |
+| 2026-11-12 | [Quantization of Betti Mapping Stacks](https://arxiv.org/abs/2611.16137v1) | 2611.16137v1 | 6 |
+| 2026-11-11 | [The Noise Floor of a Quantization Comparison: Engine, restart, batch and kernel drift, measured against 8-bit and 4-bit effects in two decision models](https://arxiv.org/abs/2611.15671v1) | 2611.15671v1 | 20 |
+| 2026-11-11 | [Orthogonal Code-Based Parallel Signaling for PLCA in Shared-Medium Ethernet](https://arxiv.org/abs/2611.15577v1) | 2611.15577v1 | 6 |
+| 2026-11-11 | [JEV-VAD: Efficient Semantic Endpointing via Task-First Conditioning and Decoder-Prefix Pruning](https://arxiv.org/abs/2611.15362v1) | 2611.15362v1 | 6 |
+| 2026-11-11 | [Multimodal Semantic Communication using Shared and Unique Representation Decomposition](https://arxiv.org/abs/2611.15357v1) | 2611.15357v1 | 7 |
+| 2026-11-11 | [Quantization Breaks Classical Mpemba Constraints](https://arxiv.org/abs/2611.15349v1) | 2611.15349v1 | 6 |
+| 2026-11-11 | [Communication-Efficient Federated Multi-View Clustering via View-Aware Quantization](https://arxiv.org/abs/2611.15270v1) | 2611.15270v1 | 6 |
+| 2026-11-11 | [Sub-100KB On-Device CNN Training via Dynamic Sparse Updates and Hardware--Software Co-Design](https://arxiv.org/abs/2611.15236v1) | 2611.15236v1 | 8 |
+| 2026-11-11 | [TQIR: Trellis Quantization with Integer Reconstruction for Bandwidth-Efficient Edge LLM Acceleration](https://arxiv.org/abs/2611.15231v1) | 2611.15231v1 | 16 |
+| 2026-11-11 | [Serving-Aligned Entire-Space Conversion Modeling via Click-Through Rate Knowledge Distillation](https://arxiv.org/abs/2611.15137v1) | 2611.15137v1 | 10 |
+| 2026-11-11 | [Bit-Sparsity Aware Acceleration with Compact CSD Code on Generic Matrix Multiplication](https://arxiv.org/abs/2611.15136v1) | 2611.15136v1 | 8 |
+| 2026-11-11 | [Structure-Aware Quantum Circuit Equivalence Checking via Sparse Pauli Propagation](https://arxiv.org/abs/2611.15080v1) | 2611.15080v1 | 7 |
+| 2026-11-11 | [DiFiT: Distribution-Fidelity-guided Visual Token Pruning for Multimodal Large Language Models](https://arxiv.org/abs/2611.15069v1) | 2611.15069v1 | 9 |
+| 2026-11-11 | [Hijacking a Trusted LLM in Real-World Quantized Deployments Only Requires a Disguised Adapter](https://arxiv.org/abs/2611.14978v1) | 2611.14978v1 | 9 |
+| 2026-11-11 | [Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs](https://arxiv.org/abs/2611.14924v1) | 2611.14924v1 | 18 |
 | 2026-11-10 | [Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model](https://arxiv.org/abs/2611.14418v1) | 2611.14418v1 | 8 |
 | 2026-11-10 | [Joint Quantization and Dynamic Partitioning for Context-Aware Edge Vision Transformers](https://arxiv.org/abs/2611.14196v1) | 2611.14196v1 | 11 |
 | 2026-11-10 | [Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals](https://arxiv.org/abs/2611.14066v1) | 2611.14066v1 | 7 |
@@ -36,6 +59,8 @@
 | 2026-11-10 | [Joint Activation and Weight Quantization for Learned Image Compression](https://arxiv.org/abs/2611.13707v1) | 2611.13707v1 | 12 |
 | 2026-11-10 | [Residual-Closed-Loop SAGE-Brent Estimation for Unknown-Order Wideband Underwater Acoustic Channels](https://arxiv.org/abs/2611.13699v1) | 2611.13699v1 | 6 |
 | 2026-11-10 | [SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](https://arxiv.org/abs/2611.13410v1) | 2611.13410v1 | 7 |
+| 2026-11-10 | [Performance Analysis of Quantization-Aware Neural Channel Estimation with Low-Precision Inference](https://arxiv.org/abs/2611.14757v1) | 2611.14757v1 | 17 |
+| 2026-11-10 | [An Asynchronous Federated Learning Platform for Lung Adenocarcinoma Grading via Foundation Models and Structural Pruning](https://arxiv.org/abs/2611.14590v1) | 2611.14590v1 | 6 |
 | 2026-11-09 | [Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](https://arxiv.org/abs/2611.12878v1) | 2611.12878v1 | 6 |
 | 2026-11-09 | [What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts](https://arxiv.org/abs/2611.12832v1) | 2611.12832v1 | 8 |
 | 2026-11-09 | [Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense](https://arxiv.org/abs/2611.12807v1) | 2611.12807v1 | 10 |
@@ -48,6 +73,7 @@
 | 2026-11-09 | [Adaptive Residual Quantization for Memory-Efficient Temporal Action Segmentation](https://arxiv.org/abs/2611.13262v1) | 2611.13262v1 | 6 |
 | 2026-11-09 | [MNN-Pocket-0.3B Technical Report](https://arxiv.org/abs/2611.12311v2) | 2611.12311v2 | 16 |
 | 2026-11-09 | [APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2611.13030v1) | 2611.13030v1 | 7 |
+| 2026-11-09 | [AutoQS: Automated Quantization Strategy Design with Large Language Models](https://arxiv.org/abs/2611.11975v2) | 2611.11975v2 | 9 |
 | 2026-11-08 | [Language model capabilities fail in a shared, predictable order under compression and perturbation](https://arxiv.org/abs/2611.11695v1) | 2611.11695v1 | 12 |
 | 2026-11-08 | [Perturbing Inputs Improves Pretraining Distillation](https://arxiv.org/abs/2611.11598v1) | 2611.11598v1 | 12 |
 | 2026-11-08 | [UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression](https://arxiv.org/abs/2611.11562v1) | 2611.11562v1 | 6 |
@@ -69,6 +95,7 @@
 | 2026-11-07 | [Heterogeneous Asymmetric Contrastive Distillation](https://arxiv.org/abs/2611.10672v1) | 2611.10672v1 | 8 |
 | 2026-11-07 | [MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://arxiv.org/abs/2611.10649v1) | 2611.10649v1 | 10 |
 | 2026-11-07 | [Pruning DNA Sequence](https://arxiv.org/abs/2611.10386v1) | 2611.10386v1 | 6 |
+| 2026-11-07 | [MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://arxiv.org/abs/2611.10649v2) | 2611.10649v2 | 10 |
 | 2026-11-06 | [BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](https://arxiv.org/abs/2611.09825v1) | 2611.09825v1 | 8 |
 | 2026-11-06 | [FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding](https://arxiv.org/abs/2611.09722v1) | 2611.09722v1 | 14 |
 | 2026-11-06 | [CucumberVision at the Edge: Accuracy, Throughput, and Energy of RGB-D Cucumber Sizing on Jetson Orin Nano and Raspberry Pi 4](https://arxiv.org/abs/2611.09490v1) | 2611.09490v1 | 9 |
@@ -79,6 +106,7 @@
 | 2026-11-06 | [AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement](https://arxiv.org/abs/2611.10165v1) | 2611.10165v1 | 6 |
 | 2026-11-06 | [Coordinated Mixed-Precision KV Cache Quantization for Efficient LLM-based Multi-agent Systems](https://arxiv.org/abs/2611.10096v1) | 2611.10096v1 | 11 |
 | 2026-11-06 | [MINE: Entropy-coded Memory-efficient Inference for Large Language Models](https://arxiv.org/abs/2611.09424v2) | 2611.09424v2 | 6 |
+| 2026-11-06 | [ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2611.08827v2) | 2611.08827v2 | 6 |
 | 2026-11-05 | [Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems](https://arxiv.org/abs/2611.08461v1) | 2611.08461v1 | 12 |
 | 2026-11-05 | [StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference](https://arxiv.org/abs/2611.08363v1) | 2611.08363v1 | 12 |
 | 2026-11-05 | [Enhancing Local and Global Structure in Compressed AI Agent Memory](https://arxiv.org/abs/2611.08341v1) | 2611.08341v1 | 10 |
@@ -251,6 +279,7 @@
 | 2026-10-27 | [Measuring Users' Security and Privacy Concerns About Third-Party Community Bots on Discord](https://arxiv.org/abs/2610.36626v1) | 2610.36626v1 | 7 |
 | 2026-10-27 | [From Solver Trajectories to Teaching Trajectories: Cognition-Aligned Reasoning Distillation](https://arxiv.org/abs/2610.36445v1) | 2610.36445v1 | 8 |
 | 2026-10-27 | [Dynamic Merging Mutually-Distilled Multi-View Networks for RGB-Event-based Representation Learning](https://arxiv.org/abs/2611.00107v2) | 2611.00107v2 | 8 |
+| 2026-10-27 | [metalSPARSE: A 2:4 Semi-Structured Sparse GEMV Kernel for Apple Silicon GPUs](https://arxiv.org/abs/2611.14545v1) | 2611.14545v1 | 8 |
 | 2026-10-26 | [CrowdCC: Jointly Benchmarking Corruption Robustness and Deployment Quantization in Crowd Counting](https://arxiv.org/abs/2610.36340v2) | 2610.36340v2 | 12 |
 | 2026-10-26 | [Training-Free Inference Acceleration for Video Large Language Models: Methods, Trade-offs, and Evaluation](https://arxiv.org/abs/2610.36327v1) | 2610.36327v1 | 8 |
 | 2026-10-26 | [Preserving rare-item recall under a storage budget: quantization, distillation, and the limits of teacher fidelity](https://arxiv.org/abs/2610.36267v1) | 2610.36267v1 | 18 |
@@ -431,6 +460,7 @@
 | 2026-10-14 | [PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference](https://arxiv.org/abs/2610.19605v1) | 2610.19605v1 | 6 |
 | 2026-10-14 | [PA1-OPD: One-Step Prefix-Augmented On-Policy Distillation for Language Model Pretraining](https://arxiv.org/abs/2610.19601v1) | 2610.19601v1 | 8 |
 | 2026-10-14 | [Bridging the Topological Divide: Dual-Branch Graph Distillation with Semantic Priors for Robust Cold-Start Recommendation](https://arxiv.org/abs/2610.19578v1) | 2610.19578v1 | 8 |
+| 2026-10-14 | [Analyzing and Mitigating Poisoning Attacks on Flow-Based Intrusion Detection](https://arxiv.org/abs/2610.19766v2) | 2610.19766v2 | 6 |
 | 2026-10-13 | [Adaptive Computation with Conformal Certification](https://arxiv.org/abs/2610.19189v1) | 2610.19189v1 | 10 |
 | 2026-10-13 | [Demystifying On-Policy Distillation: Where Does the Teacher's Advantage Live?](https://arxiv.org/abs/2610.19145v1) | 2610.19145v1 | 8 |
 | 2026-10-13 | [Unlocking Structured Pruning for Reasoning Language Models via Attention-Preserving MLP Trimming](https://arxiv.org/abs/2610.19121v1) | 2610.19121v1 | 7 |
