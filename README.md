@@ -16,9 +16,9 @@
 
 | 收录论文 | 近 7 天新论文 | 赛道数 |
 | --: | --: | --: |
-| <!--STATS:papers-->20817<!--/STATS:papers--> 篇 | <!--STATS:papers_new-->+195<!--/STATS:papers_new--> | 11 条 |
+| <!--STATS:papers-->20817<!--/STATS:papers--> 篇 | <!--STATS:papers_new-->+163<!--/STATS:papers_new--> | 11 条 |
 
-> 最后自动更新：<!--STATS:updated-->2026-11-13<!--/STATS:updated-->
+> 最后自动更新：<!--STATS:updated-->2026-11-14<!--/STATS:updated-->
 
 ---
 
