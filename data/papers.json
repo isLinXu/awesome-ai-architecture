@@ -123895,6 +123895,144 @@
       "category": "compression",
       "published": "2026-10-14",
       "score": 6
+    },
+    "2611.17930v1": {
+      "title": "Token2Tile: Token-Wise Sparse Attention with Tile Execution through a Low-Rank Space for Video DiTs",
+      "category": "efficient-attention",
+      "published": "2026-11-13",
+      "score": 6
+    },
+    "2611.18417v1": {
+      "title": "CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning",
+      "category": "ffn-moe",
+      "published": "2026-11-13",
+      "score": 6
+    },
+    "2611.17857v1": {
+      "title": "Fuse-All MoE Inference Kernel with Load Balancing on TPUs",
+      "category": "ffn-moe",
+      "published": "2026-11-13",
+      "score": 10
+    },
+    "2611.17472v1": {
+      "title": "Do Mixture-of-Experts Routers Benefit from Ensembling?",
+      "category": "ffn-moe",
+      "published": "2026-11-12",
+      "score": 9
+    },
+    "2611.18422v1": {
+      "title": "The State Is Not the Bottleneck: A Paged-State Gated-DeltaNet Tile on a Tri-Mode Multicast Mesh, Bit-Exact from RTL to Silicon",
+      "category": "beyond-transformer",
+      "published": "2026-11-13",
+      "score": 6
+    },
+    "2611.16934v2": {
+      "title": "Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences",
+      "category": "beyond-transformer",
+      "published": "2026-11-12",
+      "score": 6
+    },
+    "2611.15315v2": {
+      "title": "MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models",
+      "category": "tokenization",
+      "published": "2026-11-11",
+      "score": 6
+    },
+    "2611.18124v1": {
+      "title": "Muon Attains $\\mathcal{O}(\\varepsilon^{-3})$ Iteration Complexity under Shuffling",
+      "category": "optimizers",
+      "published": "2026-11-13",
+      "score": 14
+    },
+    "2611.18082v1": {
+      "title": "Hybrid Krotov gradient descent Optimization for Quantum Machine Learning",
+      "category": "optimizers",
+      "published": "2026-11-13",
+      "score": 6
+    },
+    "2611.17876v1": {
+      "title": "Delayed Effects of Temporary Weight Decay in Muon Pretraining",
+      "category": "optimizers",
+      "published": "2026-11-13",
+      "score": 10
+    },
+    "2611.17630v1": {
+      "title": "A mesh-free deep energy method for phase-field modeling of thermally driven brittle fracture",
+      "category": "optimizers",
+      "published": "2026-11-13",
+      "score": 6
+    },
+    "2611.01929v2": {
+      "title": "Watch Your Step: Adam's Margin Maximization Bias Depends on the Learning Rate Schedule",
+      "category": "optimizers",
+      "published": "2026-11-01",
+      "score": 9
+    },
+    "2611.18539v1": {
+      "title": "Geometric Quantization of the Giant Graviton Master Moduli Space",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 6
+    },
+    "2611.18511v1": {
+      "title": "On numerical issues of divergences between nearly equal distributions",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 7
+    },
+    "2611.18239v1": {
+      "title": "Neural Classifiers as Error-Correcting Codes",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 11
+    },
+    "2611.18113v1": {
+      "title": "Folding Language Models into Themselves",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 7
+    },
+    "2611.17817v1": {
+      "title": "Quantum Shock and Train-Time Constrained Quantization: A Geometric Study of Finite-Resolution Variational Quantum Circuits",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 9
+    },
+    "2611.17785v1": {
+      "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 9
+    },
+    "2611.17772v1": {
+      "title": "Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 9
+    },
+    "2611.17770v1": {
+      "title": "Bridge: Database-Grounded Interactive Disambiguation for Text-to-SQL",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 7
+    },
+    "2611.17547v1": {
+      "title": "Uncertainty-Aware Continual Learning for 2D XRD Interpretation Using Simulated and Experimental Data",
+      "category": "compression",
+      "published": "2026-11-12",
+      "score": 8
+    },
+    "2611.17501v1": {
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "category": "compression",
+      "published": "2026-11-12",
+      "score": 7
+    },
+    "2611.17150v2": {
+      "title": "Reentrant Nematicity from Landau Quantization near a Pomeranchuk Instability",
+      "category": "compression",
+      "published": "2026-11-12",
+      "score": 6
     }
   }
 }

@@ -28,6 +28,14 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-13 | [Geometric Quantization of the Giant Graviton Master Moduli Space](https://arxiv.org/abs/2611.18539v1) | 2611.18539v1 | 6 |
+| 2026-11-13 | [On numerical issues of divergences between nearly equal distributions](https://arxiv.org/abs/2611.18511v1) | 2611.18511v1 | 7 |
+| 2026-11-13 | [Neural Classifiers as Error-Correcting Codes](https://arxiv.org/abs/2611.18239v1) | 2611.18239v1 | 11 |
+| 2026-11-13 | [Folding Language Models into Themselves](https://arxiv.org/abs/2611.18113v1) | 2611.18113v1 | 7 |
+| 2026-11-13 | [Quantum Shock and Train-Time Constrained Quantization: A Geometric Study of Finite-Resolution Variational Quantum Circuits](https://arxiv.org/abs/2611.17817v1) | 2611.17817v1 | 9 |
+| 2026-11-13 | [CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation](https://arxiv.org/abs/2611.17785v1) | 2611.17785v1 | 9 |
+| 2026-11-13 | [Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption](https://arxiv.org/abs/2611.17772v1) | 2611.17772v1 | 9 |
+| 2026-11-13 | [Bridge: Database-Grounded Interactive Disambiguation for Text-to-SQL](https://arxiv.org/abs/2611.17770v1) | 2611.17770v1 | 7 |
 | 2026-11-12 | [Two mathematical models of knowledge distillation](https://arxiv.org/abs/2611.17230v1) | 2611.17230v1 | 10 |
 | 2026-11-12 | [Theoretical and Empirical Analysis of Sparse Convolution](https://arxiv.org/abs/2611.17212v1) | 2611.17212v1 | 10 |
 | 2026-11-12 | [Reentrant Nematicity from Landau Quantization near a Pomeranchuk Instability](https://arxiv.org/abs/2611.17150v1) | 2611.17150v1 | 6 |
@@ -37,6 +45,9 @@
 | 2026-11-12 | [One Model, Two Precisions: Does Disagreement Between Quantized Copies Tell You When a Small Model Is Wrong?](https://arxiv.org/abs/2611.16478v1) | 2611.16478v1 | 9 |
 | 2026-11-12 | [DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models](https://arxiv.org/abs/2611.16345v1) | 2611.16345v1 | 6 |
 | 2026-11-12 | [Quantization of Betti Mapping Stacks](https://arxiv.org/abs/2611.16137v1) | 2611.16137v1 | 6 |
+| 2026-11-12 | [Uncertainty-Aware Continual Learning for 2D XRD Interpretation Using Simulated and Experimental Data](https://arxiv.org/abs/2611.17547v1) | 2611.17547v1 | 8 |
+| 2026-11-12 | [Advancing Quantization for R&R Models with Microscaling Formats](https://arxiv.org/abs/2611.17501v1) | 2611.17501v1 | 7 |
+| 2026-11-12 | [Reentrant Nematicity from Landau Quantization near a Pomeranchuk Instability](https://arxiv.org/abs/2611.17150v2) | 2611.17150v2 | 6 |
 | 2026-11-11 | [The Noise Floor of a Quantization Comparison: Engine, restart, batch and kernel drift, measured against 8-bit and 4-bit effects in two decision models](https://arxiv.org/abs/2611.15671v1) | 2611.15671v1 | 20 |
 | 2026-11-11 | [Orthogonal Code-Based Parallel Signaling for PLCA in Shared-Medium Ethernet](https://arxiv.org/abs/2611.15577v1) | 2611.15577v1 | 6 |
 | 2026-11-11 | [JEV-VAD: Efficient Semantic Endpointing via Task-First Conditioning and Decoder-Prefix Pruning](https://arxiv.org/abs/2611.15362v1) | 2611.15362v1 | 6 |

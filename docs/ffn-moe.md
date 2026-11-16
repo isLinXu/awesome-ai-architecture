@@ -30,7 +30,10 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-13 | [CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2611.18417v1) | 2611.18417v1 | 6 |
+| 2026-11-13 | [Fuse-All MoE Inference Kernel with Load Balancing on TPUs](https://arxiv.org/abs/2611.17857v1) | 2611.17857v1 | 10 |
 | 2026-11-12 | [PolicySniff: Inferring Agent Policy States through Shared-GPU Execution](https://arxiv.org/abs/2611.16158v1) | 2611.16158v1 | 8 |
+| 2026-11-12 | [Do Mixture-of-Experts Routers Benefit from Ensembling?](https://arxiv.org/abs/2611.17472v1) | 2611.17472v1 | 9 |
 | 2026-11-11 | [Fewer Expert Transfers Without Changing Routing: Expert Eviction for MoE Offloading](https://arxiv.org/abs/2611.15842v1) | 2611.15842v1 | 6 |
 | 2026-11-11 | [MoE Pretraining:Parallelism Layout Changes the Model, Not Quality](https://arxiv.org/abs/2611.15271v1) | 2611.15271v1 | 10 |
 | 2026-11-10 | [Understanding Mixture-of-Experts Language Models Beyond Expert Boundaries](https://arxiv.org/abs/2611.13975v1) | 2611.13975v1 | 6 |

@@ -32,6 +32,7 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 | 2026-11-11 | [MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models](https://arxiv.org/abs/2611.15315v1) | 2611.15315v1 | 6 |
 | 2026-11-11 | [Tokenization: Hardness and Bicriteria Approximation Algorithms](https://arxiv.org/abs/2611.15074v1) | 2611.15074v1 | 8 |
 | 2026-11-11 | [Speech Tokenizers are Vulnerable: Transferable Semantic Attack and Robust Tokenizer](https://arxiv.org/abs/2611.14929v1) | 2611.14929v1 | 6 |
+| 2026-11-11 | [MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models](https://arxiv.org/abs/2611.15315v2) | 2611.15315v2 | 6 |
 | 2026-11-10 | [ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models](https://arxiv.org/abs/2611.14035v1) | 2611.14035v1 | 7 |
 | 2026-11-10 | [Post-OCR Correction of Mixed-Script Uzbek Text: Byte-Level ByT5 with an Empirical Homoglyph Noise Matrix](https://arxiv.org/abs/2611.13609v1) | 2611.13609v1 | 6 |
 | 2026-11-10 | [One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data](https://arxiv.org/abs/2611.13607v1) | 2611.13607v1 | 16 |

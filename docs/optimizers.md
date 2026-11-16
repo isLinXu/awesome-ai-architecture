@@ -29,6 +29,10 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-13 | [Muon Attains $\mathcal{O}(\varepsilon^{-3})$ Iteration Complexity under Shuffling](https://arxiv.org/abs/2611.18124v1) | 2611.18124v1 | 14 |
+| 2026-11-13 | [Hybrid Krotov gradient descent Optimization for Quantum Machine Learning](https://arxiv.org/abs/2611.18082v1) | 2611.18082v1 | 6 |
+| 2026-11-13 | [Delayed Effects of Temporary Weight Decay in Muon Pretraining](https://arxiv.org/abs/2611.17876v1) | 2611.17876v1 | 10 |
+| 2026-11-13 | [A mesh-free deep energy method for phase-field modeling of thermally driven brittle fracture](https://arxiv.org/abs/2611.17630v1) | 2611.17630v1 | 6 |
 | 2026-11-12 | [Factored One-sided Adam-Moment for Practical and Scalable SOAP](https://arxiv.org/abs/2611.16905v1) | 2611.16905v1 | 17 |
 | 2026-11-12 | [Natural Gradient Learning in Predictive Coding through Lateral Circuits](https://arxiv.org/abs/2611.16666v1) | 2611.16666v1 | 9 |
 | 2026-11-12 | [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://arxiv.org/abs/2611.16560v1) | 2611.16560v1 | 7 |
@@ -81,6 +85,7 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 | 2026-11-02 | [Tune the Baseline First: Most of Muon's Scaled Weight Decay Gain Is a Tuning Gap, but Its Small Real Advantage Grows With Model Size](https://arxiv.org/abs/2611.02529v1) | 2611.02529v1 | 9 |
 | 2026-11-01 | [Watch Your Step: Adam's Margin Maximization Bias Depends on the Learning Rate Schedule](https://arxiv.org/abs/2611.01929v1) | 2611.01929v1 | 9 |
 | 2026-11-01 | [Robust preconditioners for finite element approximations of control-state constrained optimal control problems governed by elliptic equations](https://arxiv.org/abs/2611.01526v1) | 2611.01526v1 | 6 |
+| 2026-11-01 | [Watch Your Step: Adam's Margin Maximization Bias Depends on the Learning Rate Schedule](https://arxiv.org/abs/2611.01929v2) | 2611.01929v2 | 9 |
 | 2026-10-31 | [Adaptive Optimizers Can Get a Policy Ranking Wrong: Momentum, Dependent Data, and a Two-Run Remedy](https://arxiv.org/abs/2611.01216v1) | 2611.01216v1 | 9 |
 | 2026-10-31 | [Representative Learning for Distributed Support Vector Machines](https://arxiv.org/abs/2611.00641v1) | 2611.00641v1 | 6 |
 | 2026-10-31 | [Do Orthogonality Constraints Help Language-Model Training Beyond Sphere Optimization?](https://arxiv.org/abs/2611.00593v1) | 2611.00593v1 | 8 |
