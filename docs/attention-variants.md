@@ -47,6 +47,7 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-13 | [NVFP4-MLA: Unified FP4 KV-Cache Storage and Attention Computation for Multi-Head Latent Attention](https://arxiv.org/abs/2611.18972v1) | 2611.18972v1 | 14 |
 | 2026-11-11 | [KVPath: Connecting Key-Value Representations Across Transformer Layers](https://arxiv.org/abs/2611.16072v1) | 2611.16072v1 | 12 |
 | 2026-11-10 | [Sanity Checks for Attention Surgery: Null Models and Matched Interventions for Representation-Motivated Design](https://arxiv.org/abs/2611.13543v1) | 2611.13543v1 | 6 |
 | 2026-11-09 | [Translating KV Caches Between Hybrid-Attention Language Models: MLA Latents, Linear-Attention States and Sparse-Attention Indexers](https://arxiv.org/abs/2611.12062v1) | 2611.12062v1 | 13 |

@@ -30,8 +30,18 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-16 | [ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping in MoE-MLLMs](https://arxiv.org/abs/2611.20885v1) | 2611.20885v1 | 8 |
+| 2026-11-16 | [UNITE: Consolidating Embodied VLM Specialists via Shared-Anchor One-Bit Factorization](https://arxiv.org/abs/2611.20767v1) | 2611.20767v1 | 8 |
+| 2026-11-16 | [ParGLU: Partial Gating Improves Language Modeling in MoE Transformers](https://arxiv.org/abs/2611.20663v1) | 2611.20663v1 | 8 |
+| 2026-11-15 | [CECAR: Cache & Expert Co-Aware Routing Accelerates On-Device Inference of MoE LLMs](https://arxiv.org/abs/2611.20119v1) | 2611.20119v1 | 12 |
+| 2026-11-14 | [IA-MoE: An Intensity-Aware Mixture of Experts for DNN Inference](https://arxiv.org/abs/2611.19669v1) | 2611.19669v1 | 6 |
+| 2026-11-14 | [PMR: MoE Routing with Shared Prototypes and Congestion Pricing](https://arxiv.org/abs/2611.19413v1) | 2611.19413v1 | 10 |
+| 2026-11-14 | [From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts](https://arxiv.org/abs/2611.19393v1) | 2611.19393v1 | 6 |
+| 2026-11-14 | [Temporal Attention-Enhanced Mixture-of-Experts Guidance for Multi-Revolution Low-Thrust Rendezvous](https://arxiv.org/abs/2611.19226v1) | 2611.19226v1 | 6 |
+| 2026-11-14 | [Scalable and Interpretable Quantum Mixture of Experts for High-Dimensional Spatio-Temporal Data](https://arxiv.org/abs/2611.19181v1) | 2611.19181v1 | 6 |
 | 2026-11-13 | [CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2611.18417v1) | 2611.18417v1 | 6 |
 | 2026-11-13 | [Fuse-All MoE Inference Kernel with Load Balancing on TPUs](https://arxiv.org/abs/2611.17857v1) | 2611.17857v1 | 10 |
+| 2026-11-13 | [Supercharging Olmo-core for Efficient and Scalable MoE Training](https://arxiv.org/abs/2611.18956v1) | 2611.18956v1 | 6 |
 | 2026-11-12 | [PolicySniff: Inferring Agent Policy States through Shared-GPU Execution](https://arxiv.org/abs/2611.16158v1) | 2611.16158v1 | 8 |
 | 2026-11-12 | [Do Mixture-of-Experts Routers Benefit from Ensembling?](https://arxiv.org/abs/2611.17472v1) | 2611.17472v1 | 9 |
 | 2026-11-11 | [Fewer Expert Transfers Without Changing Routing: Expert Eviction for MoE Offloading](https://arxiv.org/abs/2611.15842v1) | 2611.15842v1 | 6 |
@@ -84,6 +94,7 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 | 2026-10-27 | [Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data](https://arxiv.org/abs/2610.37386v1) | 2610.37386v1 | 6 |
 | 2026-10-27 | [Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model](https://arxiv.org/abs/2610.37375v1) | 2610.37375v1 | 0 |
 | 2026-10-27 | [Muon Makes the First Mixture-of-Experts Layer Harder to Balance](https://arxiv.org/abs/2610.37914v2) | 2610.37914v2 | 8 |
+| 2026-10-27 | [Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data](https://arxiv.org/abs/2610.37386v2) | 2610.37386v2 | 6 |
 | 2026-10-26 | [INC-MoE: Overlapping In-Network Collectives and Expert Computation for Expert-Parallel Mixture-of-Experts Inference](https://arxiv.org/abs/2610.36339v1) | 2610.36339v1 | 6 |
 | 2026-10-26 | [DuplexTune: Coupled-State Replay for Memory-Efficient Mixture-of-Experts Adaptation](https://arxiv.org/abs/2610.36009v1) | 2610.36009v1 | 6 |
 | 2026-10-26 | [Prefetch-Steered Routing: Deterministic Cache-Aware Expert Selection for Offloaded Mixture-of-Experts Decoding](https://arxiv.org/abs/2610.34721v1) | 2610.34721v1 | 6 |

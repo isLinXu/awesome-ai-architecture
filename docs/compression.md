@@ -28,6 +28,21 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-16 | [CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts](https://arxiv.org/abs/2611.21584v1) | 2611.21584v1 | 8 |
+| 2026-11-16 | [Syllable- and Word-Level Evaluation of Tibetan OCR](https://arxiv.org/abs/2611.21303v1) | 2611.21303v1 | 7 |
+| 2026-11-16 | [MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression](https://arxiv.org/abs/2611.21216v1) | 2611.21216v1 | 7 |
+| 2026-11-16 | [POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models](https://arxiv.org/abs/2611.21033v1) | 2611.21033v1 | 6 |
+| 2026-11-16 | [Practical Semantic Communication for General-Purpose Networks: Compression of High-Dimensional Embeddings Under Quantization](https://arxiv.org/abs/2611.20863v1) | 2611.20863v1 | 7 |
+| 2026-11-16 | [Deformation Quantization of Coisotropic A-branes](https://arxiv.org/abs/2611.20760v1) | 2611.20760v1 | 6 |
+| 2026-11-16 | [UniGraph: A Unified Graph-based Index for Dynamic Hybrid Dense-Sparse Vector Retrieval](https://arxiv.org/abs/2611.20758v1) | 2611.20758v1 | 7 |
+| 2026-11-16 | [CARE: Contrastive-Anchored Residual Encoding with Listwise Reconstruction for Retrieval-Oriented Semantic IDs](https://arxiv.org/abs/2611.20721v1) | 2611.20721v1 | 6 |
+| 2026-11-16 | [UNIDE: Cross-PDE Learning for Noise-Robust Discovery of Governing Equations](https://arxiv.org/abs/2611.20678v1) | 2611.20678v1 | 6 |
+| 2026-11-16 | [How Reliable Is Visual Token Selection? Rethinking Pruning in Multimodal LLMs](https://arxiv.org/abs/2611.20505v1) | 2611.20505v1 | 6 |
+| 2026-11-16 | [JointQ: Joint Scale-and-Integer Quantization for Large Language Models](https://arxiv.org/abs/2611.20384v1) | 2611.20384v1 | 11 |
+| 2026-11-15 | [Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project](https://arxiv.org/abs/2611.20187v1) | 2611.20187v1 | 13 |
+| 2026-11-15 | [Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning](https://arxiv.org/abs/2611.19871v1) | 2611.19871v1 | 7 |
+| 2026-11-15 | [TIVS: Mapping the Sensitivity Landscape of Visual Token Transformations in MLLMs](https://arxiv.org/abs/2611.19745v1) | 2611.19745v1 | 9 |
+| 2026-11-14 | [A Numerical Approach to Quantization](https://arxiv.org/abs/2611.19646v1) | 2611.19646v1 | 6 |
 | 2026-11-13 | [Geometric Quantization of the Giant Graviton Master Moduli Space](https://arxiv.org/abs/2611.18539v1) | 2611.18539v1 | 6 |
 | 2026-11-13 | [On numerical issues of divergences between nearly equal distributions](https://arxiv.org/abs/2611.18511v1) | 2611.18511v1 | 7 |
 | 2026-11-13 | [Neural Classifiers as Error-Correcting Codes](https://arxiv.org/abs/2611.18239v1) | 2611.18239v1 | 11 |
@@ -85,6 +100,8 @@
 | 2026-11-09 | [MNN-Pocket-0.3B Technical Report](https://arxiv.org/abs/2611.12311v2) | 2611.12311v2 | 16 |
 | 2026-11-09 | [APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2611.13030v1) | 2611.13030v1 | 7 |
 | 2026-11-09 | [AutoQS: Automated Quantization Strategy Design with Large Language Models](https://arxiv.org/abs/2611.11975v2) | 2611.11975v2 | 9 |
+| 2026-11-09 | [Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense](https://arxiv.org/abs/2611.12807v2) | 2611.12807v2 | 10 |
+| 2026-11-09 | [APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2611.13030v2) | 2611.13030v2 | 7 |
 | 2026-11-08 | [Language model capabilities fail in a shared, predictable order under compression and perturbation](https://arxiv.org/abs/2611.11695v1) | 2611.11695v1 | 12 |
 | 2026-11-08 | [Perturbing Inputs Improves Pretraining Distillation](https://arxiv.org/abs/2611.11598v1) | 2611.11598v1 | 12 |
 | 2026-11-08 | [UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression](https://arxiv.org/abs/2611.11562v1) | 2611.11562v1 | 6 |
@@ -387,6 +404,7 @@
 | 2026-10-20 | [Collective Hall quantization in 3D Chern vector systems](https://arxiv.org/abs/2610.27802v1) | 2610.27802v1 | 7 |
 | 2026-10-20 | [E8-QAT: Efficient 2-Bit Quantization-Aware Training with Implicit Lattice Codebooks](https://arxiv.org/abs/2610.27699v1) | 2610.27699v1 | 11 |
 | 2026-10-20 | [Can Native Safety Travel? Reusing Safety Pretraining Across Models via On-Policy Distillation](https://arxiv.org/abs/2610.27555v1) | 2610.27555v1 | 8 |
+| 2026-10-20 | [Beyond 4 bits: Data-Centric Post-training Quantization and Recovery](https://arxiv.org/abs/2610.28537v2) | 2610.28537v2 | 15 |
 | 2026-10-19 | [When PTQ Calibration Helps or Hurts: Dose-Driven Collapse and Validation-Gated Abstention in Quantized Text Embedders](https://arxiv.org/abs/2610.27397v1) | 2610.27397v1 | 13 |
 | 2026-10-19 | [PerQ: Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation](https://arxiv.org/abs/2610.27374v1) | 2610.27374v1 | 7 |
 | 2026-10-19 | [Pretraining on boosted boson decays for polarization tagging of hadronic $W$ bosons](https://arxiv.org/abs/2610.27346v1) | 2610.27346v1 | 7 |

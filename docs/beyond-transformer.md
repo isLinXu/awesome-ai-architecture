@@ -37,6 +37,12 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-16 | [Latent Lattice Language Models](https://arxiv.org/abs/2611.21608v1) | 2611.21608v1 | 10 |
+| 2026-11-16 | [Certified, Not Explained: Exact Token Erasure in Gated Vision State Space Models](https://arxiv.org/abs/2611.20897v1) | 2611.20897v1 | 10 |
+| 2026-11-16 | [Halting in Recurrent Sequence Models](https://arxiv.org/abs/2611.20377v1) | 2611.20377v1 | 7 |
+| 2026-11-15 | [Trading Parameters for Accuracy in MambaVision for Chest Radiograph Classification](https://arxiv.org/abs/2611.20103v1) | 2611.20103v1 | 6 |
+| 2026-11-14 | [MARS: Dynamic Routing of Reinforcement-Learned Atomic Skills for Multi-Stage Robotic Manipulation](https://arxiv.org/abs/2611.19324v1) | 2611.19324v1 | 6 |
+| 2026-11-14 | [Size-Matched Nulls Reveal What Block Ablation Measures in MambaVision](https://arxiv.org/abs/2611.19248v1) | 2611.19248v1 | 6 |
 | 2026-11-13 | [The State Is Not the Bottleneck: A Paged-State Gated-DeltaNet Tile on a Tri-Mode Multicast Mesh, Bit-Exact from RTL to Silicon](https://arxiv.org/abs/2611.18422v1) | 2611.18422v1 | 6 |
 | 2026-11-12 | [Symmetry in Time: A Representation Theory of Linear Recurrent Memory](https://arxiv.org/abs/2611.17162v1) | 2611.17162v1 | 8 |
 | 2026-11-12 | [Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences](https://arxiv.org/abs/2611.16934v1) | 2611.16934v1 | 6 |
@@ -78,8 +84,10 @@
 | 2026-10-29 | [Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation](https://arxiv.org/abs/2610.40029v2) | 2610.40029v2 | 6 |
 | 2026-10-29 | [LinQuant: Functional Invariances for Low-Precision Linear Recurrences](https://arxiv.org/abs/2610.39418v1) | 2610.39418v1 | 0 |
 | 2026-10-29 | [Zonal-Aware Prostate Cancer Detection and Classification via Hadamard-Fused Mamba-UNet](https://arxiv.org/abs/2610.40720v1) | 2610.40720v1 | 6 |
+| 2026-10-29 | [LinQuant: Functional Invariances for Low-Precision Linear Recurrences](https://arxiv.org/abs/2610.39418v2) | 2610.39418v2 | 10 |
 | 2026-10-28 | [UnMixMamba: Unmixing Guided State Space Subpixel Mapping of Crops from MODIS Time Series](https://arxiv.org/abs/2610.38507v1) | 2610.38507v1 | 6 |
 | 2026-10-28 | [ParaTTT: Parallelizing Test-Time Training Layers with Deep Memories](https://arxiv.org/abs/2610.38255v1) | 2610.38255v1 | 0 |
+| 2026-10-28 | [ParaTTT: Parallelizing Test-Time Training Layers with Deep Memories](https://arxiv.org/abs/2610.38255v2) | 2610.38255v2 | 10 |
 | 2026-10-27 | [Multi-task Disentangling Fusion Mamba-CNN for MODIS Spectral-Temporal Unmixing with Endmember Variability Modeling](https://arxiv.org/abs/2610.36750v1) | 2610.36750v1 | 6 |
 | 2026-10-27 | [Balanced State Subspaces for Mamba-2 State Compression](https://arxiv.org/abs/2610.36617v1) | 2610.36617v1 | 6 |
 | 2026-10-27 | [Balanced State Subspaces with Spectral Rank Allocation for Mamba-2 State Compression](https://arxiv.org/abs/2610.36617v2) | 2610.36617v2 | 8 |
@@ -88,6 +96,8 @@
 | 2026-10-25 | [Higher-Order Marginal Likelihood Approximation for Nonlinear State Space Models](https://arxiv.org/abs/2610.34629v1) | 2610.34629v1 | 6 |
 | 2026-10-25 | [CORMA: Constraint-Routed Decision Mamba for Generalizable Multi-Constraint Offline Safe Reinforcement Learning](https://arxiv.org/abs/2610.34208v1) | 2610.34208v1 | 6 |
 | 2026-10-25 | [Hybrid Mamba-Transformer Network for Single-Shot 3D Reconstruction from Fringe Patterns](https://arxiv.org/abs/2610.33988v1) | 2610.33988v1 | 6 |
+| 2026-10-25 | [Bayesian Model Comparison for Nonlinear State Space Models without Posterior Sampling](https://arxiv.org/abs/2610.34629v2) | 2610.34629v2 | 6 |
+| 2026-10-25 | [Speaking-Clock Mamba: Phoneme-Conditioned State-Space Modeling for Visual Forced Alignment](https://arxiv.org/abs/2611.18667v1) | 2611.18667v1 | 6 |
 | 2026-10-24 | [Real-Time Human Trajectory Prediction from RGB-D for Mobile Robots Using Bi-Mamba](https://arxiv.org/abs/2610.33916v1) | 2610.33916v1 | 6 |
 | 2026-10-23 | [FOCUS: A Lightweight Mamba-2 Model for EEG-Based Cognitive Workload Classification](https://arxiv.org/abs/2610.32361v1) | 2610.32361v1 | 6 |
 | 2026-10-21 | [Mamba Quantum Eigensolver (MQE): A Selective State Space Model for Scalable Ground State Simulations in Quantum Chemistry](https://arxiv.org/abs/2610.29779v1) | 2610.29779v1 | 15 |

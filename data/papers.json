@@ -124033,6 +124033,396 @@
       "category": "compression",
       "published": "2026-11-12",
       "score": 6
+    },
+    "2611.18972v1": {
+      "title": "NVFP4-MLA: Unified FP4 KV-Cache Storage and Attention Computation for Multi-Head Latent Attention",
+      "category": "attention-variants",
+      "published": "2026-11-13",
+      "score": 14
+    },
+    "2611.21029v1": {
+      "title": "Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design",
+      "category": "efficient-attention",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.20704v1": {
+      "title": "QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing",
+      "category": "efficient-attention",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.20307v1": {
+      "title": "PoCoAttn: Position-Content Collaborative Sparse Attention for Fast and High-Fidelity Video Generation",
+      "category": "efficient-attention",
+      "published": "2026-11-15",
+      "score": 6
+    },
+    "2611.19349v1": {
+      "title": "SMELL: Sparsity-aware Memory Efficient Federated Fine-tuning for Long-context LLMs",
+      "category": "efficient-attention",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.18974v1": {
+      "title": "Bilateral Log-Linear Attention",
+      "category": "efficient-attention",
+      "published": "2026-11-13",
+      "score": 8
+    },
+    "2611.20409v1": {
+      "title": "Integrated GPU Core for Mamba-3",
+      "category": "position-normalization",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.18718v1": {
+      "title": "Editable Video Context: Mid-Context KV-Cache Reuse for Context-Managing Video LLMs",
+      "category": "position-normalization",
+      "published": "2026-11-08",
+      "score": 10
+    },
+    "2611.20885v1": {
+      "title": "ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping in MoE-MLLMs",
+      "category": "ffn-moe",
+      "published": "2026-11-16",
+      "score": 8
+    },
+    "2611.20767v1": {
+      "title": "UNITE: Consolidating Embodied VLM Specialists via Shared-Anchor One-Bit Factorization",
+      "category": "ffn-moe",
+      "published": "2026-11-16",
+      "score": 8
+    },
+    "2611.20663v1": {
+      "title": "ParGLU: Partial Gating Improves Language Modeling in MoE Transformers",
+      "category": "ffn-moe",
+      "published": "2026-11-16",
+      "score": 8
+    },
+    "2611.20119v1": {
+      "title": "CECAR: Cache & Expert Co-Aware Routing Accelerates On-Device Inference of MoE LLMs",
+      "category": "ffn-moe",
+      "published": "2026-11-15",
+      "score": 12
+    },
+    "2611.19669v1": {
+      "title": "IA-MoE: An Intensity-Aware Mixture of Experts for DNN Inference",
+      "category": "ffn-moe",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.19413v1": {
+      "title": "PMR: MoE Routing with Shared Prototypes and Congestion Pricing",
+      "category": "ffn-moe",
+      "published": "2026-11-14",
+      "score": 10
+    },
+    "2611.19393v1": {
+      "title": "From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts",
+      "category": "ffn-moe",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.19226v1": {
+      "title": "Temporal Attention-Enhanced Mixture-of-Experts Guidance for Multi-Revolution Low-Thrust Rendezvous",
+      "category": "ffn-moe",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.19181v1": {
+      "title": "Scalable and Interpretable Quantum Mixture of Experts for High-Dimensional Spatio-Temporal Data",
+      "category": "ffn-moe",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.18956v1": {
+      "title": "Supercharging Olmo-core for Efficient and Scalable MoE Training",
+      "category": "ffn-moe",
+      "published": "2026-11-13",
+      "score": 6
+    },
+    "2610.37386v2": {
+      "title": "Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data",
+      "category": "ffn-moe",
+      "published": "2026-10-27",
+      "score": 6
+    },
+    "2611.21608v1": {
+      "title": "Latent Lattice Language Models",
+      "category": "beyond-transformer",
+      "published": "2026-11-16",
+      "score": 10
+    },
+    "2611.20897v1": {
+      "title": "Certified, Not Explained: Exact Token Erasure in Gated Vision State Space Models",
+      "category": "beyond-transformer",
+      "published": "2026-11-16",
+      "score": 10
+    },
+    "2611.20377v1": {
+      "title": "Halting in Recurrent Sequence Models",
+      "category": "beyond-transformer",
+      "published": "2026-11-16",
+      "score": 7
+    },
+    "2611.20103v1": {
+      "title": "Trading Parameters for Accuracy in MambaVision for Chest Radiograph Classification",
+      "category": "beyond-transformer",
+      "published": "2026-11-15",
+      "score": 6
+    },
+    "2611.19324v1": {
+      "title": "MARS: Dynamic Routing of Reinforcement-Learned Atomic Skills for Multi-Stage Robotic Manipulation",
+      "category": "beyond-transformer",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.19248v1": {
+      "title": "Size-Matched Nulls Reveal What Block Ablation Measures in MambaVision",
+      "category": "beyond-transformer",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2610.39418v2": {
+      "title": "LinQuant: Functional Invariances for Low-Precision Linear Recurrences",
+      "category": "beyond-transformer",
+      "published": "2026-10-29",
+      "score": 10
+    },
+    "2610.38255v2": {
+      "title": "ParaTTT: Parallelizing Test-Time Training Layers with Deep Memories",
+      "category": "beyond-transformer",
+      "published": "2026-10-28",
+      "score": 10
+    },
+    "2610.34629v2": {
+      "title": "Bayesian Model Comparison for Nonlinear State Space Models without Posterior Sampling",
+      "category": "beyond-transformer",
+      "published": "2026-10-25",
+      "score": 6
+    },
+    "2611.18667v1": {
+      "title": "Speaking-Clock Mamba: Phoneme-Conditioned State-Space Modeling for Visual Forced Alignment",
+      "category": "beyond-transformer",
+      "published": "2026-10-25",
+      "score": 6
+    },
+    "2611.20371v1": {
+      "title": "Pretty Linear Liars: Unregularized Probes Favor Intervention-Unfaithful Features",
+      "category": "interpretability",
+      "published": "2026-11-16",
+      "score": 11
+    },
+    "2611.20003v1": {
+      "title": "The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)",
+      "category": "landmark-models",
+      "published": "2026-11-15",
+      "score": 9
+    },
+    "2611.19206v1": {
+      "title": "What Makes Good Datasets for Intelligent Multi-Modal Sensing-Communication Integration?",
+      "category": "landmark-models",
+      "published": "2026-11-14",
+      "score": 10
+    },
+    "2611.17060v2": {
+      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+      "category": "landmark-models",
+      "published": "2026-11-12",
+      "score": 8
+    },
+    "2611.20216v1": {
+      "title": "FIDEL: Abugida-Aware Pre-tokenization for Ethiopic Languages",
+      "category": "tokenization",
+      "published": "2026-11-15",
+      "score": 18
+    },
+    "2611.20126v1": {
+      "title": "A Corpus-Driven SentencePiece Unigram Tokenizer for Sindhi: Design and Benchmark Against Fourteen Existing Tokenizers",
+      "category": "tokenization",
+      "published": "2026-11-15",
+      "score": 8
+    },
+    "2611.19913v1": {
+      "title": "The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use",
+      "category": "tokenization",
+      "published": "2026-11-15",
+      "score": 10
+    },
+    "2611.18898v1": {
+      "title": "Factorized Self-Supervised Speech Tokenization",
+      "category": "tokenization",
+      "published": "2026-11-13",
+      "score": 10
+    },
+    "2611.13059v2": {
+      "title": "A Multi-Word Tokenizer for 204 Languages That Needs Fewer Tokens Than GPT-4o's, Including on English",
+      "category": "tokenization",
+      "published": "2026-11-09",
+      "score": 18
+    },
+    "2611.13058v2": {
+      "title": "The Indic Token Tax in 2026: Measuring Tokenizer. Disparity and Its Cost for the Languages of India",
+      "category": "tokenization",
+      "published": "2026-11-09",
+      "score": 6
+    },
+    "2611.21526v1": {
+      "title": "Second-Order Cone Valid Inequalities for Set-Point Tracking with Energy Storage",
+      "category": "optimizers",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.20437v1": {
+      "title": "On the Convergence of Continuous-Time AdamW",
+      "category": "optimizers",
+      "published": "2026-11-16",
+      "score": 7
+    },
+    "2611.20035v1": {
+      "title": "U-HamGNN: a universal model for magnetic Hamiltonians conditioned on spin and Hubbard U",
+      "category": "optimizers",
+      "published": "2026-11-15",
+      "score": 9
+    },
+    "2611.19603v1": {
+      "title": "NAP-Wave: A Neural Adaptive Plane-Wave Architecture for High-Frequency Helmholtz Problems",
+      "category": "optimizers",
+      "published": "2026-11-14",
+      "score": 9
+    },
+    "2611.19541v1": {
+      "title": "Second-Order Threshold and Value Asymptotics in Multiple-Stopping Secretary Problems",
+      "category": "optimizers",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.19477v1": {
+      "title": "Grokking Can Be Steered: Selecting Desirable Solutions By Choice Of Learning Rule",
+      "category": "optimizers",
+      "published": "2026-11-14",
+      "score": 15
+    },
+    "2611.19419v1": {
+      "title": "Do Pretraining Optimizer Gains Transfer to KL Distillation?",
+      "category": "optimizers",
+      "published": "2026-11-14",
+      "score": 14
+    },
+    "2611.18883v1": {
+      "title": "SPLICE: Structured Prompt Local Iterative Combinatorial Evolution",
+      "category": "optimizers",
+      "published": "2026-11-13",
+      "score": 6
+    },
+    "2611.21584v1": {
+      "title": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 8
+    },
+    "2611.21303v1": {
+      "title": "Syllable- and Word-Level Evaluation of Tibetan OCR",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 7
+    },
+    "2611.21216v1": {
+      "title": "MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 7
+    },
+    "2611.21033v1": {
+      "title": "POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.20863v1": {
+      "title": "Practical Semantic Communication for General-Purpose Networks: Compression of High-Dimensional Embeddings Under Quantization",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 7
+    },
+    "2611.20760v1": {
+      "title": "Deformation Quantization of Coisotropic A-branes",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.20758v1": {
+      "title": "UniGraph: A Unified Graph-based Index for Dynamic Hybrid Dense-Sparse Vector Retrieval",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 7
+    },
+    "2611.20721v1": {
+      "title": "CARE: Contrastive-Anchored Residual Encoding with Listwise Reconstruction for Retrieval-Oriented Semantic IDs",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.20678v1": {
+      "title": "UNIDE: Cross-PDE Learning for Noise-Robust Discovery of Governing Equations",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.20505v1": {
+      "title": "How Reliable Is Visual Token Selection? Rethinking Pruning in Multimodal LLMs",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.20384v1": {
+      "title": "JointQ: Joint Scale-and-Integer Quantization for Large Language Models",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 11
+    },
+    "2611.20187v1": {
+      "title": "Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project",
+      "category": "compression",
+      "published": "2026-11-15",
+      "score": 13
+    },
+    "2611.19871v1": {
+      "title": "Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning",
+      "category": "compression",
+      "published": "2026-11-15",
+      "score": 7
+    },
+    "2611.19745v1": {
+      "title": "TIVS: Mapping the Sensitivity Landscape of Visual Token Transformations in MLLMs",
+      "category": "compression",
+      "published": "2026-11-15",
+      "score": 9
+    },
+    "2611.19646v1": {
+      "title": "A Numerical Approach to Quantization",
+      "category": "compression",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.12807v2": {
+      "title": "Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 10
+    },
+    "2611.13030v2": {
+      "title": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
+      "category": "compression",
+      "published": "2026-11-09",
+      "score": 7
+    },
+    "2610.28537v2": {
+      "title": "Beyond 4 bits: Data-Centric Post-training Quantization and Recovery",
+      "category": "compression",
+      "published": "2026-10-20",
+      "score": 15
     }
   }
 }

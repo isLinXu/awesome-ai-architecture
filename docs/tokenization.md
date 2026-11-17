@@ -25,6 +25,10 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-15 | [FIDEL: Abugida-Aware Pre-tokenization for Ethiopic Languages](https://arxiv.org/abs/2611.20216v1) | 2611.20216v1 | 18 |
+| 2026-11-15 | [A Corpus-Driven SentencePiece Unigram Tokenizer for Sindhi: Design and Benchmark Against Fourteen Existing Tokenizers](https://arxiv.org/abs/2611.20126v1) | 2611.20126v1 | 8 |
+| 2026-11-15 | [The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use](https://arxiv.org/abs/2611.19913v1) | 2611.19913v1 | 10 |
+| 2026-11-13 | [Factorized Self-Supervised Speech Tokenization](https://arxiv.org/abs/2611.18898v1) | 2611.18898v1 | 10 |
 | 2026-11-12 | [Optimal Single-History Tokenization Disambiguation for Provably Secure Linguistic Steganography](https://arxiv.org/abs/2611.17091v1) | 2611.17091v1 | 8 |
 | 2026-11-12 | [EvenVLM: A Text and Multimodal Dataset for the Even Language with Vision-Language Fine-Tuning](https://arxiv.org/abs/2611.16500v1) | 2611.16500v1 | 12 |
 | 2026-11-11 | [Vocabulary-Free Next-Event Prediction on Temporal Graphs](https://arxiv.org/abs/2611.16063v1) | 2611.16063v1 | 7 |
@@ -45,6 +49,8 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 | 2026-11-09 | [The Left Ripple of Byte-Pair Encoding: Certified Lookbehind for Every Dictionary](https://arxiv.org/abs/2611.13061v1) | 2611.13061v1 | 8 |
 | 2026-11-09 | [A Multi-Word Tokenizer for 204 Languages That Needs Fewer Tokens Than GPT-4o's, Including on English](https://arxiv.org/abs/2611.13059v1) | 2611.13059v1 | 18 |
 | 2026-11-09 | [The Indic Token Tax in 2026: Measuring Tokenizer. Disparity and Its Cost for the Languages of India](https://arxiv.org/abs/2611.13058v1) | 2611.13058v1 | 6 |
+| 2026-11-09 | [A Multi-Word Tokenizer for 204 Languages That Needs Fewer Tokens Than GPT-4o's, Including on English](https://arxiv.org/abs/2611.13059v2) | 2611.13059v2 | 18 |
+| 2026-11-09 | [The Indic Token Tax in 2026: Measuring Tokenizer. Disparity and Its Cost for the Languages of India](https://arxiv.org/abs/2611.13058v2) | 2611.13058v2 | 6 |
 | 2026-11-08 | [Brain-Aligned Latent Actions: Imposing Premotor Cortex Geometry on a Robot's Action Vocabulary](https://arxiv.org/abs/2611.11674v1) | 2611.11674v1 | 7 |
 | 2026-11-08 | [Does Pose Encoding Matter? Analyzing Geometric Representations for Discrete Motion Vocabulary Learning](https://arxiv.org/abs/2611.11093v1) | 2611.11093v1 | 12 |
 | 2026-11-08 | [A Hierarchical Tokenization Framework for Voxel-Level fMRI Representation Learning](https://arxiv.org/abs/2611.11081v1) | 2611.11081v1 | 10 |

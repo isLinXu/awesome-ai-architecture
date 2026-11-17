@@ -29,10 +29,18 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-16 | [Second-Order Cone Valid Inequalities for Set-Point Tracking with Energy Storage](https://arxiv.org/abs/2611.21526v1) | 2611.21526v1 | 6 |
+| 2026-11-16 | [On the Convergence of Continuous-Time AdamW](https://arxiv.org/abs/2611.20437v1) | 2611.20437v1 | 7 |
+| 2026-11-15 | [U-HamGNN: a universal model for magnetic Hamiltonians conditioned on spin and Hubbard U](https://arxiv.org/abs/2611.20035v1) | 2611.20035v1 | 9 |
+| 2026-11-14 | [NAP-Wave: A Neural Adaptive Plane-Wave Architecture for High-Frequency Helmholtz Problems](https://arxiv.org/abs/2611.19603v1) | 2611.19603v1 | 9 |
+| 2026-11-14 | [Second-Order Threshold and Value Asymptotics in Multiple-Stopping Secretary Problems](https://arxiv.org/abs/2611.19541v1) | 2611.19541v1 | 6 |
+| 2026-11-14 | [Grokking Can Be Steered: Selecting Desirable Solutions By Choice Of Learning Rule](https://arxiv.org/abs/2611.19477v1) | 2611.19477v1 | 15 |
+| 2026-11-14 | [Do Pretraining Optimizer Gains Transfer to KL Distillation?](https://arxiv.org/abs/2611.19419v1) | 2611.19419v1 | 14 |
 | 2026-11-13 | [Muon Attains $\mathcal{O}(\varepsilon^{-3})$ Iteration Complexity under Shuffling](https://arxiv.org/abs/2611.18124v1) | 2611.18124v1 | 14 |
 | 2026-11-13 | [Hybrid Krotov gradient descent Optimization for Quantum Machine Learning](https://arxiv.org/abs/2611.18082v1) | 2611.18082v1 | 6 |
 | 2026-11-13 | [Delayed Effects of Temporary Weight Decay in Muon Pretraining](https://arxiv.org/abs/2611.17876v1) | 2611.17876v1 | 10 |
 | 2026-11-13 | [A mesh-free deep energy method for phase-field modeling of thermally driven brittle fracture](https://arxiv.org/abs/2611.17630v1) | 2611.17630v1 | 6 |
+| 2026-11-13 | [SPLICE: Structured Prompt Local Iterative Combinatorial Evolution](https://arxiv.org/abs/2611.18883v1) | 2611.18883v1 | 6 |
 | 2026-11-12 | [Factored One-sided Adam-Moment for Practical and Scalable SOAP](https://arxiv.org/abs/2611.16905v1) | 2611.16905v1 | 17 |
 | 2026-11-12 | [Natural Gradient Learning in Predictive Coding through Lateral Circuits](https://arxiv.org/abs/2611.16666v1) | 2611.16666v1 | 9 |
 | 2026-11-12 | [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://arxiv.org/abs/2611.16560v1) | 2611.16560v1 | 7 |
