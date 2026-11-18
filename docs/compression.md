@@ -28,6 +28,22 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-17 | [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://arxiv.org/abs/2611.23229v1) | 2611.23229v1 | 7 |
+| 2026-11-17 | [EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification](https://arxiv.org/abs/2611.23212v1) | 2611.23212v1 | 7 |
+| 2026-11-17 | [Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU](https://arxiv.org/abs/2611.23205v1) | 2611.23205v1 | 14 |
+| 2026-11-17 | [SilverSpoon-KD: A General-Purpose Toolkit for Knowledge Distillation](https://arxiv.org/abs/2611.22842v1) | 2611.22842v1 | 14 |
+| 2026-11-17 | [LoopPrune: Recurrent Pruning for Looped Diffusion Transformers](https://arxiv.org/abs/2611.22757v1) | 2611.22757v1 | 7 |
+| 2026-11-17 | [LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models](https://arxiv.org/abs/2611.22728v1) | 2611.22728v1 | 6 |
+| 2026-11-17 | [HADVQ: Hessian Aware Directional Vector Quantization](https://arxiv.org/abs/2611.22721v1) | 2611.22721v1 | 7 |
+| 2026-11-17 | [DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers](https://arxiv.org/abs/2611.22611v1) | 2611.22611v1 | 17 |
+| 2026-11-17 | [As Student Rollouts Continue, Visual Backdoors Keep Growing](https://arxiv.org/abs/2611.22446v1) | 2611.22446v1 | 7 |
+| 2026-11-17 | [BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2611.22334v1) | 2611.22334v1 | 12 |
+| 2026-11-17 | [The Fragility of Reasoning-Importance Attribution for Pruning Language Models](https://arxiv.org/abs/2611.22234v1) | 2611.22234v1 | 8 |
+| 2026-11-17 | [Communicate the Change: Efficient Expert Parallelism via Activation Compression](https://arxiv.org/abs/2611.22215v1) | 2611.22215v1 | 7 |
+| 2026-11-17 | [Is 4-Bit Quantization More Than Noise to a Chat Model's Safety Behaviour? Attributing Behavioural Shifts with Matched Perturbations](https://arxiv.org/abs/2611.22186v1) | 2611.22186v1 | 16 |
+| 2026-11-17 | [HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures](https://arxiv.org/abs/2611.22086v1) | 2611.22086v1 | 6 |
+| 2026-11-17 | [Quantum Born Geometries from Modular Quantization](https://arxiv.org/abs/2611.22041v1) | 2611.22041v1 | 6 |
+| 2026-11-17 | [Computed Permutation Trellis Coding: Near-Optimal Quantization from Two Multiplications and a 64-Byte Table](https://arxiv.org/abs/2611.22019v1) | 2611.22019v1 | 10 |
 | 2026-11-16 | [CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts](https://arxiv.org/abs/2611.21584v1) | 2611.21584v1 | 8 |
 | 2026-11-16 | [Syllable- and Word-Level Evaluation of Tibetan OCR](https://arxiv.org/abs/2611.21303v1) | 2611.21303v1 | 7 |
 | 2026-11-16 | [MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression](https://arxiv.org/abs/2611.21216v1) | 2611.21216v1 | 7 |
@@ -39,9 +55,14 @@
 | 2026-11-16 | [UNIDE: Cross-PDE Learning for Noise-Robust Discovery of Governing Equations](https://arxiv.org/abs/2611.20678v1) | 2611.20678v1 | 6 |
 | 2026-11-16 | [How Reliable Is Visual Token Selection? Rethinking Pruning in Multimodal LLMs](https://arxiv.org/abs/2611.20505v1) | 2611.20505v1 | 6 |
 | 2026-11-16 | [JointQ: Joint Scale-and-Integer Quantization for Large Language Models](https://arxiv.org/abs/2611.20384v1) | 2611.20384v1 | 11 |
+| 2026-11-16 | [Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell](https://arxiv.org/abs/2611.21974v1) | 2611.21974v1 | 19 |
+| 2026-11-16 | [WM-Quant: Rollout-Aware Post-Training Quantization for JEPA-Style World Models](https://arxiv.org/abs/2611.21882v1) | 2611.21882v1 | 12 |
+| 2026-11-16 | [Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks](https://arxiv.org/abs/2611.21702v1) | 2611.21702v1 | 14 |
+| 2026-11-16 | [Deformation Quantization of Coisotropic A-branes](https://arxiv.org/abs/2611.20760v2) | 2611.20760v2 | 6 |
 | 2026-11-15 | [Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project](https://arxiv.org/abs/2611.20187v1) | 2611.20187v1 | 13 |
 | 2026-11-15 | [Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning](https://arxiv.org/abs/2611.19871v1) | 2611.19871v1 | 7 |
 | 2026-11-15 | [TIVS: Mapping the Sensitivity Landscape of Visual Token Transformations in MLLMs](https://arxiv.org/abs/2611.19745v1) | 2611.19745v1 | 9 |
+| 2026-11-15 | [TIVS: Mapping the Sensitivity Landscape of Visual Token Transformations in MLLMs](https://arxiv.org/abs/2611.19745v2) | 2611.19745v2 | 9 |
 | 2026-11-14 | [A Numerical Approach to Quantization](https://arxiv.org/abs/2611.19646v1) | 2611.19646v1 | 6 |
 | 2026-11-13 | [Geometric Quantization of the Giant Graviton Master Moduli Space](https://arxiv.org/abs/2611.18539v1) | 2611.18539v1 | 6 |
 | 2026-11-13 | [On numerical issues of divergences between nearly equal distributions](https://arxiv.org/abs/2611.18511v1) | 2611.18511v1 | 7 |
@@ -51,6 +72,7 @@
 | 2026-11-13 | [CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation](https://arxiv.org/abs/2611.17785v1) | 2611.17785v1 | 9 |
 | 2026-11-13 | [Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption](https://arxiv.org/abs/2611.17772v1) | 2611.17772v1 | 9 |
 | 2026-11-13 | [Bridge: Database-Grounded Interactive Disambiguation for Text-to-SQL](https://arxiv.org/abs/2611.17770v1) | 2611.17770v1 | 7 |
+| 2026-11-13 | [Neural Classifiers as Error-Correcting Codes](https://arxiv.org/abs/2611.18239v2) | 2611.18239v2 | 11 |
 | 2026-11-12 | [Two mathematical models of knowledge distillation](https://arxiv.org/abs/2611.17230v1) | 2611.17230v1 | 10 |
 | 2026-11-12 | [Theoretical and Empirical Analysis of Sparse Convolution](https://arxiv.org/abs/2611.17212v1) | 2611.17212v1 | 10 |
 | 2026-11-12 | [Reentrant Nematicity from Landau Quantization near a Pomeranchuk Instability](https://arxiv.org/abs/2611.17150v1) | 2611.17150v1 | 6 |
@@ -387,6 +409,7 @@
 | 2026-10-21 | [Post-Pruning vs. Early Stopping: Which Works Better for Link Prediction with AnyBurl?](https://arxiv.org/abs/2610.29287v1) | 2610.29287v1 | 7 |
 | 2026-10-21 | [AGQ: Action-Guided Ultra-Low-Bit Quantization for Vision-Language-Action Models](https://arxiv.org/abs/2610.33074v1) | 2610.33074v1 | 10 |
 | 2026-10-21 | [Two for One: Privileged Learning for Resource-Constrained Screening](https://arxiv.org/abs/2610.29126v1) | 2610.29126v1 | 8 |
+| 2026-10-21 | [Efficient Generative Image Compression with Quantized Latents Refinement](https://arxiv.org/abs/2610.29691v2) | 2610.29691v2 | 6 |
 | 2026-10-20 | [Transformers as Generic Deep Neural Networks: Exact Compilation, the Cost of Removing Activation-Activation Products, and Multi-Agent Attention Clustering](https://arxiv.org/abs/2610.28958v1) | 2610.28958v1 | 6 |
 | 2026-10-20 | [Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference](https://arxiv.org/abs/2610.28947v1) | 2610.28947v1 | 12 |
 | 2026-10-20 | [Amplified Pruning and Path Selectors for Deterministic Radio Gossiping](https://arxiv.org/abs/2610.28930v3) | 2610.28930v3 | 6 |

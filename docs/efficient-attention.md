@@ -43,8 +43,12 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-17 | [LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF](https://arxiv.org/abs/2611.22746v1) | 2611.22746v1 | 6 |
+| 2026-11-17 | [XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools](https://arxiv.org/abs/2611.22280v1) | 2611.22280v1 | 8 |
+| 2026-11-17 | [RISA: Recoverable Sparse Attention for Block-Diffusion Language Models](https://arxiv.org/abs/2611.22191v1) | 2611.22191v1 | 8 |
 | 2026-11-16 | [Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design](https://arxiv.org/abs/2611.21029v1) | 2611.21029v1 | 6 |
 | 2026-11-16 | [QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing](https://arxiv.org/abs/2611.20704v1) | 2611.20704v1 | 6 |
+| 2026-11-16 | [Lost in a Few Heads: Diagnosing and Repairing Block Selection in Sparse Attention](https://arxiv.org/abs/2611.21917v1) | 2611.21917v1 | 10 |
 | 2026-11-15 | [PoCoAttn: Position-Content Collaborative Sparse Attention for Fast and High-Fidelity Video Generation](https://arxiv.org/abs/2611.20307v1) | 2611.20307v1 | 6 |
 | 2026-11-14 | [SMELL: Sparsity-aware Memory Efficient Federated Fine-tuning for Long-context LLMs](https://arxiv.org/abs/2611.19349v1) | 2611.19349v1 | 6 |
 | 2026-11-13 | [Token2Tile: Token-Wise Sparse Attention with Tile Execution through a Low-Rank Space for Video DiTs](https://arxiv.org/abs/2611.17930v1) | 2611.17930v1 | 6 |

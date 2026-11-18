@@ -30,6 +30,8 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-17 | [ReMoE: An Interpretable Mixture-of-Experts Framework for Human Mobility Recovery Forecasting Across Disasters](https://arxiv.org/abs/2611.22133v1) | 2611.22133v1 | 8 |
+| 2026-11-17 | [What MoE Routing Controls: Causal Interventions on Expert Trajectories](https://arxiv.org/abs/2611.22120v1) | 2611.22120v1 | 6 |
 | 2026-11-16 | [ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping in MoE-MLLMs](https://arxiv.org/abs/2611.20885v1) | 2611.20885v1 | 8 |
 | 2026-11-16 | [UNITE: Consolidating Embodied VLM Specialists via Shared-Anchor One-Bit Factorization](https://arxiv.org/abs/2611.20767v1) | 2611.20767v1 | 8 |
 | 2026-11-16 | [ParGLU: Partial Gating Improves Language Modeling in MoE Transformers](https://arxiv.org/abs/2611.20663v1) | 2611.20663v1 | 8 |
@@ -39,6 +41,7 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 | 2026-11-14 | [From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts](https://arxiv.org/abs/2611.19393v1) | 2611.19393v1 | 6 |
 | 2026-11-14 | [Temporal Attention-Enhanced Mixture-of-Experts Guidance for Multi-Revolution Low-Thrust Rendezvous](https://arxiv.org/abs/2611.19226v1) | 2611.19226v1 | 6 |
 | 2026-11-14 | [Scalable and Interpretable Quantum Mixture of Experts for High-Dimensional Spatio-Temporal Data](https://arxiv.org/abs/2611.19181v1) | 2611.19181v1 | 6 |
+| 2026-11-14 | [IA-MoE: An Intensity-Aware Mixture of Experts for DNN Inference](https://arxiv.org/abs/2611.19669v2) | 2611.19669v2 | 6 |
 | 2026-11-13 | [CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2611.18417v1) | 2611.18417v1 | 6 |
 | 2026-11-13 | [Fuse-All MoE Inference Kernel with Load Balancing on TPUs](https://arxiv.org/abs/2611.17857v1) | 2611.17857v1 | 10 |
 | 2026-11-13 | [Supercharging Olmo-core for Efficient and Scalable MoE Training](https://arxiv.org/abs/2611.18956v1) | 2611.18956v1 | 6 |

@@ -33,6 +33,7 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-17 | [PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation](https://arxiv.org/abs/2611.22717v1) | 2611.22717v1 | 6 |
 | 2026-11-16 | [Integrated GPU Core for Mamba-3](https://arxiv.org/abs/2611.20409v1) | 2611.20409v1 | 6 |
 | 2026-11-11 | [Mask-Pattern Position Augmentation: Training-Free Long-Context Extrapolation for Diffusion LLMs](https://arxiv.org/abs/2611.15029v1) | 2611.15029v1 | 10 |
 | 2026-11-09 | [A Geometric Invariant of Attention Predicts Head Specialization from Weights Alone](https://arxiv.org/abs/2611.12206v1) | 2611.12206v1 | 8 |

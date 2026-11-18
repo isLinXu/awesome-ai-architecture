@@ -124423,6 +124423,240 @@
       "category": "compression",
       "published": "2026-10-20",
       "score": 15
+    },
+    "2611.22746v1": {
+      "title": "LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF",
+      "category": "efficient-attention",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.22280v1": {
+      "title": "XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools",
+      "category": "efficient-attention",
+      "published": "2026-11-17",
+      "score": 8
+    },
+    "2611.22191v1": {
+      "title": "RISA: Recoverable Sparse Attention for Block-Diffusion Language Models",
+      "category": "efficient-attention",
+      "published": "2026-11-17",
+      "score": 8
+    },
+    "2611.21917v1": {
+      "title": "Lost in a Few Heads: Diagnosing and Repairing Block Selection in Sparse Attention",
+      "category": "efficient-attention",
+      "published": "2026-11-16",
+      "score": 10
+    },
+    "2611.22717v1": {
+      "title": "PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation",
+      "category": "position-normalization",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.22133v1": {
+      "title": "ReMoE: An Interpretable Mixture-of-Experts Framework for Human Mobility Recovery Forecasting Across Disasters",
+      "category": "ffn-moe",
+      "published": "2026-11-17",
+      "score": 8
+    },
+    "2611.22120v1": {
+      "title": "What MoE Routing Controls: Causal Interventions on Expert Trajectories",
+      "category": "ffn-moe",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.19669v2": {
+      "title": "IA-MoE: An Intensity-Aware Mixture of Experts for DNN Inference",
+      "category": "ffn-moe",
+      "published": "2026-11-14",
+      "score": 6
+    },
+    "2611.22742v1": {
+      "title": "GaussianMamba: Geometric and Relational State Space Scanning of 3D Gaussian Primitives",
+      "category": "beyond-transformer",
+      "published": "2026-11-17",
+      "score": 8
+    },
+    "2611.22061v1": {
+      "title": "FM-Mamba: An Efficient Native 2D Selective State Space Model with Stability-Aware Discretization",
+      "category": "beyond-transformer",
+      "published": "2026-11-17",
+      "score": 15
+    },
+    "2611.21952v1": {
+      "title": "A Log-Timescale Perturbation Bound for Selective State Space Models at Every Sequence Length",
+      "category": "beyond-transformer",
+      "published": "2026-11-16",
+      "score": 13
+    },
+    "2611.22351v1": {
+      "title": "Scaling Laws for Vision-Language Fusion",
+      "category": "landmark-models",
+      "published": "2026-11-17",
+      "score": 10
+    },
+    "2611.22844v1": {
+      "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+      "category": "optimizers",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.22616v1": {
+      "title": "A Divergence-Free Finite Element Discretization of a Convection-Cooling Optimal Control Problem",
+      "category": "optimizers",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.22605v1": {
+      "title": "Simplicity Goes Far: Auditing Prompt Optimizers with Demonstration-Conditioned Prompt Search",
+      "category": "optimizers",
+      "published": "2026-11-17",
+      "score": 7
+    },
+    "2611.22099v1": {
+      "title": "Differentiable High-Order Mesh $r$-Adaptivity",
+      "category": "optimizers",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.23229v1": {
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 7
+    },
+    "2611.23212v1": {
+      "title": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 7
+    },
+    "2611.23205v1": {
+      "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 14
+    },
+    "2611.22842v1": {
+      "title": "SilverSpoon-KD: A General-Purpose Toolkit for Knowledge Distillation",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 14
+    },
+    "2611.22757v1": {
+      "title": "LoopPrune: Recurrent Pruning for Looped Diffusion Transformers",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 7
+    },
+    "2611.22728v1": {
+      "title": "LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.22721v1": {
+      "title": "HADVQ: Hessian Aware Directional Vector Quantization",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 7
+    },
+    "2611.22611v1": {
+      "title": "DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 17
+    },
+    "2611.22446v1": {
+      "title": "As Student Rollouts Continue, Visual Backdoors Keep Growing",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 7
+    },
+    "2611.22334v1": {
+      "title": "BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 12
+    },
+    "2611.22234v1": {
+      "title": "The Fragility of Reasoning-Importance Attribution for Pruning Language Models",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 8
+    },
+    "2611.22215v1": {
+      "title": "Communicate the Change: Efficient Expert Parallelism via Activation Compression",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 7
+    },
+    "2611.22186v1": {
+      "title": "Is 4-Bit Quantization More Than Noise to a Chat Model's Safety Behaviour? Attributing Behavioural Shifts with Matched Perturbations",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 16
+    },
+    "2611.22086v1": {
+      "title": "HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.22041v1": {
+      "title": "Quantum Born Geometries from Modular Quantization",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.22019v1": {
+      "title": "Computed Permutation Trellis Coding: Near-Optimal Quantization from Two Multiplications and a 64-Byte Table",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 10
+    },
+    "2611.21974v1": {
+      "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 19
+    },
+    "2611.21882v1": {
+      "title": "WM-Quant: Rollout-Aware Post-Training Quantization for JEPA-Style World Models",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 12
+    },
+    "2611.21702v1": {
+      "title": "Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 14
+    },
+    "2611.20760v2": {
+      "title": "Deformation Quantization of Coisotropic A-branes",
+      "category": "compression",
+      "published": "2026-11-16",
+      "score": 6
+    },
+    "2611.19745v2": {
+      "title": "TIVS: Mapping the Sensitivity Landscape of Visual Token Transformations in MLLMs",
+      "category": "compression",
+      "published": "2026-11-15",
+      "score": 9
+    },
+    "2611.18239v2": {
+      "title": "Neural Classifiers as Error-Correcting Codes",
+      "category": "compression",
+      "published": "2026-11-13",
+      "score": 11
+    },
+    "2610.29691v2": {
+      "title": "Efficient Generative Image Compression with Quantized Latents Refinement",
+      "category": "compression",
+      "published": "2026-10-21",
+      "score": 6
     }
   }
 }

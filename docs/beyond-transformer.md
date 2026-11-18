@@ -37,9 +37,12 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-17 | [GaussianMamba: Geometric and Relational State Space Scanning of 3D Gaussian Primitives](https://arxiv.org/abs/2611.22742v1) | 2611.22742v1 | 8 |
+| 2026-11-17 | [FM-Mamba: An Efficient Native 2D Selective State Space Model with Stability-Aware Discretization](https://arxiv.org/abs/2611.22061v1) | 2611.22061v1 | 15 |
 | 2026-11-16 | [Latent Lattice Language Models](https://arxiv.org/abs/2611.21608v1) | 2611.21608v1 | 10 |
 | 2026-11-16 | [Certified, Not Explained: Exact Token Erasure in Gated Vision State Space Models](https://arxiv.org/abs/2611.20897v1) | 2611.20897v1 | 10 |
 | 2026-11-16 | [Halting in Recurrent Sequence Models](https://arxiv.org/abs/2611.20377v1) | 2611.20377v1 | 7 |
+| 2026-11-16 | [A Log-Timescale Perturbation Bound for Selective State Space Models at Every Sequence Length](https://arxiv.org/abs/2611.21952v1) | 2611.21952v1 | 13 |
 | 2026-11-15 | [Trading Parameters for Accuracy in MambaVision for Chest Radiograph Classification](https://arxiv.org/abs/2611.20103v1) | 2611.20103v1 | 6 |
 | 2026-11-14 | [MARS: Dynamic Routing of Reinforcement-Learned Atomic Skills for Multi-Stage Robotic Manipulation](https://arxiv.org/abs/2611.19324v1) | 2611.19324v1 | 6 |
 | 2026-11-14 | [Size-Matched Nulls Reveal What Block Ablation Measures in MambaVision](https://arxiv.org/abs/2611.19248v1) | 2611.19248v1 | 6 |

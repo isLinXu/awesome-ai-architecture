@@ -29,6 +29,10 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-17 | [How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU](https://arxiv.org/abs/2611.22844v1) | 2611.22844v1 | 6 |
+| 2026-11-17 | [A Divergence-Free Finite Element Discretization of a Convection-Cooling Optimal Control Problem](https://arxiv.org/abs/2611.22616v1) | 2611.22616v1 | 6 |
+| 2026-11-17 | [Simplicity Goes Far: Auditing Prompt Optimizers with Demonstration-Conditioned Prompt Search](https://arxiv.org/abs/2611.22605v1) | 2611.22605v1 | 7 |
+| 2026-11-17 | [Differentiable High-Order Mesh $r$-Adaptivity](https://arxiv.org/abs/2611.22099v1) | 2611.22099v1 | 6 |
 | 2026-11-16 | [Second-Order Cone Valid Inequalities for Set-Point Tracking with Energy Storage](https://arxiv.org/abs/2611.21526v1) | 2611.21526v1 | 6 |
 | 2026-11-16 | [On the Convergence of Continuous-Time AdamW](https://arxiv.org/abs/2611.20437v1) | 2611.20437v1 | 7 |
 | 2026-11-15 | [U-HamGNN: a universal model for magnetic Hamiltonians conditioned on spin and Hubbard U](https://arxiv.org/abs/2611.20035v1) | 2611.20035v1 | 9 |
