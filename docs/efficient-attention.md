@@ -43,9 +43,12 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-18 | [Every Query Routes Itself: Accelerating Video Diffusion Transformers with Per-Query Routed Sparse Attention](https://arxiv.org/abs/2611.24479v1) | 2611.24479v1 | 6 |
+| 2026-11-18 | [Spark-H3: Adaptive Block Sparse Attention for Video Diffusion Models](https://arxiv.org/abs/2611.24256v1) | 2611.24256v1 | 6 |
 | 2026-11-17 | [LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF](https://arxiv.org/abs/2611.22746v1) | 2611.22746v1 | 6 |
 | 2026-11-17 | [XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools](https://arxiv.org/abs/2611.22280v1) | 2611.22280v1 | 8 |
 | 2026-11-17 | [RISA: Recoverable Sparse Attention for Block-Diffusion Language Models](https://arxiv.org/abs/2611.22191v1) | 2611.22191v1 | 8 |
+| 2026-11-17 | [DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution](https://arxiv.org/abs/2611.23512v1) | 2611.23512v1 | 6 |
 | 2026-11-16 | [Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design](https://arxiv.org/abs/2611.21029v1) | 2611.21029v1 | 6 |
 | 2026-11-16 | [QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing](https://arxiv.org/abs/2611.20704v1) | 2611.20704v1 | 6 |
 | 2026-11-16 | [Lost in a Few Heads: Diagnosing and Repairing Block Selection in Sparse Attention](https://arxiv.org/abs/2611.21917v1) | 2611.21917v1 | 10 |
@@ -69,6 +72,7 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 | 2026-11-04 | [Systolic Linear Attention: Co-Designing Tile-Grouped Gated Delta Attention for TPUs](https://arxiv.org/abs/2611.06828v1) | 2611.06828v1 | 6 |
 | 2026-11-04 | [Accelerating Long-Context Decoding in Large-Scale Hybrid LLMs Without Retraining](https://arxiv.org/abs/2611.06133v1) | 2611.06133v1 | 3 |
 | 2026-11-04 | [DecoupAttn: Decoupled Sparse Attention for Training-Free Acceleration of Video Diffusion](https://arxiv.org/abs/2611.05917v1) | 2611.05917v1 | 6 |
+| 2026-11-04 | [Systolic Linear Attention: Co-Designing Tile-Grouped Gated Delta Attention for TPUs](https://arxiv.org/abs/2611.06828v2) | 2611.06828v2 | 6 |
 | 2026-11-03 | [Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2611.06956v1) | 2611.06956v1 | 0 |
 | 2026-11-03 | [LeanSparse: Memory-Efficient Serving for Native Sparse-Attention LLMs](https://arxiv.org/abs/2611.04671v1) | 2611.04671v1 | 0 |
 | 2026-11-03 | [Coarse Semantic Blocks for Efficient Training-Free Sparse Attention](https://arxiv.org/abs/2611.04313v1) | 2611.04313v1 | 6 |

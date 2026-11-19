@@ -29,10 +29,15 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-18 | [Equal Steps, Unequal Curvature: Where Muon's Update Goes Wrong](https://arxiv.org/abs/2611.24644v1) | 2611.24644v1 | 15 |
+| 2026-11-18 | [A Euclidean Quasi-Newton Method for Matrix-Manifold Optimization via Almost-Global Coordinates](https://arxiv.org/abs/2611.24101v1) | 2611.24101v1 | 6 |
+| 2026-11-18 | [A Systematic Analysis of a Small Optimal Subspace for Physics-Informed Neural Networks: $n$-DAS $\subset \mathbb{R}^p$](https://arxiv.org/abs/2611.23773v1) | 2611.23773v1 | 6 |
 | 2026-11-17 | [How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU](https://arxiv.org/abs/2611.22844v1) | 2611.22844v1 | 6 |
 | 2026-11-17 | [A Divergence-Free Finite Element Discretization of a Convection-Cooling Optimal Control Problem](https://arxiv.org/abs/2611.22616v1) | 2611.22616v1 | 6 |
 | 2026-11-17 | [Simplicity Goes Far: Auditing Prompt Optimizers with Demonstration-Conditioned Prompt Search](https://arxiv.org/abs/2611.22605v1) | 2611.22605v1 | 7 |
 | 2026-11-17 | [Differentiable High-Order Mesh $r$-Adaptivity](https://arxiv.org/abs/2611.22099v1) | 2611.22099v1 | 6 |
+| 2026-11-17 | [JEPA as a Transferable Optimizer: Learning and Understanding Black-Box Optimization from Reward-Agnostic Pretraining](https://arxiv.org/abs/2611.23608v1) | 2611.23608v1 | 7 |
+| 2026-11-17 | [Optimal Control of RKHS Diffeomorphic Flows for Classification and Generative Modeling](https://arxiv.org/abs/2611.23497v1) | 2611.23497v1 | 9 |
 | 2026-11-16 | [Second-Order Cone Valid Inequalities for Set-Point Tracking with Energy Storage](https://arxiv.org/abs/2611.21526v1) | 2611.21526v1 | 6 |
 | 2026-11-16 | [On the Convergence of Continuous-Time AdamW](https://arxiv.org/abs/2611.20437v1) | 2611.20437v1 | 7 |
 | 2026-11-15 | [U-HamGNN: a universal model for magnetic Hamiltonians conditioned on spin and Hubbard U](https://arxiv.org/abs/2611.20035v1) | 2611.20035v1 | 9 |

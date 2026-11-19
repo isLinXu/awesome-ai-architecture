@@ -28,6 +28,14 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-18 | [Edge-Efficient Joint RAW Image Compression and Restoration for Smart Wearable Devices](https://arxiv.org/abs/2611.24805v1) | 2611.24805v1 | 8 |
+| 2026-11-18 | [Zonotopic Analysis of Quantization Error in Neural Networks](https://arxiv.org/abs/2611.24648v1) | 2611.24648v1 | 6 |
+| 2026-11-18 | [Sparse designs via quantization of the uniform measure on high-dimensional hypercubes](https://arxiv.org/abs/2611.24507v1) | 2611.24507v1 | 9 |
+| 2026-11-18 | [Hardware Acceleration of Vision-Language-Action Models with Weight Precision Rising over the Flow Steps](https://arxiv.org/abs/2611.24234v1) | 2611.24234v1 | 12 |
+| 2026-11-18 | [SoU-RHS: Bayesian Structured Sparsity for Compact Architecture Recovery in CNNs](https://arxiv.org/abs/2611.24166v1) | 2611.24166v1 | 7 |
+| 2026-11-18 | [OMNIS+: Semantic RAN Slicing and Quantization for Dynamic Split Neural Networks](https://arxiv.org/abs/2611.23977v1) | 2611.23977v1 | 8 |
+| 2026-11-18 | [MoMoVL: Modality-Aware Adaptive Compression for On-Device Sparsely-Activated Vision-Language Models](https://arxiv.org/abs/2611.23695v1) | 2611.23695v1 | 10 |
+| 2026-11-18 | [LightSEAD: Lightweight SE(3)-Aware Keypoint Detector through Selective Knowledge Distillation](https://arxiv.org/abs/2611.23661v1) | 2611.23661v1 | 10 |
 | 2026-11-17 | [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://arxiv.org/abs/2611.23229v1) | 2611.23229v1 | 7 |
 | 2026-11-17 | [EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification](https://arxiv.org/abs/2611.23212v1) | 2611.23212v1 | 7 |
 | 2026-11-17 | [Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU](https://arxiv.org/abs/2611.23205v1) | 2611.23205v1 | 14 |
@@ -44,6 +52,12 @@
 | 2026-11-17 | [HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures](https://arxiv.org/abs/2611.22086v1) | 2611.22086v1 | 6 |
 | 2026-11-17 | [Quantum Born Geometries from Modular Quantization](https://arxiv.org/abs/2611.22041v1) | 2611.22041v1 | 6 |
 | 2026-11-17 | [Computed Permutation Trellis Coding: Near-Optimal Quantization from Two Multiplications and a 64-Byte Table](https://arxiv.org/abs/2611.22019v1) | 2611.22019v1 | 10 |
+| 2026-11-17 | [Detecting Empty Abstractions and Pruning Dead Paths in the Linux eBPF Verifier with Abstract Step Functions](https://arxiv.org/abs/2611.23584v1) | 2611.23584v1 | 6 |
+| 2026-11-17 | [Beyond RSRP: An Exploration of Alternative Metrics for Beam Management in an Urban Micro 5G NR Scenario](https://arxiv.org/abs/2611.23552v1) | 2611.23552v1 | 8 |
+| 2026-11-17 | [BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing](https://arxiv.org/abs/2611.23520v1) | 2611.23520v1 | 9 |
+| 2026-11-17 | [Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops](https://arxiv.org/abs/2611.23445v1) | 2611.23445v1 | 25 |
+| 2026-11-17 | [QDA: Closed-Loop LLM Quantization Design with Agents](https://arxiv.org/abs/2611.23388v1) | 2611.23388v1 | 10 |
+| 2026-11-17 | [The Holomorphic-Topological Poisson Sigma Model and Quantization of Affine W-algebras](https://arxiv.org/abs/2611.23377v1) | 2611.23377v1 | 6 |
 | 2026-11-16 | [CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts](https://arxiv.org/abs/2611.21584v1) | 2611.21584v1 | 8 |
 | 2026-11-16 | [Syllable- and Word-Level Evaluation of Tibetan OCR](https://arxiv.org/abs/2611.21303v1) | 2611.21303v1 | 7 |
 | 2026-11-16 | [MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression](https://arxiv.org/abs/2611.21216v1) | 2611.21216v1 | 7 |

@@ -37,6 +37,9 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-18 | [On-Policy Morphing into Hybrid Attention Models](https://arxiv.org/abs/2611.24809v1) | 2611.24809v1 | 6 |
+| 2026-11-18 | [Slim-Mamba: An Efficient and Reconfigurable Mamba-Based Accelerator for Massive MIMO Indoor Localization](https://arxiv.org/abs/2611.24553v1) | 2611.24553v1 | 8 |
+| 2026-11-18 | [Embodied Graph: A Relational World Model for Long-Horizon Tasks](https://arxiv.org/abs/2611.24115v1) | 2611.24115v1 | 6 |
 | 2026-11-17 | [GaussianMamba: Geometric and Relational State Space Scanning of 3D Gaussian Primitives](https://arxiv.org/abs/2611.22742v1) | 2611.22742v1 | 8 |
 | 2026-11-17 | [FM-Mamba: An Efficient Native 2D Selective State Space Model with Stability-Aware Discretization](https://arxiv.org/abs/2611.22061v1) | 2611.22061v1 | 15 |
 | 2026-11-16 | [Latent Lattice Language Models](https://arxiv.org/abs/2611.21608v1) | 2611.21608v1 | 10 |

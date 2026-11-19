@@ -124657,6 +124657,204 @@
       "category": "compression",
       "published": "2026-10-21",
       "score": 6
+    },
+    "2611.24479v1": {
+      "title": "Every Query Routes Itself: Accelerating Video Diffusion Transformers with Per-Query Routed Sparse Attention",
+      "category": "efficient-attention",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.24256v1": {
+      "title": "Spark-H3: Adaptive Block Sparse Attention for Video Diffusion Models",
+      "category": "efficient-attention",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.23512v1": {
+      "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+      "category": "efficient-attention",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.06828v2": {
+      "title": "Systolic Linear Attention: Co-Designing Tile-Grouped Gated Delta Attention for TPUs",
+      "category": "efficient-attention",
+      "published": "2026-11-04",
+      "score": 6
+    },
+    "2611.23933v1": {
+      "title": "TRoPE: Topology-aware Relative Positional Encoding for 4D Generation",
+      "category": "position-normalization",
+      "published": "2026-11-18",
+      "score": 12
+    },
+    "2611.24496v1": {
+      "title": "Harvesting Expert-Parallel Bubbles for Fine-Tuning",
+      "category": "ffn-moe",
+      "published": "2026-11-18",
+      "score": 10
+    },
+    "2611.23838v1": {
+      "title": "Plug-and-Play Multi-Licensee Robust Watermarking for Mixture-of-Experts LLMs",
+      "category": "ffn-moe",
+      "published": "2026-11-18",
+      "score": 8
+    },
+    "2611.23474v1": {
+      "title": "AllotNet: an Interpretable Mixture-of-Experts Choice Model for Moral Judgement in Humanitarian Aid Allocation, Validated against a Planted Synthetic Population",
+      "category": "ffn-moe",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.24809v1": {
+      "title": "On-Policy Morphing into Hybrid Attention Models",
+      "category": "beyond-transformer",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.24553v1": {
+      "title": "Slim-Mamba: An Efficient and Reconfigurable Mamba-Based Accelerator for Massive MIMO Indoor Localization",
+      "category": "beyond-transformer",
+      "published": "2026-11-18",
+      "score": 8
+    },
+    "2611.24115v1": {
+      "title": "Embodied Graph: A Relational World Model for Long-Horizon Tasks",
+      "category": "beyond-transformer",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.24214v1": {
+      "title": "Towards Reliable Scaling Laws for Tabular Foundation Models",
+      "category": "landmark-models",
+      "published": "2026-11-18",
+      "score": 14
+    },
+    "2611.23944v1": {
+      "title": "SIGNTOK: A Text-Aligned Continuous Pose Tokenizer for Sign Language Generation",
+      "category": "tokenization",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.23499v1": {
+      "title": "BiCAT: Bimanual Coordination Action Tokenization",
+      "category": "tokenization",
+      "published": "2026-11-17",
+      "score": 10
+    },
+    "2611.24644v1": {
+      "title": "Equal Steps, Unequal Curvature: Where Muon's Update Goes Wrong",
+      "category": "optimizers",
+      "published": "2026-11-18",
+      "score": 15
+    },
+    "2611.24101v1": {
+      "title": "A Euclidean Quasi-Newton Method for Matrix-Manifold Optimization via Almost-Global Coordinates",
+      "category": "optimizers",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.23773v1": {
+      "title": "A Systematic Analysis of a Small Optimal Subspace for Physics-Informed Neural Networks: $n$-DAS $\\subset \\mathbb{R}^p$",
+      "category": "optimizers",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.23608v1": {
+      "title": "JEPA as a Transferable Optimizer: Learning and Understanding Black-Box Optimization from Reward-Agnostic Pretraining",
+      "category": "optimizers",
+      "published": "2026-11-17",
+      "score": 7
+    },
+    "2611.23497v1": {
+      "title": "Optimal Control of RKHS Diffeomorphic Flows for Classification and Generative Modeling",
+      "category": "optimizers",
+      "published": "2026-11-17",
+      "score": 9
+    },
+    "2611.24805v1": {
+      "title": "Edge-Efficient Joint RAW Image Compression and Restoration for Smart Wearable Devices",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 8
+    },
+    "2611.24648v1": {
+      "title": "Zonotopic Analysis of Quantization Error in Neural Networks",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.24507v1": {
+      "title": "Sparse designs via quantization of the uniform measure on high-dimensional hypercubes",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 9
+    },
+    "2611.24234v1": {
+      "title": "Hardware Acceleration of Vision-Language-Action Models with Weight Precision Rising over the Flow Steps",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 12
+    },
+    "2611.24166v1": {
+      "title": "SoU-RHS: Bayesian Structured Sparsity for Compact Architecture Recovery in CNNs",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 7
+    },
+    "2611.23977v1": {
+      "title": "OMNIS+: Semantic RAN Slicing and Quantization for Dynamic Split Neural Networks",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 8
+    },
+    "2611.23695v1": {
+      "title": "MoMoVL: Modality-Aware Adaptive Compression for On-Device Sparsely-Activated Vision-Language Models",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 10
+    },
+    "2611.23661v1": {
+      "title": "LightSEAD: Lightweight SE(3)-Aware Keypoint Detector through Selective Knowledge Distillation",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 10
+    },
+    "2611.23584v1": {
+      "title": "Detecting Empty Abstractions and Pruning Dead Paths in the Linux eBPF Verifier with Abstract Step Functions",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.23552v1": {
+      "title": "Beyond RSRP: An Exploration of Alternative Metrics for Beam Management in an Urban Micro 5G NR Scenario",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 8
+    },
+    "2611.23520v1": {
+      "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 9
+    },
+    "2611.23445v1": {
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 25
+    },
+    "2611.23388v1": {
+      "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 10
+    },
+    "2611.23377v1": {
+      "title": "The Holomorphic-Topological Poisson Sigma Model and Quantization of Affine W-algebras",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 6
     }
   }
 }

@@ -25,6 +25,8 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-18 | [SIGNTOK: A Text-Aligned Continuous Pose Tokenizer for Sign Language Generation](https://arxiv.org/abs/2611.23944v1) | 2611.23944v1 | 6 |
+| 2026-11-17 | [BiCAT: Bimanual Coordination Action Tokenization](https://arxiv.org/abs/2611.23499v1) | 2611.23499v1 | 10 |
 | 2026-11-15 | [FIDEL: Abugida-Aware Pre-tokenization for Ethiopic Languages](https://arxiv.org/abs/2611.20216v1) | 2611.20216v1 | 18 |
 | 2026-11-15 | [A Corpus-Driven SentencePiece Unigram Tokenizer for Sindhi: Design and Benchmark Against Fourteen Existing Tokenizers](https://arxiv.org/abs/2611.20126v1) | 2611.20126v1 | 8 |
 | 2026-11-15 | [The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use](https://arxiv.org/abs/2611.19913v1) | 2611.19913v1 | 10 |

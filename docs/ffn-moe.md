@@ -30,8 +30,11 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-18 | [Harvesting Expert-Parallel Bubbles for Fine-Tuning](https://arxiv.org/abs/2611.24496v1) | 2611.24496v1 | 10 |
+| 2026-11-18 | [Plug-and-Play Multi-Licensee Robust Watermarking for Mixture-of-Experts LLMs](https://arxiv.org/abs/2611.23838v1) | 2611.23838v1 | 8 |
 | 2026-11-17 | [ReMoE: An Interpretable Mixture-of-Experts Framework for Human Mobility Recovery Forecasting Across Disasters](https://arxiv.org/abs/2611.22133v1) | 2611.22133v1 | 8 |
 | 2026-11-17 | [What MoE Routing Controls: Causal Interventions on Expert Trajectories](https://arxiv.org/abs/2611.22120v1) | 2611.22120v1 | 6 |
+| 2026-11-17 | [AllotNet: an Interpretable Mixture-of-Experts Choice Model for Moral Judgement in Humanitarian Aid Allocation, Validated against a Planted Synthetic Population](https://arxiv.org/abs/2611.23474v1) | 2611.23474v1 | 6 |
 | 2026-11-16 | [ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping in MoE-MLLMs](https://arxiv.org/abs/2611.20885v1) | 2611.20885v1 | 8 |
 | 2026-11-16 | [UNITE: Consolidating Embodied VLM Specialists via Shared-Anchor One-Bit Factorization](https://arxiv.org/abs/2611.20767v1) | 2611.20767v1 | 8 |
 | 2026-11-16 | [ParGLU: Partial Gating Improves Language Modeling in MoE Transformers](https://arxiv.org/abs/2611.20663v1) | 2611.20663v1 | 8 |
