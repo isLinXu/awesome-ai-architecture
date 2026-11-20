@@ -37,9 +37,13 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-19 | [Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields](https://arxiv.org/abs/2611.26355v1) | 2611.26355v1 | 7 |
+| 2026-11-19 | [FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models](https://arxiv.org/abs/2611.26020v1) | 2611.26020v1 | 6 |
+| 2026-11-19 | [MambaLIFT: Reference-Based Mechanism-Aware Attribution for VMamba](https://arxiv.org/abs/2611.25644v1) | 2611.25644v1 | 8 |
 | 2026-11-18 | [On-Policy Morphing into Hybrid Attention Models](https://arxiv.org/abs/2611.24809v1) | 2611.24809v1 | 6 |
 | 2026-11-18 | [Slim-Mamba: An Efficient and Reconfigurable Mamba-Based Accelerator for Massive MIMO Indoor Localization](https://arxiv.org/abs/2611.24553v1) | 2611.24553v1 | 8 |
 | 2026-11-18 | [Embodied Graph: A Relational World Model for Long-Horizon Tasks](https://arxiv.org/abs/2611.24115v1) | 2611.24115v1 | 6 |
+| 2026-11-18 | [DS3M: Deep structured state space models for nonlinear system identification on modern hardware](https://arxiv.org/abs/2611.25274v1) | 2611.25274v1 | 6 |
 | 2026-11-17 | [GaussianMamba: Geometric and Relational State Space Scanning of 3D Gaussian Primitives](https://arxiv.org/abs/2611.22742v1) | 2611.22742v1 | 8 |
 | 2026-11-17 | [FM-Mamba: An Efficient Native 2D Selective State Space Model with Stability-Aware Discretization](https://arxiv.org/abs/2611.22061v1) | 2611.22061v1 | 15 |
 | 2026-11-16 | [Latent Lattice Language Models](https://arxiv.org/abs/2611.21608v1) | 2611.21608v1 | 10 |
@@ -54,6 +58,7 @@
 | 2026-11-12 | [Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences](https://arxiv.org/abs/2611.16934v1) | 2611.16934v1 | 6 |
 | 2026-11-12 | [Climate Temporal Temperature Prediction via an Adaptive Stacked Bidirectional Residual Mamba Network](https://arxiv.org/abs/2611.16322v1) | 2611.16322v1 | 12 |
 | 2026-11-12 | [Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences](https://arxiv.org/abs/2611.16934v2) | 2611.16934v2 | 6 |
+| 2026-11-12 | [Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality](https://arxiv.org/abs/2611.24963v1) | 2611.24963v1 | 10 |
 | 2026-11-11 | [SCR-Mamba: Skeleton-conditioned Mamba with cross-scale incremental refinement for efficient 3D human pose estimation](https://arxiv.org/abs/2611.15526v1) | 2611.15526v1 | 6 |
 | 2026-11-11 | [The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals](https://arxiv.org/abs/2611.14955v1) | 2611.14955v1 | 6 |
 | 2026-11-10 | [SinkState: On-the-Fly SVD of Recurrent States for Efficient Hybrid LLM Serving](https://arxiv.org/abs/2611.14246v1) | 2611.14246v1 | 13 |

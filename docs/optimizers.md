@@ -29,9 +29,14 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-19 | [RL Can Only Reinforce What It Sees Succeed](https://arxiv.org/abs/2611.26084v1) | 2611.26084v1 | 6 |
+| 2026-11-19 | [The Statistical Cost of Second-Order Orthogonality](https://arxiv.org/abs/2611.25702v1) | 2611.25702v1 | 6 |
+| 2026-11-19 | [Dune: A Zeroth-Order Optimizer with Time-Conditioned Historical Error Regression for VLA Test-Time Adaptation](https://arxiv.org/abs/2611.25400v1) | 2611.25400v1 | 8 |
+| 2026-11-19 | [Variational integrators for time-dependent Lagrangian systems on Lie groups](https://arxiv.org/abs/2611.25313v1) | 2611.25313v1 | 7 |
 | 2026-11-18 | [Equal Steps, Unequal Curvature: Where Muon's Update Goes Wrong](https://arxiv.org/abs/2611.24644v1) | 2611.24644v1 | 15 |
 | 2026-11-18 | [A Euclidean Quasi-Newton Method for Matrix-Manifold Optimization via Almost-Global Coordinates](https://arxiv.org/abs/2611.24101v1) | 2611.24101v1 | 6 |
 | 2026-11-18 | [A Systematic Analysis of a Small Optimal Subspace for Physics-Informed Neural Networks: $n$-DAS $\subset \mathbb{R}^p$](https://arxiv.org/abs/2611.23773v1) | 2611.23773v1 | 6 |
+| 2026-11-18 | [Federated Learning of Car Aerodynamics Surrogates with Spectral Optimizers](https://arxiv.org/abs/2611.25300v1) | 2611.25300v1 | 11 |
 | 2026-11-17 | [How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU](https://arxiv.org/abs/2611.22844v1) | 2611.22844v1 | 6 |
 | 2026-11-17 | [A Divergence-Free Finite Element Discretization of a Convection-Cooling Optimal Control Problem](https://arxiv.org/abs/2611.22616v1) | 2611.22616v1 | 6 |
 | 2026-11-17 | [Simplicity Goes Far: Auditing Prompt Optimizers with Demonstration-Conditioned Prompt Search](https://arxiv.org/abs/2611.22605v1) | 2611.22605v1 | 7 |

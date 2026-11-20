@@ -28,6 +28,16 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-19 | [Beam Model Technical Report](https://arxiv.org/abs/2611.26358v1) | 2611.26358v1 | 7 |
+| 2026-11-19 | [Sirius-Tiamat: How Small Can a One-Pass Decision Encoder Get Before Its Decisions Change?](https://arxiv.org/abs/2611.26339v1) | 2611.26339v1 | 10 |
+| 2026-11-19 | [Online Temporal Rotations for 2 Bit KV-Cache Quantization in Video Diffusion Transformers](https://arxiv.org/abs/2611.26334v1) | 2611.26334v1 | 7 |
+| 2026-11-19 | [NariQ: Sub-3-Bit Quantization for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2611.26157v1) | 2611.26157v1 | 9 |
+| 2026-11-19 | [SCCV-6D: Sparse Canonical Coordinate Voting for Holistic Multi-View RGB-D 6D Pose Estimation in Robotic Bin Picking](https://arxiv.org/abs/2611.25819v1) | 2611.25819v1 | 6 |
+| 2026-11-19 | [VR-SparseQuant: Accurate FP4 Quantization with 2:4 Sparsity on Vera Rubin](https://arxiv.org/abs/2611.25717v1) | 2611.25717v1 | 10 |
+| 2026-11-19 | [Efficient Latent Reasoning for Vision-Language Model via Dynamics-Aware Quantization and Distillation](https://arxiv.org/abs/2611.25670v1) | 2611.25670v1 | 13 |
+| 2026-11-19 | [Don't Lose the Future: Latent-Aware 4-Bit Quantization of World Action Models](https://arxiv.org/abs/2611.25614v1) | 2611.25614v1 | 12 |
+| 2026-11-19 | [Query-Aware vs. Query-Agnostic Training-Free Video Token Pruning in Multimodal LLMs](https://arxiv.org/abs/2611.25537v1) | 2611.25537v1 | 6 |
+| 2026-11-19 | [RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression](https://arxiv.org/abs/2611.25433v1) | 2611.25433v1 | 7 |
 | 2026-11-18 | [Edge-Efficient Joint RAW Image Compression and Restoration for Smart Wearable Devices](https://arxiv.org/abs/2611.24805v1) | 2611.24805v1 | 8 |
 | 2026-11-18 | [Zonotopic Analysis of Quantization Error in Neural Networks](https://arxiv.org/abs/2611.24648v1) | 2611.24648v1 | 6 |
 | 2026-11-18 | [Sparse designs via quantization of the uniform measure on high-dimensional hypercubes](https://arxiv.org/abs/2611.24507v1) | 2611.24507v1 | 9 |
@@ -36,6 +46,10 @@
 | 2026-11-18 | [OMNIS+: Semantic RAN Slicing and Quantization for Dynamic Split Neural Networks](https://arxiv.org/abs/2611.23977v1) | 2611.23977v1 | 8 |
 | 2026-11-18 | [MoMoVL: Modality-Aware Adaptive Compression for On-Device Sparsely-Activated Vision-Language Models](https://arxiv.org/abs/2611.23695v1) | 2611.23695v1 | 10 |
 | 2026-11-18 | [LightSEAD: Lightweight SE(3)-Aware Keypoint Detector through Selective Knowledge Distillation](https://arxiv.org/abs/2611.23661v1) | 2611.23661v1 | 10 |
+| 2026-11-18 | [Intelligent Embedding Pruning for Large-Scale Recommendation Models](https://arxiv.org/abs/2611.25288v1) | 2611.25288v1 | 8 |
+| 2026-11-18 | [Learning to Verify: Signature-Guided Training for Adaptive Adversarial Detection](https://arxiv.org/abs/2611.25271v1) | 2611.25271v1 | 7 |
+| 2026-11-18 | [LQ-Rec: Late Quantization for Sequential Recommendation](https://arxiv.org/abs/2611.25256v1) | 2611.25256v1 | 7 |
+| 2026-11-18 | [TALD: Transferability-Aware Logit Disentanglement for Cross-Modal Knowledge Distillation](https://arxiv.org/abs/2611.25126v1) | 2611.25126v1 | 10 |
 | 2026-11-17 | [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://arxiv.org/abs/2611.23229v1) | 2611.23229v1 | 7 |
 | 2026-11-17 | [EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification](https://arxiv.org/abs/2611.23212v1) | 2611.23212v1 | 7 |
 | 2026-11-17 | [Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU](https://arxiv.org/abs/2611.23205v1) | 2611.23205v1 | 14 |
@@ -58,6 +72,7 @@
 | 2026-11-17 | [Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops](https://arxiv.org/abs/2611.23445v1) | 2611.23445v1 | 25 |
 | 2026-11-17 | [QDA: Closed-Loop LLM Quantization Design with Agents](https://arxiv.org/abs/2611.23388v1) | 2611.23388v1 | 10 |
 | 2026-11-17 | [The Holomorphic-Topological Poisson Sigma Model and Quantization of Affine W-algebras](https://arxiv.org/abs/2611.23377v1) | 2611.23377v1 | 6 |
+| 2026-11-17 | [Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops](https://arxiv.org/abs/2611.23445v2) | 2611.23445v2 | 25 |
 | 2026-11-16 | [CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts](https://arxiv.org/abs/2611.21584v1) | 2611.21584v1 | 8 |
 | 2026-11-16 | [Syllable- and Word-Level Evaluation of Tibetan OCR](https://arxiv.org/abs/2611.21303v1) | 2611.21303v1 | 7 |
 | 2026-11-16 | [MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression](https://arxiv.org/abs/2611.21216v1) | 2611.21216v1 | 7 |
@@ -113,6 +128,7 @@
 | 2026-11-11 | [DiFiT: Distribution-Fidelity-guided Visual Token Pruning for Multimodal Large Language Models](https://arxiv.org/abs/2611.15069v1) | 2611.15069v1 | 9 |
 | 2026-11-11 | [Hijacking a Trusted LLM in Real-World Quantized Deployments Only Requires a Disguised Adapter](https://arxiv.org/abs/2611.14978v1) | 2611.14978v1 | 9 |
 | 2026-11-11 | [Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs](https://arxiv.org/abs/2611.14924v1) | 2611.14924v1 | 18 |
+| 2026-11-11 | [ICARE: cross-domain text classification with incremental class-aware representation and distillation learning](https://arxiv.org/abs/2611.24959v1) | 2611.24959v1 | 12 |
 | 2026-11-10 | [Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model](https://arxiv.org/abs/2611.14418v1) | 2611.14418v1 | 8 |
 | 2026-11-10 | [Joint Quantization and Dynamic Partitioning for Context-Aware Edge Vision Transformers](https://arxiv.org/abs/2611.14196v1) | 2611.14196v1 | 11 |
 | 2026-11-10 | [Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals](https://arxiv.org/abs/2611.14066v1) | 2611.14066v1 | 7 |
@@ -258,6 +274,7 @@
 | 2026-11-01 | [SparseForge: Beyond Spike Sparsity toward Hardware-Exploitable Neuron Pruning for Efficient SNN Acceleration](https://arxiv.org/abs/2611.01611v1) | 2611.01611v1 | 10 |
 | 2026-11-01 | [Search-Aware On-Policy Self-Distillation with Sibling Alignment for Generative Recommendation](https://arxiv.org/abs/2611.01568v1) | 2611.01568v1 | 8 |
 | 2026-11-01 | [Sensitivity Inflation from Cross-Record Precision Routing in Private Quantized Fine-Tuning](https://arxiv.org/abs/2611.01411v1) | 2611.01411v1 | 10 |
+| 2026-11-01 | [MedPsy: State-of-the-Art Small Medical Language Models for Efficient Edge Deployment](https://arxiv.org/abs/2611.02011v2) | 2611.02011v2 | 6 |
 | 2026-10-31 | [Context-Shielded Backdoor Attack against Large Vision-Language Models](https://arxiv.org/abs/2611.01252v1) | 2611.01252v1 | 6 |
 | 2026-10-31 | [SHield: Watermarking 4D Gaussian Splatting via Spherical Harmonic Coefficient Perturbation](https://arxiv.org/abs/2611.01162v1) | 2611.01162v1 | 12 |
 | 2026-10-31 | [EMG-Hybrid: A Dual-Engine Elite Memory--Guided Adaptive Optimization Framework for High-Dimensional Feature Selection](https://arxiv.org/abs/2611.01140v1) | 2611.01140v1 | 6 |

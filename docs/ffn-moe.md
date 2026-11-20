@@ -30,6 +30,8 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-19 | [RouteVerify: Routing Interventions for Step-Level Verification in Mixture-of-Experts Models](https://arxiv.org/abs/2611.25780v1) | 2611.25780v1 | 8 |
+| 2026-11-19 | [CGM: Chaos-Guided Graph Attention and Expert Routing for Autism Stereotypy Detection](https://arxiv.org/abs/2611.25730v1) | 2611.25730v1 | 10 |
 | 2026-11-18 | [Harvesting Expert-Parallel Bubbles for Fine-Tuning](https://arxiv.org/abs/2611.24496v1) | 2611.24496v1 | 10 |
 | 2026-11-18 | [Plug-and-Play Multi-Licensee Robust Watermarking for Mixture-of-Experts LLMs](https://arxiv.org/abs/2611.23838v1) | 2611.23838v1 | 8 |
 | 2026-11-17 | [ReMoE: An Interpretable Mixture-of-Experts Framework for Human Mobility Recovery Forecasting Across Disasters](https://arxiv.org/abs/2611.22133v1) | 2611.22133v1 | 8 |
@@ -87,6 +89,7 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 | 2026-11-02 | [MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking](https://arxiv.org/abs/2611.02613v1) | 2611.02613v1 | 6 |
 | 2026-11-02 | [VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts](https://arxiv.org/abs/2611.03043v2) | 2611.03043v2 | 11 |
 | 2026-11-02 | [VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts](https://arxiv.org/abs/2611.03043v3) | 2611.03043v3 | 11 |
+| 2026-11-02 | [VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts](https://arxiv.org/abs/2611.03043v4) | 2611.03043v4 | 11 |
 | 2026-11-01 | [MatMoE: Matryoshka Mixture-of-Experts with Dynamic Mixed-Precision Quantization for Efficient Inference](https://arxiv.org/abs/2611.01704v1) | 2611.01704v1 | 6 |
 | 2026-11-01 | [When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts](https://arxiv.org/abs/2611.01602v1) | 2611.01602v1 | 6 |
 | 2026-10-30 | [PRISM-Net: Dynamic Routing Network with VLM-Guided Disentangled Attribute Distillation for Explainable Fine-Grained Product Retrieval](https://arxiv.org/abs/2611.00458v1) | 2611.00458v1 | 0 |

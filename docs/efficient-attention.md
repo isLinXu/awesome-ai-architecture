@@ -43,6 +43,7 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-19 | [DTS: Delta-Based Tile Scoring for Efficient Long-Context Sparse Attention](https://arxiv.org/abs/2611.25938v1) | 2611.25938v1 | 9 |
 | 2026-11-18 | [Every Query Routes Itself: Accelerating Video Diffusion Transformers with Per-Query Routed Sparse Attention](https://arxiv.org/abs/2611.24479v1) | 2611.24479v1 | 6 |
 | 2026-11-18 | [Spark-H3: Adaptive Block Sparse Attention for Video Diffusion Models](https://arxiv.org/abs/2611.24256v1) | 2611.24256v1 | 6 |
 | 2026-11-17 | [LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF](https://arxiv.org/abs/2611.22746v1) | 2611.22746v1 | 6 |

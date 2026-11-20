@@ -124855,6 +124855,234 @@
       "category": "compression",
       "published": "2026-11-17",
       "score": 6
+    },
+    "2611.26106v1": {
+      "title": "AscMLA: Unlocking FP4 Efficiency for Long-Context MLA Decoding through Asymmetric Scaling",
+      "category": "attention-variants",
+      "published": "2026-11-19",
+      "score": 12
+    },
+    "2611.25938v1": {
+      "title": "DTS: Delta-Based Tile Scoring for Efficient Long-Context Sparse Attention",
+      "category": "efficient-attention",
+      "published": "2026-11-19",
+      "score": 9
+    },
+    "2611.26450v1": {
+      "title": "A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights",
+      "category": "position-normalization",
+      "published": "2026-11-19",
+      "score": 12
+    },
+    "2611.26437v1": {
+      "title": "Asuka-FM: A System-Architectural Co-Design Framework for Efficient Text-to-Image Pretraining on Consumer Hardware",
+      "category": "position-normalization",
+      "published": "2026-11-19",
+      "score": 11
+    },
+    "2611.26385v1": {
+      "title": "Beyond the Sink Interpretation: Radial Attention in Flow-Based VLA Policies",
+      "category": "position-normalization",
+      "published": "2026-11-19",
+      "score": 8
+    },
+    "2611.26363v1": {
+      "title": "HiSA: Sparsifying the Hidden Dimension of RoPE Attention in LLMs",
+      "category": "position-normalization",
+      "published": "2026-11-19",
+      "score": 12
+    },
+    "2611.22717v2": {
+      "title": "PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation",
+      "category": "position-normalization",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.25780v1": {
+      "title": "RouteVerify: Routing Interventions for Step-Level Verification in Mixture-of-Experts Models",
+      "category": "ffn-moe",
+      "published": "2026-11-19",
+      "score": 8
+    },
+    "2611.25730v1": {
+      "title": "CGM: Chaos-Guided Graph Attention and Expert Routing for Autism Stereotypy Detection",
+      "category": "ffn-moe",
+      "published": "2026-11-19",
+      "score": 10
+    },
+    "2611.03043v4": {
+      "title": "VideoEditor-MoE: Scaling Complex Video Editing with Mixture of Experts",
+      "category": "ffn-moe",
+      "published": "2026-11-02",
+      "score": 11
+    },
+    "2611.26355v1": {
+      "title": "Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields",
+      "category": "beyond-transformer",
+      "published": "2026-11-19",
+      "score": 7
+    },
+    "2611.26020v1": {
+      "title": "FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models",
+      "category": "beyond-transformer",
+      "published": "2026-11-19",
+      "score": 6
+    },
+    "2611.25644v1": {
+      "title": "MambaLIFT: Reference-Based Mechanism-Aware Attribution for VMamba",
+      "category": "beyond-transformer",
+      "published": "2026-11-19",
+      "score": 8
+    },
+    "2611.25274v1": {
+      "title": "DS3M: Deep structured state space models for nonlinear system identification on modern hardware",
+      "category": "beyond-transformer",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.24963v1": {
+      "title": "Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality",
+      "category": "beyond-transformer",
+      "published": "2026-11-12",
+      "score": 10
+    },
+    "2611.25651v1": {
+      "title": "MatVerse: A Foundation Model for Materials Science",
+      "category": "landmark-models",
+      "published": "2026-11-19",
+      "score": 11
+    },
+    "2611.26084v1": {
+      "title": "RL Can Only Reinforce What It Sees Succeed",
+      "category": "optimizers",
+      "published": "2026-11-19",
+      "score": 6
+    },
+    "2611.25702v1": {
+      "title": "The Statistical Cost of Second-Order Orthogonality",
+      "category": "optimizers",
+      "published": "2026-11-19",
+      "score": 6
+    },
+    "2611.25400v1": {
+      "title": "Dune: A Zeroth-Order Optimizer with Time-Conditioned Historical Error Regression for VLA Test-Time Adaptation",
+      "category": "optimizers",
+      "published": "2026-11-19",
+      "score": 8
+    },
+    "2611.25313v1": {
+      "title": "Variational integrators for time-dependent Lagrangian systems on Lie groups",
+      "category": "optimizers",
+      "published": "2026-11-19",
+      "score": 7
+    },
+    "2611.25300v1": {
+      "title": "Federated Learning of Car Aerodynamics Surrogates with Spectral Optimizers",
+      "category": "optimizers",
+      "published": "2026-11-18",
+      "score": 11
+    },
+    "2611.26358v1": {
+      "title": "Beam Model Technical Report",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 7
+    },
+    "2611.26339v1": {
+      "title": "Sirius-Tiamat: How Small Can a One-Pass Decision Encoder Get Before Its Decisions Change?",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 10
+    },
+    "2611.26334v1": {
+      "title": "Online Temporal Rotations for 2 Bit KV-Cache Quantization in Video Diffusion Transformers",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 7
+    },
+    "2611.26157v1": {
+      "title": "NariQ: Sub-3-Bit Quantization for Long-Horizon Agentic Tasks",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 9
+    },
+    "2611.25819v1": {
+      "title": "SCCV-6D: Sparse Canonical Coordinate Voting for Holistic Multi-View RGB-D 6D Pose Estimation in Robotic Bin Picking",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 6
+    },
+    "2611.25717v1": {
+      "title": "VR-SparseQuant: Accurate FP4 Quantization with 2:4 Sparsity on Vera Rubin",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 10
+    },
+    "2611.25670v1": {
+      "title": "Efficient Latent Reasoning for Vision-Language Model via Dynamics-Aware Quantization and Distillation",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 13
+    },
+    "2611.25614v1": {
+      "title": "Don't Lose the Future: Latent-Aware 4-Bit Quantization of World Action Models",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 12
+    },
+    "2611.25537v1": {
+      "title": "Query-Aware vs. Query-Agnostic Training-Free Video Token Pruning in Multimodal LLMs",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 6
+    },
+    "2611.25433v1": {
+      "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+      "category": "compression",
+      "published": "2026-11-19",
+      "score": 7
+    },
+    "2611.25288v1": {
+      "title": "Intelligent Embedding Pruning for Large-Scale Recommendation Models",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 8
+    },
+    "2611.25271v1": {
+      "title": "Learning to Verify: Signature-Guided Training for Adaptive Adversarial Detection",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 7
+    },
+    "2611.25256v1": {
+      "title": "LQ-Rec: Late Quantization for Sequential Recommendation",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 7
+    },
+    "2611.25126v1": {
+      "title": "TALD: Transferability-Aware Logit Disentanglement for Cross-Modal Knowledge Distillation",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 10
+    },
+    "2611.23445v2": {
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 25
+    },
+    "2611.24959v1": {
+      "title": "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning",
+      "category": "compression",
+      "published": "2026-11-11",
+      "score": 12
+    },
+    "2611.02011v2": {
+      "title": "MedPsy: State-of-the-Art Small Medical Language Models for Efficient Edge Deployment",
+      "category": "compression",
+      "published": "2026-11-01",
+      "score": 6
     }
   }
 }
