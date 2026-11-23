@@ -16,9 +16,9 @@
 
 | 收录论文 | 近 7 天新论文 | 赛道数 |
 | --: | --: | --: |
-| <!--STATS:papers-->21015<!--/STATS:papers--> 篇 | <!--STATS:papers_new-->+136<!--/STATS:papers_new--> | 11 条 |
+| <!--STATS:papers-->21044<!--/STATS:papers--> 篇 | <!--STATS:papers_new-->+153<!--/STATS:papers_new--> | 11 条 |
 
-> 最后自动更新：<!--STATS:updated-->2026-11-22<!--/STATS:updated-->
+> 最后自动更新：<!--STATS:updated-->2026-11-23<!--/STATS:updated-->
 
 ---
 
@@ -78,15 +78,15 @@
 | 赛道 | 一句话 | 文档 | 必读 | 收录 |
 | :-- | :-- | :-- | --: | --: |
 | 🧭 **Attention Variants** | 从 MHA 到 MLA：KV cache 的压缩简史 | [attention-variants.md](docs/attention-variants.md) | 17 | <!--STATS:cat_attention-variants-->99<!--/STATS:cat_attention-variants--> 篇 |
-| ⚡ **Efficient Attention** | O(n²) 太贵：稀疏、线性与长上下文 | [efficient-attention.md](docs/efficient-attention.md) | 19 | <!--STATS:cat_efficient-attention-->982<!--/STATS:cat_efficient-attention--> 篇 |
-| 🧱 **Position & Normalization** | 位置怎么编、层怎么稳 | [position-normalization.md](docs/position-normalization.md) | 11 | <!--STATS:cat_position-normalization-->772<!--/STATS:cat_position-normalization--> 篇 |
-| 🔀 **FFN & MoE** | 模型的另一半算力花在哪 | [ffn-moe.md](docs/ffn-moe.md) | 7 | <!--STATS:cat_ffn-moe-->1795<!--/STATS:cat_ffn-moe--> 篇 |
+| ⚡ **Efficient Attention** | O(n²) 太贵：稀疏、线性与长上下文 | [efficient-attention.md](docs/efficient-attention.md) | 19 | <!--STATS:cat_efficient-attention-->984<!--/STATS:cat_efficient-attention--> 篇 |
+| 🧱 **Position & Normalization** | 位置怎么编、层怎么稳 | [position-normalization.md](docs/position-normalization.md) | 11 | <!--STATS:cat_position-normalization-->775<!--/STATS:cat_position-normalization--> 篇 |
+| 🔀 **FFN & MoE** | 模型的另一半算力花在哪 | [ffn-moe.md](docs/ffn-moe.md) | 7 | <!--STATS:cat_ffn-moe-->1797<!--/STATS:cat_ffn-moe--> 篇 |
 | 🌊 **Beyond Transformer** | SSM、线性注意力与混合架构 | [beyond-transformer.md](docs/beyond-transformer.md) | 13 | <!--STATS:cat_beyond-transformer-->2491<!--/STATS:cat_beyond-transformer--> 篇 |
 | 🔬 **Interpretability** | 拆开看：模块各自在干什么 | [interpretability.md](docs/interpretability.md) | 3 | <!--STATS:cat_interpretability-->255<!--/STATS:cat_interpretability--> 篇 |
 | 🛠️ **Implementations** | 从一行公式到一颗 kernel（横切） | [implementations.md](docs/implementations.md) | 5 | <!--STATS:cat_implementations-->3<!--/STATS:cat_implementations--> 篇 |
-| 🧩 **Tokenization & Input** | 模型看到世界的第一道工序 | [tokenization.md](docs/tokenization.md) | 8 | <!--STATS:cat_tokenization-->1517<!--/STATS:cat_tokenization--> 篇 |
-| 🏋️ **Optimizers & Training** | 架构决定曲面，优化器决定怎么走 | [optimizers.md](docs/optimizers.md) | 11 | <!--STATS:cat_optimizers-->1040<!--/STATS:cat_optimizers--> 篇 |
-| 🗜️ **Compression & Deployment** | 量化、蒸馏、剪枝：让大模型住得进显卡 | [compression.md](docs/compression.md) | 11 | <!--STATS:cat_compression-->11333<!--/STATS:cat_compression--> 篇 |
+| 🧩 **Tokenization & Input** | 模型看到世界的第一道工序 | [tokenization.md](docs/tokenization.md) | 8 | <!--STATS:cat_tokenization-->1521<!--/STATS:cat_tokenization--> 篇 |
+| 🏋️ **Optimizers & Training** | 架构决定曲面，优化器决定怎么走 | [optimizers.md](docs/optimizers.md) | 11 | <!--STATS:cat_optimizers-->1045<!--/STATS:cat_optimizers--> 篇 |
+| 🗜️ **Compression & Deployment** | 量化、蒸馏、剪枝：让大模型住得进显卡 | [compression.md](docs/compression.md) | 11 | <!--STATS:cat_compression-->11346<!--/STATS:cat_compression--> 篇 |
 | 🏛️ **Landmark Models** | 模块组合的集成验证：技术报告与 scaling law | [landmark-models.md](docs/landmark-models.md) | 13 | <!--STATS:cat_landmark-models-->614<!--/STATS:cat_landmark-models--> 篇 |
 
 ## 怎么用

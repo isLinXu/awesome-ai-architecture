@@ -25,6 +25,10 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-20 | [How Many Bytes Has a BPE Model Seen? Estimating Byte-Token Exposure in Pretraining from Corpus Statistics and Embedding Norms](https://arxiv.org/abs/2611.27506v1) | 2611.27506v1 | 10 |
+| 2026-11-20 | [Alignment without Transfer: Tokenization Impacts Cross-lingual Representations during Multilingual Language Model Pretraining](https://arxiv.org/abs/2611.27491v1) | 2611.27491v1 | 12 |
+| 2026-11-20 | [How Far Does Lossless Re-tokenization Move an RLVR Update?](https://arxiv.org/abs/2611.27083v1) | 2611.27083v1 | 6 |
+| 2026-11-20 | [Tokenize Moments, Not Frames: Tokenizer-Aware Budget Allocation for Training-Free Video LLM Acceleration](https://arxiv.org/abs/2611.26933v1) | 2611.26933v1 | 8 |
 | 2026-11-18 | [SIGNTOK: A Text-Aligned Continuous Pose Tokenizer for Sign Language Generation](https://arxiv.org/abs/2611.23944v1) | 2611.23944v1 | 6 |
 | 2026-11-17 | [BiCAT: Bimanual Coordination Action Tokenization](https://arxiv.org/abs/2611.23499v1) | 2611.23499v1 | 10 |
 | 2026-11-15 | [FIDEL: Abugida-Aware Pre-tokenization for Ethiopic Languages](https://arxiv.org/abs/2611.20216v1) | 2611.20216v1 | 18 |

@@ -28,6 +28,17 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-20 | [Model Carving: Training Transformers That Optimize Their Own Topology](https://arxiv.org/abs/2611.27962v1) | 2611.27962v1 | 7 |
+| 2026-11-20 | [QuantStream3D: Geometry-Aligned Low-Bit KV Cache Quantization for Streaming Visual Geometry Transformers](https://arxiv.org/abs/2611.27901v1) | 2611.27901v1 | 14 |
+| 2026-11-20 | [Structurally Different, Functionally Persistent: Capability Regions Under Model Optimization](https://arxiv.org/abs/2611.27445v1) | 2611.27445v1 | 10 |
+| 2026-11-20 | [Jagged Robustness: Uneven Safety Transfer and Emerging Vulnerabilities under LLM Quantization](https://arxiv.org/abs/2611.27424v1) | 2611.27424v1 | 7 |
+| 2026-11-20 | [WePM: Hierarchical Conflict Reconciliation for Unified MLLMs](https://arxiv.org/abs/2611.27365v1) | 2611.27365v1 | 7 |
+| 2026-11-20 | [The Vulnerability Window: Decision Instability in Quantized Reward Models](https://arxiv.org/abs/2611.27155v1) | 2611.27155v1 | 8 |
+| 2026-11-20 | [Distillation with Errors: Sparse Unbiased Backpropagation for Knowledge Distillation](https://arxiv.org/abs/2611.27131v1) | 2611.27131v1 | 13 |
+| 2026-11-20 | [Highly Efficient Vertical Federated Clustering with Triangle-Inequality-based Pruning](https://arxiv.org/abs/2611.27117v1) | 2611.27117v1 | 6 |
+| 2026-11-20 | [PLoQ: A Prompt-Specific Low-Rank Basis for 4-bit Quantization of LLM Activations](https://arxiv.org/abs/2611.27092v1) | 2611.27092v1 | 12 |
+| 2026-11-20 | [A Continuous Relaxation of Quantization-Aware Training](https://arxiv.org/abs/2611.27056v1) | 2611.27056v1 | 9 |
+| 2026-11-20 | [MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs](https://arxiv.org/abs/2611.26976v1) | 2611.26976v1 | 10 |
 | 2026-11-19 | [Beam Model Technical Report](https://arxiv.org/abs/2611.26358v1) | 2611.26358v1 | 7 |
 | 2026-11-19 | [Sirius-Tiamat: How Small Can a One-Pass Decision Encoder Get Before Its Decisions Change?](https://arxiv.org/abs/2611.26339v1) | 2611.26339v1 | 10 |
 | 2026-11-19 | [Online Temporal Rotations for 2 Bit KV-Cache Quantization in Video Diffusion Transformers](https://arxiv.org/abs/2611.26334v1) | 2611.26334v1 | 7 |
@@ -50,6 +61,7 @@
 | 2026-11-18 | [Learning to Verify: Signature-Guided Training for Adaptive Adversarial Detection](https://arxiv.org/abs/2611.25271v1) | 2611.25271v1 | 7 |
 | 2026-11-18 | [LQ-Rec: Late Quantization for Sequential Recommendation](https://arxiv.org/abs/2611.25256v1) | 2611.25256v1 | 7 |
 | 2026-11-18 | [TALD: Transferability-Aware Logit Disentanglement for Cross-Modal Knowledge Distillation](https://arxiv.org/abs/2611.25126v1) | 2611.25126v1 | 10 |
+| 2026-11-18 | [BitPrefill: W1.58A4 Tensor-Core Acceleration for Compute-Bound LLM Prefill](https://arxiv.org/abs/2611.26657v1) | 2611.26657v1 | 13 |
 | 2026-11-17 | [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://arxiv.org/abs/2611.23229v1) | 2611.23229v1 | 7 |
 | 2026-11-17 | [EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification](https://arxiv.org/abs/2611.23212v1) | 2611.23212v1 | 7 |
 | 2026-11-17 | [Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU](https://arxiv.org/abs/2611.23205v1) | 2611.23205v1 | 14 |
@@ -73,6 +85,7 @@
 | 2026-11-17 | [QDA: Closed-Loop LLM Quantization Design with Agents](https://arxiv.org/abs/2611.23388v1) | 2611.23388v1 | 10 |
 | 2026-11-17 | [The Holomorphic-Topological Poisson Sigma Model and Quantization of Affine W-algebras](https://arxiv.org/abs/2611.23377v1) | 2611.23377v1 | 6 |
 | 2026-11-17 | [Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops](https://arxiv.org/abs/2611.23445v2) | 2611.23445v2 | 25 |
+| 2026-11-17 | [EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification](https://arxiv.org/abs/2611.23212v2) | 2611.23212v2 | 7 |
 | 2026-11-16 | [CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts](https://arxiv.org/abs/2611.21584v1) | 2611.21584v1 | 8 |
 | 2026-11-16 | [Syllable- and Word-Level Evaluation of Tibetan OCR](https://arxiv.org/abs/2611.21303v1) | 2611.21303v1 | 7 |
 | 2026-11-16 | [MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression](https://arxiv.org/abs/2611.21216v1) | 2611.21216v1 | 7 |

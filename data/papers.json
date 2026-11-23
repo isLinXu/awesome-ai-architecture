@@ -125083,6 +125083,180 @@
       "category": "compression",
       "published": "2026-11-01",
       "score": 6
+    },
+    "2611.27973v1": {
+      "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "category": "efficient-attention",
+      "published": "2026-11-20",
+      "score": 8
+    },
+    "2611.27233v1": {
+      "title": "LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference",
+      "category": "efficient-attention",
+      "published": "2026-11-20",
+      "score": 9
+    },
+    "2611.27281v1": {
+      "title": "GAAFormer: Geometry-Anchored Attention Transformer for Joint Point Cloud Denoising and Upsampling",
+      "category": "position-normalization",
+      "published": "2026-11-20",
+      "score": 8
+    },
+    "2611.26857v1": {
+      "title": "CarrierKV: An Edge LLM Accelerator with Positional Carrier Decomposition for Low-Bit KV Cache",
+      "category": "position-normalization",
+      "published": "2026-11-19",
+      "score": 11
+    },
+    "2611.22717v3": {
+      "title": "PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation",
+      "category": "position-normalization",
+      "published": "2026-11-17",
+      "score": 6
+    },
+    "2611.27759v1": {
+      "title": "DPMA: Learning to Compress Mixture-of-Experts Models",
+      "category": "ffn-moe",
+      "published": "2026-11-20",
+      "score": 6
+    },
+    "2611.26835v1": {
+      "title": "Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models",
+      "category": "ffn-moe",
+      "published": "2026-11-19",
+      "score": 6
+    },
+    "2611.27506v1": {
+      "title": "How Many Bytes Has a BPE Model Seen? Estimating Byte-Token Exposure in Pretraining from Corpus Statistics and Embedding Norms",
+      "category": "tokenization",
+      "published": "2026-11-20",
+      "score": 10
+    },
+    "2611.27491v1": {
+      "title": "Alignment without Transfer: Tokenization Impacts Cross-lingual Representations during Multilingual Language Model Pretraining",
+      "category": "tokenization",
+      "published": "2026-11-20",
+      "score": 12
+    },
+    "2611.27083v1": {
+      "title": "How Far Does Lossless Re-tokenization Move an RLVR Update?",
+      "category": "tokenization",
+      "published": "2026-11-20",
+      "score": 6
+    },
+    "2611.26933v1": {
+      "title": "Tokenize Moments, Not Frames: Tokenizer-Aware Budget Allocation for Training-Free Video LLM Acceleration",
+      "category": "tokenization",
+      "published": "2026-11-20",
+      "score": 8
+    },
+    "2611.27808v1": {
+      "title": "$\\mathtt{DistP}$: Scaling Local-Update Training with Zero-Shot Hyperparameter Transfer",
+      "category": "optimizers",
+      "published": "2026-11-20",
+      "score": 11
+    },
+    "2611.27582v1": {
+      "title": "Do DeepONet Trunk-Basis Preconditioners Need Training?",
+      "category": "optimizers",
+      "published": "2026-11-20",
+      "score": 7
+    },
+    "2611.27272v1": {
+      "title": "Error-Corrected Physics-Informed Neural Operator for Optimal Control of Unmanned Aerial Vehicles under Uncertainty",
+      "category": "optimizers",
+      "published": "2026-11-20",
+      "score": 9
+    },
+    "2611.27200v1": {
+      "title": "Unconventional Photon Blockade in Second-Order Nonlinearity Coupled Cavities with Asymmetric Dissipation",
+      "category": "optimizers",
+      "published": "2026-11-20",
+      "score": 6
+    },
+    "2611.27077v1": {
+      "title": "Accelerating Muon with Spectral Residual Correction",
+      "category": "optimizers",
+      "published": "2026-11-20",
+      "score": 9
+    },
+    "2611.27962v1": {
+      "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 7
+    },
+    "2611.27901v1": {
+      "title": "QuantStream3D: Geometry-Aligned Low-Bit KV Cache Quantization for Streaming Visual Geometry Transformers",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 14
+    },
+    "2611.27445v1": {
+      "title": "Structurally Different, Functionally Persistent: Capability Regions Under Model Optimization",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 10
+    },
+    "2611.27424v1": {
+      "title": "Jagged Robustness: Uneven Safety Transfer and Emerging Vulnerabilities under LLM Quantization",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 7
+    },
+    "2611.27365v1": {
+      "title": "WePM: Hierarchical Conflict Reconciliation for Unified MLLMs",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 7
+    },
+    "2611.27155v1": {
+      "title": "The Vulnerability Window: Decision Instability in Quantized Reward Models",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 8
+    },
+    "2611.27131v1": {
+      "title": "Distillation with Errors: Sparse Unbiased Backpropagation for Knowledge Distillation",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 13
+    },
+    "2611.27117v1": {
+      "title": "Highly Efficient Vertical Federated Clustering with Triangle-Inequality-based Pruning",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 6
+    },
+    "2611.27092v1": {
+      "title": "PLoQ: A Prompt-Specific Low-Rank Basis for 4-bit Quantization of LLM Activations",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 12
+    },
+    "2611.27056v1": {
+      "title": "A Continuous Relaxation of Quantization-Aware Training",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 9
+    },
+    "2611.26976v1": {
+      "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+      "category": "compression",
+      "published": "2026-11-20",
+      "score": 10
+    },
+    "2611.26657v1": {
+      "title": "BitPrefill: W1.58A4 Tensor-Core Acceleration for Compute-Bound LLM Prefill",
+      "category": "compression",
+      "published": "2026-11-18",
+      "score": 13
+    },
+    "2611.23212v2": {
+      "title": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
+      "category": "compression",
+      "published": "2026-11-17",
+      "score": 7
     }
   }
 }

@@ -29,6 +29,11 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-20 | [$\mathtt{DistP}$: Scaling Local-Update Training with Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2611.27808v1) | 2611.27808v1 | 11 |
+| 2026-11-20 | [Do DeepONet Trunk-Basis Preconditioners Need Training?](https://arxiv.org/abs/2611.27582v1) | 2611.27582v1 | 7 |
+| 2026-11-20 | [Error-Corrected Physics-Informed Neural Operator for Optimal Control of Unmanned Aerial Vehicles under Uncertainty](https://arxiv.org/abs/2611.27272v1) | 2611.27272v1 | 9 |
+| 2026-11-20 | [Unconventional Photon Blockade in Second-Order Nonlinearity Coupled Cavities with Asymmetric Dissipation](https://arxiv.org/abs/2611.27200v1) | 2611.27200v1 | 6 |
+| 2026-11-20 | [Accelerating Muon with Spectral Residual Correction](https://arxiv.org/abs/2611.27077v1) | 2611.27077v1 | 9 |
 | 2026-11-19 | [RL Can Only Reinforce What It Sees Succeed](https://arxiv.org/abs/2611.26084v1) | 2611.26084v1 | 6 |
 | 2026-11-19 | [The Statistical Cost of Second-Order Orthogonality](https://arxiv.org/abs/2611.25702v1) | 2611.25702v1 | 6 |
 | 2026-11-19 | [Dune: A Zeroth-Order Optimizer with Time-Conditioned Historical Error Regression for VLA Test-Time Adaptation](https://arxiv.org/abs/2611.25400v1) | 2611.25400v1 | 8 |
