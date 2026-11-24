@@ -30,10 +30,16 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-23 | [DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers](https://arxiv.org/abs/2611.30844v1) | 2611.30844v1 | 10 |
+| 2026-11-23 | [GC-MoE K3: A Green-Context Role Graph for Latent Mixture-of-Experts Decode](https://arxiv.org/abs/2611.30542v1) | 2611.30542v1 | 12 |
+| 2026-11-23 | [CLIP-FMoE: Scalable CLIP via Fused Mixture-of-Experts with Enforced Specialization](https://arxiv.org/abs/2611.30233v1) | 2611.30233v1 | 7 |
+| 2026-11-21 | [HME-PFD: Heterogeneous Mixture-of-Experts Privileged Feature Distillation](https://arxiv.org/abs/2611.29094v1) | 2611.29094v1 | 10 |
+| 2026-11-21 | [Routing Collapse in Multimodal Mixture-of-Experts: Cross-Modal Conditioning Restores Expert Diversity Without Improving Accuracy](https://arxiv.org/abs/2611.28725v1) | 2611.28725v1 | 8 |
 | 2026-11-20 | [DPMA: Learning to Compress Mixture-of-Experts Models](https://arxiv.org/abs/2611.27759v1) | 2611.27759v1 | 6 |
 | 2026-11-19 | [RouteVerify: Routing Interventions for Step-Level Verification in Mixture-of-Experts Models](https://arxiv.org/abs/2611.25780v1) | 2611.25780v1 | 8 |
 | 2026-11-19 | [CGM: Chaos-Guided Graph Attention and Expert Routing for Autism Stereotypy Detection](https://arxiv.org/abs/2611.25730v1) | 2611.25730v1 | 10 |
 | 2026-11-19 | [Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models](https://arxiv.org/abs/2611.26835v1) | 2611.26835v1 | 6 |
+| 2026-11-19 | [Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models](https://arxiv.org/abs/2611.26835v2) | 2611.26835v2 | 6 |
 | 2026-11-18 | [Harvesting Expert-Parallel Bubbles for Fine-Tuning](https://arxiv.org/abs/2611.24496v1) | 2611.24496v1 | 10 |
 | 2026-11-18 | [Plug-and-Play Multi-Licensee Robust Watermarking for Mixture-of-Experts LLMs](https://arxiv.org/abs/2611.23838v1) | 2611.23838v1 | 8 |
 | 2026-11-17 | [ReMoE: An Interpretable Mixture-of-Experts Framework for Human Mobility Recovery Forecasting Across Disasters](https://arxiv.org/abs/2611.22133v1) | 2611.22133v1 | 8 |

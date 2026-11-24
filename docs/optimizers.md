@@ -29,6 +29,13 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-23 | [FGPA-based advanced muon trigger algorithms for long-lived particle detection at the High-Luminosity LHC](https://arxiv.org/abs/2611.30394v1) | 2611.30394v1 | 8 |
+| 2026-11-23 | [Training Dynamics of Large State-Transition Models](https://arxiv.org/abs/2611.30005v1) | 2611.30005v1 | 7 |
+| 2026-11-22 | [How Multi-Timescale Memory Cools Optimization: Theory and Evidence from AdEMAMix](https://arxiv.org/abs/2611.29588v1) | 2611.29588v1 | 8 |
+| 2026-11-22 | [From Learning Rates to Rotational Schedules: Finite-Horizon Theory on the Sphere](https://arxiv.org/abs/2611.29579v1) | 2611.29579v1 | 12 |
+| 2026-11-22 | [Optimizer or physics? Machine-learning surrogates for collision-based preparation of multipartite entangled quantum states](https://arxiv.org/abs/2611.29384v1) | 2611.29384v1 | 6 |
+| 2026-11-22 | [Why Adaptive Optimizers Struggle with Large Convolution Kernels](https://arxiv.org/abs/2611.29232v1) | 2611.29232v1 | 9 |
+| 2026-11-21 | [DRAM: Memory-Efficient Muon via Rank Reallocation in Principal-Random Subspaces](https://arxiv.org/abs/2611.28595v1) | 2611.28595v1 | 14 |
 | 2026-11-20 | [$\mathtt{DistP}$: Scaling Local-Update Training with Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2611.27808v1) | 2611.27808v1 | 11 |
 | 2026-11-20 | [Do DeepONet Trunk-Basis Preconditioners Need Training?](https://arxiv.org/abs/2611.27582v1) | 2611.27582v1 | 7 |
 | 2026-11-20 | [Error-Corrected Physics-Informed Neural Operator for Optimal Control of Unmanned Aerial Vehicles under Uncertainty](https://arxiv.org/abs/2611.27272v1) | 2611.27272v1 | 9 |

@@ -25,15 +25,25 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-23 | [BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models](https://arxiv.org/abs/2611.30723v1) | 2611.30723v1 | 10 |
+| 2026-11-23 | [UV3CP: Universal ViT-Based 3D Channel Predictor for MIMO-OFDM Systems](https://arxiv.org/abs/2611.30128v1) | 2611.30128v1 | 7 |
+| 2026-11-23 | [Parameter-Efficient Vocabulary Expansion via Cross-Lingual Embedding Alignment](https://arxiv.org/abs/2611.30123v1) | 2611.30123v1 | 8 |
+| 2026-11-22 | [HGDNA: Overlapping k-mer Tokenization for Efficient Autoregressive Genomic Language Models](https://arxiv.org/abs/2611.29400v1) | 2611.29400v1 | 7 |
+| 2026-11-22 | [BQDNA: Multi-Head Binary Spherical Quantization for Genomic Sequence Modeling](https://arxiv.org/abs/2611.29395v1) | 2611.29395v1 | 6 |
+| 2026-11-22 | [PrimiTok: Learning to Diversify and Allocate Primitives for Visual Tokenization](https://arxiv.org/abs/2611.29311v1) | 2611.29311v1 | 11 |
+| 2026-11-22 | [Unleashing the Value of Raw Point Clouds for 3D Understanding with LLMs](https://arxiv.org/abs/2611.29194v1) | 2611.29194v1 | 6 |
+| 2026-11-21 | [NAT: Scaling Causal Neural Action Tokenizers Across Embodiments](https://arxiv.org/abs/2611.28873v1) | 2611.28873v1 | 10 |
 | 2026-11-20 | [How Many Bytes Has a BPE Model Seen? Estimating Byte-Token Exposure in Pretraining from Corpus Statistics and Embedding Norms](https://arxiv.org/abs/2611.27506v1) | 2611.27506v1 | 10 |
 | 2026-11-20 | [Alignment without Transfer: Tokenization Impacts Cross-lingual Representations during Multilingual Language Model Pretraining](https://arxiv.org/abs/2611.27491v1) | 2611.27491v1 | 12 |
 | 2026-11-20 | [How Far Does Lossless Re-tokenization Move an RLVR Update?](https://arxiv.org/abs/2611.27083v1) | 2611.27083v1 | 6 |
 | 2026-11-20 | [Tokenize Moments, Not Frames: Tokenizer-Aware Budget Allocation for Training-Free Video LLM Acceleration](https://arxiv.org/abs/2611.26933v1) | 2611.26933v1 | 8 |
 | 2026-11-18 | [SIGNTOK: A Text-Aligned Continuous Pose Tokenizer for Sign Language Generation](https://arxiv.org/abs/2611.23944v1) | 2611.23944v1 | 6 |
+| 2026-11-18 | [SIGNTOK: A Text-Aligned Continuous Pose Tokenizer for Sign Language Generation](https://arxiv.org/abs/2611.23944v2) | 2611.23944v2 | 6 |
 | 2026-11-17 | [BiCAT: Bimanual Coordination Action Tokenization](https://arxiv.org/abs/2611.23499v1) | 2611.23499v1 | 10 |
 | 2026-11-15 | [FIDEL: Abugida-Aware Pre-tokenization for Ethiopic Languages](https://arxiv.org/abs/2611.20216v1) | 2611.20216v1 | 18 |
 | 2026-11-15 | [A Corpus-Driven SentencePiece Unigram Tokenizer for Sindhi: Design and Benchmark Against Fourteen Existing Tokenizers](https://arxiv.org/abs/2611.20126v1) | 2611.20126v1 | 8 |
 | 2026-11-15 | [The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use](https://arxiv.org/abs/2611.19913v1) | 2611.19913v1 | 10 |
+| 2026-11-15 | [Adversarial Attacks Expose Path-Dependent Failures in Discrete Medical Image Tokenizers](https://arxiv.org/abs/2611.28078v1) | 2611.28078v1 | 6 |
 | 2026-11-13 | [Factorized Self-Supervised Speech Tokenization](https://arxiv.org/abs/2611.18898v1) | 2611.18898v1 | 10 |
 | 2026-11-12 | [Optimal Single-History Tokenization Disambiguation for Provably Secure Linguistic Steganography](https://arxiv.org/abs/2611.17091v1) | 2611.17091v1 | 8 |
 | 2026-11-12 | [EvenVLM: A Text and Multimodal Dataset for the Even Language with Vision-Language Fine-Tuning](https://arxiv.org/abs/2611.16500v1) | 2611.16500v1 | 12 |
@@ -65,6 +75,7 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 | 2026-11-06 | [PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals](https://arxiv.org/abs/2611.08969v1) | 2611.08969v1 | 7 |
 | 2026-11-06 | [Compact Greek Language Models from Scratch: Pretraining 500M- and 1B-Parameter Decoder-Only Transformers](https://arxiv.org/abs/2611.10209v1) | 2611.10209v1 | 10 |
 | 2026-11-06 | [Improving the Diffusability of Motion Tokenizer](https://arxiv.org/abs/2611.10160v1) | 2611.10160v1 | 6 |
+| 2026-11-06 | [PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals](https://arxiv.org/abs/2611.08969v2) | 2611.08969v2 | 7 |
 | 2026-11-05 | [Towards Practical 20 kbps Generative Video Compression via Adaptive Tokenization and Entropy Modeling](https://arxiv.org/abs/2611.08099v1) | 2611.08099v1 | 10 |
 | 2026-11-05 | [OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation](https://arxiv.org/abs/2611.07523v1) | 2611.07523v1 | 10 |
 | 2026-11-05 | [FFMT: Frequency-Factorized Multi-Rate Tokenization for Music-to-Dance Generation](https://arxiv.org/abs/2611.07384v1) | 2611.07384v1 | 6 |

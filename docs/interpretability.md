@@ -25,6 +25,8 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-21 | [PatchLens: Adapting Mechanistic Interpretability Techniques for Non-Expert Audiences](https://arxiv.org/abs/2611.28487v1) | 2611.28487v1 | 9 |
+| 2026-11-19 | [From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair](https://arxiv.org/abs/2611.28153v1) | 2611.28153v1 | 13 |
 | 2026-11-16 | [Pretty Linear Liars: Unregularized Probes Favor Intervention-Unfaithful Features](https://arxiv.org/abs/2611.20371v1) | 2611.20371v1 | 11 |
 | 2026-11-10 | [Mechanistic Interpretability of Deep Neural Networks: Methods, Frameworks, and Perspectives](https://arxiv.org/abs/2611.13868v1) | 2611.13868v1 | 10 |
 | 2026-11-07 | [Can small transformers learn the language of Coxeter groups?](https://arxiv.org/abs/2611.10936v1) | 2611.10936v1 | 7 |

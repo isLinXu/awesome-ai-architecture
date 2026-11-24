@@ -37,9 +37,15 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-23 | [SIAMBA: A Pseudo-Siamese Mamba-based Deep Learning Network for Multimodal Flood Change Detection](https://arxiv.org/abs/2611.30938v1) | 2611.30938v1 | 6 |
+| 2026-11-23 | [Yggdrasil: Tree-Routed Recurrent Experts for State Tracking and Fast CPU Inference](https://arxiv.org/abs/2611.29954v1) | 2611.29954v1 | 9 |
+| 2026-11-23 | [Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control](https://arxiv.org/abs/2611.29897v1) | 2611.29897v1 | 8 |
+| 2026-11-22 | [A Cascaded Framework with a Cross-Attention-Guided Mamba-CNN Model for Pre- and Post-Treatment Glioma Segmentation](https://arxiv.org/abs/2611.29792v1) | 2611.29792v1 | 6 |
+| 2026-11-21 | [Recurrent Point Transformer via Test-Time Training](https://arxiv.org/abs/2611.29059v1) | 2611.29059v1 | 7 |
 | 2026-11-19 | [Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields](https://arxiv.org/abs/2611.26355v1) | 2611.26355v1 | 7 |
 | 2026-11-19 | [FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models](https://arxiv.org/abs/2611.26020v1) | 2611.26020v1 | 6 |
 | 2026-11-19 | [MambaLIFT: Reference-Based Mechanism-Aware Attribution for VMamba](https://arxiv.org/abs/2611.25644v1) | 2611.25644v1 | 8 |
+| 2026-11-19 | [GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers](https://arxiv.org/abs/2611.26509v2) | 2611.26509v2 | 6 |
 | 2026-11-18 | [On-Policy Morphing into Hybrid Attention Models](https://arxiv.org/abs/2611.24809v1) | 2611.24809v1 | 6 |
 | 2026-11-18 | [Slim-Mamba: An Efficient and Reconfigurable Mamba-Based Accelerator for Massive MIMO Indoor Localization](https://arxiv.org/abs/2611.24553v1) | 2611.24553v1 | 8 |
 | 2026-11-18 | [Embodied Graph: A Relational World Model for Long-Horizon Tasks](https://arxiv.org/abs/2611.24115v1) | 2611.24115v1 | 6 |
@@ -85,6 +91,7 @@
 | 2026-11-03 | [Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models](https://arxiv.org/abs/2611.04449v1) | 2611.04449v1 | 0 |
 | 2026-11-03 | [LCM-UNet: Scale-Selective Mamba with Reparameterizable Multi-Basis Local Modeling for Lightweight Skin Lesion Segmentation](https://arxiv.org/abs/2611.04409v1) | 2611.04409v1 | 6 |
 | 2026-11-03 | [Toward Generalized LEO Channel Prediction: A Rapid Adaptation Time-Frequency Mamba Framework](https://arxiv.org/abs/2611.04224v1) | 2611.04224v1 | 6 |
+| 2026-11-03 | [LCM-UNet: Scale-Selective Mamba with Reparameterizable Multi-Basis Local Modeling for Lightweight Skin Lesion Segmentation](https://arxiv.org/abs/2611.04409v2) | 2611.04409v2 | 6 |
 | 2026-11-02 | [Diagonal Equivalence in State Space Models: Characterization, Retrieval Rank, and Selective Extensions](https://arxiv.org/abs/2611.03101v1) | 2611.03101v1 | 6 |
 | 2026-11-01 | [FlyWheel: Attention Kernels Built for the TPU](https://arxiv.org/abs/2611.01426v1) | 2611.01426v1 | 0 |
 | 2026-10-31 | [ResMamba: A Dual-Path Convolution-Mamba Model for Music Genre Classification](https://arxiv.org/abs/2611.00746v1) | 2611.00746v1 | 6 |

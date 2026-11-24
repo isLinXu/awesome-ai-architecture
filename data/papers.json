@@ -125257,6 +125257,204 @@
       "category": "compression",
       "published": "2026-11-17",
       "score": 7
+    },
+    "2611.30844v1": {
+      "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers",
+      "category": "ffn-moe",
+      "published": "2026-11-23",
+      "score": 10
+    },
+    "2611.30542v1": {
+      "title": "GC-MoE K3: A Green-Context Role Graph for Latent Mixture-of-Experts Decode",
+      "category": "ffn-moe",
+      "published": "2026-11-23",
+      "score": 12
+    },
+    "2611.30233v1": {
+      "title": "CLIP-FMoE: Scalable CLIP via Fused Mixture-of-Experts with Enforced Specialization",
+      "category": "ffn-moe",
+      "published": "2026-11-23",
+      "score": 7
+    },
+    "2611.29094v1": {
+      "title": "HME-PFD: Heterogeneous Mixture-of-Experts Privileged Feature Distillation",
+      "category": "ffn-moe",
+      "published": "2026-11-21",
+      "score": 10
+    },
+    "2611.28725v1": {
+      "title": "Routing Collapse in Multimodal Mixture-of-Experts: Cross-Modal Conditioning Restores Expert Diversity Without Improving Accuracy",
+      "category": "ffn-moe",
+      "published": "2026-11-21",
+      "score": 8
+    },
+    "2611.26835v2": {
+      "title": "Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models",
+      "category": "ffn-moe",
+      "published": "2026-11-19",
+      "score": 6
+    },
+    "2611.30938v1": {
+      "title": "SIAMBA: A Pseudo-Siamese Mamba-based Deep Learning Network for Multimodal Flood Change Detection",
+      "category": "beyond-transformer",
+      "published": "2026-11-23",
+      "score": 6
+    },
+    "2611.29954v1": {
+      "title": "Yggdrasil: Tree-Routed Recurrent Experts for State Tracking and Fast CPU Inference",
+      "category": "beyond-transformer",
+      "published": "2026-11-23",
+      "score": 9
+    },
+    "2611.29897v1": {
+      "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+      "category": "beyond-transformer",
+      "published": "2026-11-23",
+      "score": 8
+    },
+    "2611.29792v1": {
+      "title": "A Cascaded Framework with a Cross-Attention-Guided Mamba-CNN Model for Pre- and Post-Treatment Glioma Segmentation",
+      "category": "beyond-transformer",
+      "published": "2026-11-22",
+      "score": 6
+    },
+    "2611.29059v1": {
+      "title": "Recurrent Point Transformer via Test-Time Training",
+      "category": "beyond-transformer",
+      "published": "2026-11-21",
+      "score": 7
+    },
+    "2611.26509v2": {
+      "title": "GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers",
+      "category": "beyond-transformer",
+      "published": "2026-11-19",
+      "score": 6
+    },
+    "2611.04409v2": {
+      "title": "LCM-UNet: Scale-Selective Mamba with Reparameterizable Multi-Basis Local Modeling for Lightweight Skin Lesion Segmentation",
+      "category": "beyond-transformer",
+      "published": "2026-11-03",
+      "score": 6
+    },
+    "2611.28487v1": {
+      "title": "PatchLens: Adapting Mechanistic Interpretability Techniques for Non-Expert Audiences",
+      "category": "interpretability",
+      "published": "2026-11-21",
+      "score": 9
+    },
+    "2611.28153v1": {
+      "title": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
+      "category": "interpretability",
+      "published": "2026-11-19",
+      "score": 13
+    },
+    "2611.30723v1": {
+      "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+      "category": "tokenization",
+      "published": "2026-11-23",
+      "score": 10
+    },
+    "2611.30128v1": {
+      "title": "UV3CP: Universal ViT-Based 3D Channel Predictor for MIMO-OFDM Systems",
+      "category": "tokenization",
+      "published": "2026-11-23",
+      "score": 7
+    },
+    "2611.30123v1": {
+      "title": "Parameter-Efficient Vocabulary Expansion via Cross-Lingual Embedding Alignment",
+      "category": "tokenization",
+      "published": "2026-11-23",
+      "score": 8
+    },
+    "2611.29400v1": {
+      "title": "HGDNA: Overlapping k-mer Tokenization for Efficient Autoregressive Genomic Language Models",
+      "category": "tokenization",
+      "published": "2026-11-22",
+      "score": 7
+    },
+    "2611.29395v1": {
+      "title": "BQDNA: Multi-Head Binary Spherical Quantization for Genomic Sequence Modeling",
+      "category": "tokenization",
+      "published": "2026-11-22",
+      "score": 6
+    },
+    "2611.29311v1": {
+      "title": "PrimiTok: Learning to Diversify and Allocate Primitives for Visual Tokenization",
+      "category": "tokenization",
+      "published": "2026-11-22",
+      "score": 11
+    },
+    "2611.29194v1": {
+      "title": "Unleashing the Value of Raw Point Clouds for 3D Understanding with LLMs",
+      "category": "tokenization",
+      "published": "2026-11-22",
+      "score": 6
+    },
+    "2611.28873v1": {
+      "title": "NAT: Scaling Causal Neural Action Tokenizers Across Embodiments",
+      "category": "tokenization",
+      "published": "2026-11-21",
+      "score": 10
+    },
+    "2611.23944v2": {
+      "title": "SIGNTOK: A Text-Aligned Continuous Pose Tokenizer for Sign Language Generation",
+      "category": "tokenization",
+      "published": "2026-11-18",
+      "score": 6
+    },
+    "2611.28078v1": {
+      "title": "Adversarial Attacks Expose Path-Dependent Failures in Discrete Medical Image Tokenizers",
+      "category": "tokenization",
+      "published": "2026-11-15",
+      "score": 6
+    },
+    "2611.08969v2": {
+      "title": "PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals",
+      "category": "tokenization",
+      "published": "2026-11-06",
+      "score": 7
+    },
+    "2611.30394v1": {
+      "title": "FGPA-based advanced muon trigger algorithms for long-lived particle detection at the High-Luminosity LHC",
+      "category": "optimizers",
+      "published": "2026-11-23",
+      "score": 8
+    },
+    "2611.30005v1": {
+      "title": "Training Dynamics of Large State-Transition Models",
+      "category": "optimizers",
+      "published": "2026-11-23",
+      "score": 7
+    },
+    "2611.29588v1": {
+      "title": "How Multi-Timescale Memory Cools Optimization: Theory and Evidence from AdEMAMix",
+      "category": "optimizers",
+      "published": "2026-11-22",
+      "score": 8
+    },
+    "2611.29579v1": {
+      "title": "From Learning Rates to Rotational Schedules: Finite-Horizon Theory on the Sphere",
+      "category": "optimizers",
+      "published": "2026-11-22",
+      "score": 12
+    },
+    "2611.29384v1": {
+      "title": "Optimizer or physics? Machine-learning surrogates for collision-based preparation of multipartite entangled quantum states",
+      "category": "optimizers",
+      "published": "2026-11-22",
+      "score": 6
+    },
+    "2611.29232v1": {
+      "title": "Why Adaptive Optimizers Struggle with Large Convolution Kernels",
+      "category": "optimizers",
+      "published": "2026-11-22",
+      "score": 9
+    },
+    "2611.28595v1": {
+      "title": "DRAM: Memory-Efficient Muon via Rank Reallocation in Principal-Random Subspaces",
+      "category": "optimizers",
+      "published": "2026-11-21",
+      "score": 14
     }
   }
 }
