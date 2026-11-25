@@ -30,9 +30,15 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-24 | [LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation](https://arxiv.org/abs/2611.32590v1) | 2611.32590v1 | 6 |
+| 2026-11-24 | [Breaking Routing And Inter-device Dependencies in Mixture-of-Experts](https://arxiv.org/abs/2611.32572v1) | 2611.32572v1 | 6 |
+| 2026-11-24 | [Active road noise control using networked mean-square learning and lightweight conditional compensation experts](https://arxiv.org/abs/2611.32040v1) | 2611.32040v1 | 10 |
+| 2026-11-24 | [RankServe: Rank-Aware CPU-GPU Scheduling for Memory-Constrained MoE Serving](https://arxiv.org/abs/2611.31869v1) | 2611.31869v1 | 8 |
+| 2026-11-24 | [GreenDynaMix: Thermal-Aware Dynamic Mixed-Precision MoE LLM Inference Systems](https://arxiv.org/abs/2611.31737v1) | 2611.31737v1 | 7 |
 | 2026-11-23 | [DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers](https://arxiv.org/abs/2611.30844v1) | 2611.30844v1 | 10 |
 | 2026-11-23 | [GC-MoE K3: A Green-Context Role Graph for Latent Mixture-of-Experts Decode](https://arxiv.org/abs/2611.30542v1) | 2611.30542v1 | 12 |
 | 2026-11-23 | [CLIP-FMoE: Scalable CLIP via Fused Mixture-of-Experts with Enforced Specialization](https://arxiv.org/abs/2611.30233v1) | 2611.30233v1 | 7 |
+| 2026-11-23 | [Lit Up but Not Needed: Scoped Lesions Show Where Multimodal Mixture-of-Experts Depend on Their Experts](https://arxiv.org/abs/2611.31576v1) | 2611.31576v1 | 12 |
 | 2026-11-21 | [HME-PFD: Heterogeneous Mixture-of-Experts Privileged Feature Distillation](https://arxiv.org/abs/2611.29094v1) | 2611.29094v1 | 10 |
 | 2026-11-21 | [Routing Collapse in Multimodal Mixture-of-Experts: Cross-Modal Conditioning Restores Expert Diversity Without Improving Accuracy](https://arxiv.org/abs/2611.28725v1) | 2611.28725v1 | 8 |
 | 2026-11-20 | [DPMA: Learning to Compress Mixture-of-Experts Models](https://arxiv.org/abs/2611.27759v1) | 2611.27759v1 | 6 |

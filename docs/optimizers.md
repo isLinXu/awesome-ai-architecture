@@ -29,8 +29,15 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-24 | [NABLA: A Noise-Adaptive Blockwise Left-Right Preconditioning Algorithm for Stochastic Optimization](https://arxiv.org/abs/2611.32781v1) | 2611.32781v1 | 7 |
+| 2026-11-24 | [Second-order asymptotics for the quantum and private capacities of the erasure channel](https://arxiv.org/abs/2611.32395v1) | 2611.32395v1 | 6 |
+| 2026-11-24 | [CriticJEPA: World Models Are Better Critics Than Optimizers](https://arxiv.org/abs/2611.32357v1) | 2611.32357v1 | 7 |
+| 2026-11-24 | [AGL-SKILL: Coding Harnesses as Agentic Optimizers](https://arxiv.org/abs/2611.31794v1) | 2611.31794v1 | 6 |
+| 2026-11-24 | [A mixed-primal FEM for Poisson-Fermi interfacial problems](https://arxiv.org/abs/2611.31722v1) | 2611.31722v1 | 6 |
 | 2026-11-23 | [FGPA-based advanced muon trigger algorithms for long-lived particle detection at the High-Luminosity LHC](https://arxiv.org/abs/2611.30394v1) | 2611.30394v1 | 8 |
 | 2026-11-23 | [Training Dynamics of Large State-Transition Models](https://arxiv.org/abs/2611.30005v1) | 2611.30005v1 | 7 |
+| 2026-11-23 | [Curvature-Equilibrated Policy Optimization for Deep Reinforcement Learning](https://arxiv.org/abs/2611.31680v1) | 2611.31680v1 | 10 |
+| 2026-11-23 | [How to build and train your recurrent-depth model: A fixed-point perspective](https://arxiv.org/abs/2611.31513v1) | 2611.31513v1 | 8 |
 | 2026-11-22 | [How Multi-Timescale Memory Cools Optimization: Theory and Evidence from AdEMAMix](https://arxiv.org/abs/2611.29588v1) | 2611.29588v1 | 8 |
 | 2026-11-22 | [From Learning Rates to Rotational Schedules: Finite-Horizon Theory on the Sphere](https://arxiv.org/abs/2611.29579v1) | 2611.29579v1 | 12 |
 | 2026-11-22 | [Optimizer or physics? Machine-learning surrogates for collision-based preparation of multipartite entangled quantum states](https://arxiv.org/abs/2611.29384v1) | 2611.29384v1 | 6 |
@@ -108,6 +115,7 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 | 2026-11-04 | [DMuon: Scaling Matrix Optimizers in Data Parallelism with Topology-Aware Matrix Ownership and Communication](https://arxiv.org/abs/2611.07084v1) | 2611.07084v1 | 13 |
 | 2026-11-04 | [Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes](https://arxiv.org/abs/2611.06879v1) | 2611.06879v1 | 6 |
 | 2026-11-04 | [DMuon-2: Scaling Matrix Optimizers in Data Parallelism with Topology-Aware Matrix Ownership and Communication](https://arxiv.org/abs/2611.07084v2) | 2611.07084v2 | 13 |
+| 2026-11-04 | [The Cost of Minimal Completeness: Gamma-to-Delta Aliasing in Discrete Markets](https://arxiv.org/abs/2611.06692v2) | 2611.06692v2 | 8 |
 | 2026-11-03 | [Mixed-Integer Second-Order Cone Formulations for the Euclidean Bottleneck Steiner Tree Problem in $\mathbb{R}^d$](https://arxiv.org/abs/2611.05733v1) | 2611.05733v1 | 6 |
 | 2026-11-03 | [ZEMA: confidence-calibrated signed descent with only one state](https://arxiv.org/abs/2611.04987v1) | 2611.04987v1 | 11 |
 | 2026-11-03 | [Theoretical Analysis of Muon on Transformers for Next-Token Prediction](https://arxiv.org/abs/2611.04465v1) | 2611.04465v1 | 7 |

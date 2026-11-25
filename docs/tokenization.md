@@ -25,9 +25,15 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-24 | [What If Chinese Were Latinized? A Counterfactual Study of Input Representation, Tokenization, and Language Modeling](https://arxiv.org/abs/2611.32525v1) | 2611.32525v1 | 13 |
+| 2026-11-24 | [Benchmarking Protein Structure Tokenizers as Generation Targets for Language Models](https://arxiv.org/abs/2611.32168v1) | 2611.32168v1 | 6 |
+| 2026-11-24 | [Byte Patches versus BPE at Matched Data: A Matched-Twin Comparison at 350M Parameters](https://arxiv.org/abs/2611.31790v1) | 2611.31790v1 | 21 |
+| 2026-11-24 | [Tokenization and Architecture Jointly Allocate Component Roles in Time Series Transformers](https://arxiv.org/abs/2611.31730v1) | 2611.31730v1 | 9 |
 | 2026-11-23 | [BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models](https://arxiv.org/abs/2611.30723v1) | 2611.30723v1 | 10 |
 | 2026-11-23 | [UV3CP: Universal ViT-Based 3D Channel Predictor for MIMO-OFDM Systems](https://arxiv.org/abs/2611.30128v1) | 2611.30128v1 | 7 |
 | 2026-11-23 | [Parameter-Efficient Vocabulary Expansion via Cross-Lingual Embedding Alignment](https://arxiv.org/abs/2611.30123v1) | 2611.30123v1 | 8 |
+| 2026-11-23 | [RenGen: Generating Images with as Many Tokens as the Scene Needs](https://arxiv.org/abs/2611.33109v1) | 2611.33109v1 | 7 |
+| 2026-11-23 | [BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models](https://arxiv.org/abs/2611.30723v2) | 2611.30723v2 | 10 |
 | 2026-11-22 | [HGDNA: Overlapping k-mer Tokenization for Efficient Autoregressive Genomic Language Models](https://arxiv.org/abs/2611.29400v1) | 2611.29400v1 | 7 |
 | 2026-11-22 | [BQDNA: Multi-Head Binary Spherical Quantization for Genomic Sequence Modeling](https://arxiv.org/abs/2611.29395v1) | 2611.29395v1 | 6 |
 | 2026-11-22 | [PrimiTok: Learning to Diversify and Allocate Primitives for Visual Tokenization](https://arxiv.org/abs/2611.29311v1) | 2611.29311v1 | 11 |
@@ -82,6 +88,7 @@ tokenizer 决定了词表大小、序列长度、多语言公平性，甚至模�
 | 2026-11-05 | [GreedTok is a Constant-Factor Approximation for Partition-Cover Tokenization](https://arxiv.org/abs/2611.07346v1) | 2611.07346v1 | 12 |
 | 2026-11-05 | [Scale as a Modality: Multi-Scale Pixel-Space Diffusion Transformers](https://arxiv.org/abs/2611.08802v1) | 2611.08802v1 | 6 |
 | 2026-11-05 | [GreedTok Is a 0.3287-Approximation for Tokenization, Within 3% of the Best Possible Constant](https://arxiv.org/abs/2611.07346v2) | 2611.07346v2 | 12 |
+| 2026-11-05 | [GreedTok Is a 0.3287-Approximation, and Greedy Tokenizers Lose Order $1/\log k$ on Fixed Alphabets](https://arxiv.org/abs/2611.07346v3) | 2611.07346v3 | 10 |
 | 2026-11-04 | [AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment](https://arxiv.org/abs/2611.06170v1) | 2611.06170v1 | 12 |
 | 2026-11-03 | [Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers](https://arxiv.org/abs/2611.05742v1) | 2611.05742v1 | 7 |
 | 2026-11-03 | [SPADE: Spatiotemporal Preference Alignment and Diversity Enhancement for Local Search](https://arxiv.org/abs/2611.04662v1) | 2611.04662v1 | 12 |

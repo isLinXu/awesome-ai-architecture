@@ -33,6 +33,9 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-24 | [Mind the Band: The Hidden Frequency Variable in Geometric RoPE](https://arxiv.org/abs/2611.32171v1) | 2611.32171v1 | 6 |
+| 2026-11-24 | [FN-Prune: Training-Free Expert Pruning with Finite RMSNorm Perturbations](https://arxiv.org/abs/2611.31747v1) | 2611.31747v1 | 9 |
+| 2026-11-22 | [GALILEO: Geometric RoPE with Galilean Key Transport for Dynamic Scenes](https://arxiv.org/abs/2611.29293v1) | 2611.29293v1 | 10 |
 | 2026-11-20 | [GAAFormer: Geometry-Anchored Attention Transformer for Joint Point Cloud Denoising and Upsampling](https://arxiv.org/abs/2611.27281v1) | 2611.27281v1 | 8 |
 | 2026-11-19 | [A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights](https://arxiv.org/abs/2611.26450v1) | 2611.26450v1 | 12 |
 | 2026-11-19 | [Asuka-FM: A System-Architectural Co-Design Framework for Efficient Text-to-Image Pretraining on Consumer Hardware](https://arxiv.org/abs/2611.26437v1) | 2611.26437v1 | 11 |
@@ -48,6 +51,7 @@
 | 2026-11-09 | [A Geometric Invariant of Attention Predicts Head Specialization from Weights Alone](https://arxiv.org/abs/2611.12206v1) | 2611.12206v1 | 8 |
 | 2026-11-09 | [Disentangling Multimodal Rotary Positional Embedding in Vision-Language Models](https://arxiv.org/abs/2611.13334v1) | 2611.13334v1 | 10 |
 | 2026-11-08 | [Editable Video Context: Mid-Context KV-Cache Reuse for Context-Managing Video LLMs](https://arxiv.org/abs/2611.18718v1) | 2611.18718v1 | 10 |
+| 2026-11-08 | [Editable Video Context: Mid-Context KV-Cache Reuse for Context-Managing Video LLMs](https://arxiv.org/abs/2611.18718v2) | 2611.18718v2 | 10 |
 | 2026-11-06 | [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](https://arxiv.org/abs/2611.09554v1) | 2611.09554v1 | 12 |
 | 2026-11-05 | [How Deep is the Signal? Time-Context up to 30 Years for Colorectal Cancer Prediction in a Primary-Care EHR Model](https://arxiv.org/abs/2611.07265v1) | 2611.07265v1 | 0 |
 | 2026-11-04 | [RDT-3D: Resolution-Decoupled Training for High-Fidelity 3D Geometry Generation](https://arxiv.org/abs/2611.06141v1) | 2611.06141v1 | 0 |

@@ -37,6 +37,8 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-24 | [Train What You Run: Probabilistic Convolutions for Learning Token Compaction in State Space Models](https://arxiv.org/abs/2611.33009v1) | 2611.33009v1 | 10 |
+| 2026-11-24 | [CSC-Mamba: Bridging multimodal convolutional sparse coding and state space models for multi-contrast MRI super-resolution](https://arxiv.org/abs/2611.32144v1) | 2611.32144v1 | 12 |
 | 2026-11-23 | [SIAMBA: A Pseudo-Siamese Mamba-based Deep Learning Network for Multimodal Flood Change Detection](https://arxiv.org/abs/2611.30938v1) | 2611.30938v1 | 6 |
 | 2026-11-23 | [Yggdrasil: Tree-Routed Recurrent Experts for State Tracking and Fast CPU Inference](https://arxiv.org/abs/2611.29954v1) | 2611.29954v1 | 9 |
 | 2026-11-23 | [Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control](https://arxiv.org/abs/2611.29897v1) | 2611.29897v1 | 8 |

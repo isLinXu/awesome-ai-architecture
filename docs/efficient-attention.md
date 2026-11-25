@@ -43,6 +43,22 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-24 | [LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training](https://arxiv.org/abs/2611.33004v1) | 2611.33004v1 | 6 |
+| 2026-11-24 | [Eliciting the Recall Capacity of Linear Attention](https://arxiv.org/abs/2611.32969v1) | 2611.32969v1 | 6 |
+| 2026-11-24 | [Simultaneously Boosting Efficiency and Capability for Linear Attention via Adaptive Channel Compression and Activation Purification](https://arxiv.org/abs/2611.32877v1) | 2611.32877v1 | 6 |
+| 2026-11-24 | [Sol$^{3}$: Accelerating Video Diffusion for Free via Hierarchical Sparse Attention Routing](https://arxiv.org/abs/2611.32562v1) | 2611.32562v1 | 6 |
+| 2026-11-24 | [Factorized Context Attention: From Emulated to Native Grid Probing](https://arxiv.org/abs/2611.32423v1) | 2611.32423v1 | 8 |
+| 2026-11-24 | [When Exact Token Importance Is Not Enough: Limits of Top-K Selection in LLM Attention](https://arxiv.org/abs/2611.32324v1) | 2611.32324v1 | 6 |
+| 2026-11-24 | [Integral DeltaNet: Improved Linear Attention with Adaptive Memory Integration](https://arxiv.org/abs/2611.32063v1) | 2611.32063v1 | 8 |
+| 2026-11-24 | [FlashQLA: Efficient Context Parallelism for Gated DeltaNet](https://arxiv.org/abs/2611.32039v1) | 2611.32039v1 | 8 |
+| 2026-11-23 | [Near-Far Attention: Region-Aware Sparse Retrieval for Long-Context LLM Decoding](https://arxiv.org/abs/2611.30554v1) | 2611.30554v1 | 9 |
+| 2026-11-23 | [ANOR: Scaling Sparse Attention with a GPU-PNM Computing Hierarchy](https://arxiv.org/abs/2611.30417v1) | 2611.30417v1 | 10 |
+| 2026-11-22 | [Position-Skipped Distillation of Sparse-Attention Indexers: Train Short, Serve Long](https://arxiv.org/abs/2611.29664v1) | 2611.29664v1 | 8 |
+| 2026-11-22 | [QASparse: Query-Adaptive Sparse Attention with Tailored Budgets and Tokens](https://arxiv.org/abs/2611.29280v1) | 2611.29280v1 | 8 |
+| 2026-11-22 | [Zarc: Exact Nearest Neighbors over a Billion Vectors in Seconds](https://arxiv.org/abs/2611.29252v1) | 2611.29252v1 | 6 |
+| 2026-11-21 | [S$^2$LMR: Supervised Sequential Long-Context Multi-Step Retriever](https://arxiv.org/abs/2611.28995v1) | 2611.28995v1 | 7 |
+| 2026-11-21 | [IndexerStage: Staging Indexer-K across Memory Tiers for Sparse-Attention LLM Serving](https://arxiv.org/abs/2611.28625v1) | 2611.28625v1 | 6 |
+| 2026-11-21 | [DisSparse: Pipelined Top-$p$ Sparse Attention for Long-Context LLM Serving](https://arxiv.org/abs/2611.28522v1) | 2611.28522v1 | 13 |
 | 2026-11-20 | [MemOnce: A Scalable Memory Architecture for Large Language Models](https://arxiv.org/abs/2611.27973v1) | 2611.27973v1 | 8 |
 | 2026-11-20 | [LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference](https://arxiv.org/abs/2611.27233v1) | 2611.27233v1 | 9 |
 | 2026-11-19 | [DTS: Delta-Based Tile Scoring for Efficient Long-Context Sparse Attention](https://arxiv.org/abs/2611.25938v1) | 2611.25938v1 | 9 |
