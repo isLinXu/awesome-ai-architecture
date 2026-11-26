@@ -33,6 +33,7 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-25 | [SceneDesigner++: A Unified 9-DoF Pose Control Framework for T2I and T2V Generation](https://arxiv.org/abs/2611.34461v1) | 2611.34461v1 | 11 |
 | 2026-11-24 | [Mind the Band: The Hidden Frequency Variable in Geometric RoPE](https://arxiv.org/abs/2611.32171v1) | 2611.32171v1 | 6 |
 | 2026-11-24 | [FN-Prune: Training-Free Expert Pruning with Finite RMSNorm Perturbations](https://arxiv.org/abs/2611.31747v1) | 2611.31747v1 | 9 |
 | 2026-11-22 | [GALILEO: Geometric RoPE with Galilean Key Transport for Dynamic Scenes](https://arxiv.org/abs/2611.29293v1) | 2611.29293v1 | 10 |

@@ -29,6 +29,16 @@ Adam 统治了十年，但 LLM 时代的内存墙和规模墙逼出了新一代�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-25 | [Sequential Portfolio Optimizer (SPO-CPU and SPO-GPU): C++ Interior-Point Solvers and Differentiable Layers for Quadratic Cone Programs](https://arxiv.org/abs/2611.34590v1) | 2611.34590v1 | 11 |
+| 2026-11-25 | [AliceAI-Foundation-80B-A3B-Base](https://arxiv.org/abs/2611.34529v1) | 2611.34529v1 | 6 |
+| 2026-11-25 | [Backpropagation as Dirac-bracket dynamics of dissipative training](https://arxiv.org/abs/2611.34479v1) | 2611.34479v1 | 7 |
+| 2026-11-25 | [Global Convergence of Second-Order Methods for Physics-Informed Neural Networks in the Overparameterized Limit](https://arxiv.org/abs/2611.34452v1) | 2611.34452v1 | 12 |
+| 2026-11-25 | [On Bramble-Pasciak-type preconditioners and their properties](https://arxiv.org/abs/2611.34379v1) | 2611.34379v1 | 6 |
+| 2026-11-25 | [Gaussian Is All You Need: Renyi Optimizers and Optical Channel Simulation](https://arxiv.org/abs/2611.33955v1) | 2611.33955v1 | 6 |
+| 2026-11-25 | [BReD: Block Replay Dithering for Stable Low-Bit EMA Optimizer States](https://arxiv.org/abs/2611.33951v1) | 2611.33951v1 | 11 |
+| 2026-11-25 | [A Global Solver for Minimum-Time Connectivity Restoration in UAV Networks](https://arxiv.org/abs/2611.33855v1) | 2611.33855v1 | 8 |
+| 2026-11-25 | [Efficient Scene-Distribution-Aware Second-Order Optimization for 3D Gaussian Splatting](https://arxiv.org/abs/2611.33698v1) | 2611.33698v1 | 6 |
+| 2026-11-25 | [ProPolar: Progressive Polar Decomposition for Implicit Neural Representations](https://arxiv.org/abs/2611.33567v1) | 2611.33567v1 | 10 |
 | 2026-11-24 | [NABLA: A Noise-Adaptive Blockwise Left-Right Preconditioning Algorithm for Stochastic Optimization](https://arxiv.org/abs/2611.32781v1) | 2611.32781v1 | 7 |
 | 2026-11-24 | [Second-order asymptotics for the quantum and private capacities of the erasure channel](https://arxiv.org/abs/2611.32395v1) | 2611.32395v1 | 6 |
 | 2026-11-24 | [CriticJEPA: World Models Are Better Critics Than Optimizers](https://arxiv.org/abs/2611.32357v1) | 2611.32357v1 | 7 |

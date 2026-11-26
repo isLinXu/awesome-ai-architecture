@@ -28,6 +28,19 @@
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-25 | [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924v1) | 2611.34924v1 | 6 |
+| 2026-11-25 | [Repairing the Trustworthiness of Distilled Language Models](https://arxiv.org/abs/2611.34831v1) | 2611.34831v1 | 10 |
+| 2026-11-25 | [CIRKDV2: Cross-Image Relational Knowledge Distillation with Contextual Modeling for Efficient Semantic Segmentation](https://arxiv.org/abs/2611.34795v1) | 2611.34795v1 | 10 |
+| 2026-11-25 | [PURA: Video Token Pruning via Unified Spatiotemporal Redundancy Assessment](https://arxiv.org/abs/2611.34521v1) | 2611.34521v1 | 7 |
+| 2026-11-25 | [Any-Rate: Half-Bit Multi-Precision LLM Quantization with Coded Bit-Planes](https://arxiv.org/abs/2611.34402v1) | 2611.34402v1 | 7 |
+| 2026-11-25 | [A Calibration-Referenced Protocol for Measuring Decision Stability under Reference Bank Compression](https://arxiv.org/abs/2611.34134v1) | 2611.34134v1 | 10 |
+| 2026-11-25 | [SPARC: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation](https://arxiv.org/abs/2611.34064v1) | 2611.34064v1 | 8 |
+| 2026-11-25 | [Incorporating the Knowledge Distillation to Improve the EfficientNet Transfer Learning Capability](https://arxiv.org/abs/2611.34025v1) | 2611.34025v1 | 10 |
+| 2026-11-25 | [Quantization and Codebook Stability of Euclidean and KL Lattice Quantizers](https://arxiv.org/abs/2611.33811v1) | 2611.33811v1 | 7 |
+| 2026-11-25 | [SprintGS: Eliminating Redundancy for Fast 3D Gaussian Splatting Training](https://arxiv.org/abs/2611.33796v1) | 2611.33796v1 | 6 |
+| 2026-11-25 | [Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2611.33749v1) | 2611.33749v1 | 8 |
+| 2026-11-25 | [Rethinking Knowledge Distillation for Diffusion Language Models](https://arxiv.org/abs/2611.33670v1) | 2611.33670v1 | 10 |
+| 2026-11-25 | [Verifiable but Not Predictable: What Sentence Embeddings Know About Propositional Decomposition](https://arxiv.org/abs/2611.33668v1) | 2611.33668v1 | 14 |
 | 2026-11-24 | [Shifter Quantization: Compact Representations for Native Integer Computation](https://arxiv.org/abs/2611.33080v1) | 2611.33080v1 | 18 |
 | 2026-11-24 | [Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?](https://arxiv.org/abs/2611.33031v1) | 2611.33031v1 | 10 |
 | 2026-11-24 | [MXFP4 for LLM Inference: Complementary Post-Training Quantization Techniques and Their Interactions](https://arxiv.org/abs/2611.32873v1) | 2611.32873v1 | 15 |
@@ -47,6 +60,11 @@
 | 2026-11-24 | [Network-Guided Automated Synthesis of MAC Units for Neural Network Inference](https://arxiv.org/abs/2611.31986v1) | 2611.31986v1 | 8 |
 | 2026-11-24 | [Perception Is Enough, at the Right Scale: Scale-Adaptive Token Pruning for Vision-Language-Action Models](https://arxiv.org/abs/2611.31954v1) | 2611.31954v1 | 6 |
 | 2026-11-24 | [HDMark: Holographic Multi-Bit Model Watermarking for Intellectual Property Protection in Hyperdimensional Computing](https://arxiv.org/abs/2611.31781v1) | 2611.31781v1 | 13 |
+| 2026-11-24 | [Scalpel and Brush: Pruning and Targeted Weight Editing of a Small Language Model by a Single LLM Agent](https://arxiv.org/abs/2611.33426v1) | 2611.33426v1 | 8 |
+| 2026-11-24 | [VersionGS: Compact and Motion-Robust Dynamic Gaussian Splatting via Versioned Gaussians](https://arxiv.org/abs/2611.33374v1) | 2611.33374v1 | 8 |
+| 2026-11-24 | [JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention](https://arxiv.org/abs/2611.33268v1) | 2611.33268v1 | 9 |
+| 2026-11-24 | [Quantization concealment of angular momentum: dynamic origin of spins](https://arxiv.org/abs/2611.33267v1) | 2611.33267v1 | 6 |
+| 2026-11-24 | [Shifter Quantization: Compact Representations for Native Integer Computation](https://arxiv.org/abs/2611.33080v2) | 2611.33080v2 | 18 |
 | 2026-11-23 | [IPMAN: Importance-based Pruning of Multiverse Analysis visualizatioN](https://arxiv.org/abs/2611.31563v1) | 2611.31563v1 | 6 |
 | 2026-11-23 | [The Relaxation of Quantum Near-Extremal Black Holes. (I) Microcanonical States, Pruning of Quasinormal Modes, and the Aretakis Instability](https://arxiv.org/abs/2611.31459v1) | 2611.31459v1 | 6 |
 | 2026-11-23 | [Is 4 Bits Enough for EEG Sleep Staging? A Subject-Level Benchmark of MXFP4, NVFP4 and FP8](https://arxiv.org/abs/2611.31436v1) | 2611.31436v1 | 16 |
@@ -65,6 +83,9 @@
 | 2026-11-23 | [LMnOP: Pruning 3D Gaussian Splatting via Leave-Many-Out Importance](https://arxiv.org/abs/2611.30102v1) | 2611.30102v1 | 6 |
 | 2026-11-23 | [KGLP-Net: Kalman-Reliable Global--Local Learning With Group Fisher Pruning for Hyperspectral Image Classification](https://arxiv.org/abs/2611.29944v1) | 2611.29944v1 | 7 |
 | 2026-11-23 | [Generalizable Variable-Rate Adaptation for Image Coding for Machines](https://arxiv.org/abs/2611.29914v1) | 2611.29914v1 | 7 |
+| 2026-11-23 | [Reproducible by Seed? Not on GPUs: Batch-Dependent Non-Determinism in Text-to-Image Models](https://arxiv.org/abs/2611.30545v2) | 2611.30545v2 | 8 |
+| 2026-11-23 | [Quantization for Action, Execution for Deployment: Joint Precision and Execution Selection for World Action Models](https://arxiv.org/abs/2611.30195v2) | 2611.30195v2 | 11 |
+| 2026-11-23 | [GUI-Q: Task-Sensitive Granularity and Relation-Preserving Quantization for GUI Agents](https://arxiv.org/abs/2611.30170v2) | 2611.30170v2 | 15 |
 | 2026-11-22 | [Interface currents of magnetized differential systems: quantization and bulk-interface correspondence](https://arxiv.org/abs/2611.29719v1) | 2611.29719v1 | 6 |
 | 2026-11-22 | [MedTimeQ: Query-guided fusion of time-series foundation models and LLMs for multi-lead ECG classification](https://arxiv.org/abs/2611.29690v1) | 2611.29690v1 | 7 |
 | 2026-11-22 | [Estimating Silenced Tokens in Quantized LLMs](https://arxiv.org/abs/2611.29536v1) | 2611.29536v1 | 8 |

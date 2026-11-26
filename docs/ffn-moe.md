@@ -30,6 +30,9 @@ MoE 路线（GShard/Switch/Mixtral）。MoE 让"参数规模"与"单 token 算�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-25 | [LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?](https://arxiv.org/abs/2611.34821v1) | 2611.34821v1 | 6 |
+| 2026-11-25 | [MixMoMo: Accelerating Extra--Large MoE Inference with Mixed--Precision GPU--NPU Execution on Mobile Devices](https://arxiv.org/abs/2611.33981v1) | 2611.33981v1 | 8 |
+| 2026-11-25 | [DuoMI: Dual Mutual Information Regularization for Expert Reuse in Looped Transformers](https://arxiv.org/abs/2611.33952v1) | 2611.33952v1 | 10 |
 | 2026-11-24 | [LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation](https://arxiv.org/abs/2611.32590v1) | 2611.32590v1 | 6 |
 | 2026-11-24 | [Breaking Routing And Inter-device Dependencies in Mixture-of-Experts](https://arxiv.org/abs/2611.32572v1) | 2611.32572v1 | 6 |
 | 2026-11-24 | [Active road noise control using networked mean-square learning and lightweight conditional compensation experts](https://arxiv.org/abs/2611.32040v1) | 2611.32040v1 | 10 |

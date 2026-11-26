@@ -43,6 +43,10 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-25 | [DFly2: Turbocharging Long-Context Speculative Decoding by Sharing the Target's Sparsity](https://arxiv.org/abs/2611.34776v1) | 2611.34776v1 | 9 |
+| 2026-11-25 | [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://arxiv.org/abs/2611.34051v1) | 2611.34051v1 | 6 |
+| 2026-11-25 | [L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention](https://arxiv.org/abs/2611.33691v1) | 2611.33691v1 | 7 |
+| 2026-11-25 | [State Space Attention: Learning Context-Dependent Memory Retention](https://arxiv.org/abs/2611.33625v1) | 2611.33625v1 | 6 |
 | 2026-11-24 | [LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training](https://arxiv.org/abs/2611.33004v1) | 2611.33004v1 | 6 |
 | 2026-11-24 | [Eliciting the Recall Capacity of Linear Attention](https://arxiv.org/abs/2611.32969v1) | 2611.32969v1 | 6 |
 | 2026-11-24 | [Simultaneously Boosting Efficiency and Capability for Linear Attention via Adaptive Channel Compression and Activation Purification](https://arxiv.org/abs/2611.32877v1) | 2611.32877v1 | 6 |
@@ -51,6 +55,7 @@ IO 感知的精确计算（FlashAttention）、KV cache 驱逐与选择（H2O/Sn
 | 2026-11-24 | [When Exact Token Importance Is Not Enough: Limits of Top-K Selection in LLM Attention](https://arxiv.org/abs/2611.32324v1) | 2611.32324v1 | 6 |
 | 2026-11-24 | [Integral DeltaNet: Improved Linear Attention with Adaptive Memory Integration](https://arxiv.org/abs/2611.32063v1) | 2611.32063v1 | 8 |
 | 2026-11-24 | [FlashQLA: Efficient Context Parallelism for Gated DeltaNet](https://arxiv.org/abs/2611.32039v1) | 2611.32039v1 | 8 |
+| 2026-11-24 | [LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training](https://arxiv.org/abs/2611.33004v2) | 2611.33004v2 | 6 |
 | 2026-11-23 | [Near-Far Attention: Region-Aware Sparse Retrieval for Long-Context LLM Decoding](https://arxiv.org/abs/2611.30554v1) | 2611.30554v1 | 9 |
 | 2026-11-23 | [ANOR: Scaling Sparse Attention with a GPU-PNM Computing Hierarchy](https://arxiv.org/abs/2611.30417v1) | 2611.30417v1 | 10 |
 | 2026-11-22 | [Position-Skipped Distillation of Sparse-Attention Indexers: Train Short, Serve Long](https://arxiv.org/abs/2611.29664v1) | 2611.29664v1 | 8 |

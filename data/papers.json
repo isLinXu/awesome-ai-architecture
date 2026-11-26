@@ -126079,6 +126079,288 @@
       "category": "compression",
       "published": "2026-11-01",
       "score": 10
+    },
+    "2611.34776v1": {
+      "title": "DFly2: Turbocharging Long-Context Speculative Decoding by Sharing the Target's Sparsity",
+      "category": "efficient-attention",
+      "published": "2026-11-25",
+      "score": 9
+    },
+    "2611.34051v1": {
+      "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+      "category": "efficient-attention",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.33691v1": {
+      "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
+      "category": "efficient-attention",
+      "published": "2026-11-25",
+      "score": 7
+    },
+    "2611.33625v1": {
+      "title": "State Space Attention: Learning Context-Dependent Memory Retention",
+      "category": "efficient-attention",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.33004v2": {
+      "title": "LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training",
+      "category": "efficient-attention",
+      "published": "2026-11-24",
+      "score": 6
+    },
+    "2611.34461v1": {
+      "title": "SceneDesigner++: A Unified 9-DoF Pose Control Framework for T2I and T2V Generation",
+      "category": "position-normalization",
+      "published": "2026-11-25",
+      "score": 11
+    },
+    "2611.34821v1": {
+      "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
+      "category": "ffn-moe",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.33981v1": {
+      "title": "MixMoMo: Accelerating Extra--Large MoE Inference with Mixed--Precision GPU--NPU Execution on Mobile Devices",
+      "category": "ffn-moe",
+      "published": "2026-11-25",
+      "score": 8
+    },
+    "2611.33952v1": {
+      "title": "DuoMI: Dual Mutual Information Regularization for Expert Reuse in Looped Transformers",
+      "category": "ffn-moe",
+      "published": "2026-11-25",
+      "score": 10
+    },
+    "2611.33257v1": {
+      "title": "One Token, Many Lessons: Sliding-Window Attention within Gated Delta Networks",
+      "category": "beyond-transformer",
+      "published": "2026-11-24",
+      "score": 12
+    },
+    "2611.34575v1": {
+      "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+      "category": "landmark-models",
+      "published": "2026-11-25",
+      "score": 9
+    },
+    "2611.33886v1": {
+      "title": "DeltaRAE: Derivative Tokenization for Long Video Generation",
+      "category": "tokenization",
+      "published": "2026-11-25",
+      "score": 12
+    },
+    "2611.33761v1": {
+      "title": "ScanAR: Parallel Row-Scan Decoding for Efficient Image Generation in Unified Autoregressive Models",
+      "category": "tokenization",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.33588v1": {
+      "title": "SEEL: Towards End-to-End 3D Sign Generation with Language Models",
+      "category": "tokenization",
+      "published": "2026-11-25",
+      "score": 8
+    },
+    "2611.33261v1": {
+      "title": "Same Tokenizer, Better Tokens: Choosing Image Tokens by MAP Inference",
+      "category": "tokenization",
+      "published": "2026-11-24",
+      "score": 6
+    },
+    "2611.20216v2": {
+      "title": "FIDEL: Abugida-Aware Pre-tokenization for Ethiopic Languages",
+      "category": "tokenization",
+      "published": "2026-11-15",
+      "score": 18
+    },
+    "2611.34590v1": {
+      "title": "Sequential Portfolio Optimizer (SPO-CPU and SPO-GPU): C++ Interior-Point Solvers and Differentiable Layers for Quadratic Cone Programs",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 11
+    },
+    "2611.34529v1": {
+      "title": "AliceAI-Foundation-80B-A3B-Base",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.34479v1": {
+      "title": "Backpropagation as Dirac-bracket dynamics of dissipative training",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 7
+    },
+    "2611.34452v1": {
+      "title": "Global Convergence of Second-Order Methods for Physics-Informed Neural Networks in the Overparameterized Limit",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 12
+    },
+    "2611.34379v1": {
+      "title": "On Bramble-Pasciak-type preconditioners and their properties",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.33955v1": {
+      "title": "Gaussian Is All You Need: Renyi Optimizers and Optical Channel Simulation",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.33951v1": {
+      "title": "BReD: Block Replay Dithering for Stable Low-Bit EMA Optimizer States",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 11
+    },
+    "2611.33855v1": {
+      "title": "A Global Solver for Minimum-Time Connectivity Restoration in UAV Networks",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 8
+    },
+    "2611.33698v1": {
+      "title": "Efficient Scene-Distribution-Aware Second-Order Optimization for 3D Gaussian Splatting",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.33567v1": {
+      "title": "ProPolar: Progressive Polar Decomposition for Implicit Neural Representations",
+      "category": "optimizers",
+      "published": "2026-11-25",
+      "score": 10
+    },
+    "2611.34924v1": {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.34831v1": {
+      "title": "Repairing the Trustworthiness of Distilled Language Models",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 10
+    },
+    "2611.34795v1": {
+      "title": "CIRKDV2: Cross-Image Relational Knowledge Distillation with Contextual Modeling for Efficient Semantic Segmentation",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 10
+    },
+    "2611.34521v1": {
+      "title": "PURA: Video Token Pruning via Unified Spatiotemporal Redundancy Assessment",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 7
+    },
+    "2611.34402v1": {
+      "title": "Any-Rate: Half-Bit Multi-Precision LLM Quantization with Coded Bit-Planes",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 7
+    },
+    "2611.34134v1": {
+      "title": "A Calibration-Referenced Protocol for Measuring Decision Stability under Reference Bank Compression",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 10
+    },
+    "2611.34064v1": {
+      "title": "SPARC: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 8
+    },
+    "2611.34025v1": {
+      "title": "Incorporating the Knowledge Distillation to Improve the EfficientNet Transfer Learning Capability",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 10
+    },
+    "2611.33811v1": {
+      "title": "Quantization and Codebook Stability of Euclidean and KL Lattice Quantizers",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 7
+    },
+    "2611.33796v1": {
+      "title": "SprintGS: Eliminating Redundancy for Fast 3D Gaussian Splatting Training",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 6
+    },
+    "2611.33749v1": {
+      "title": "Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 8
+    },
+    "2611.33670v1": {
+      "title": "Rethinking Knowledge Distillation for Diffusion Language Models",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 10
+    },
+    "2611.33668v1": {
+      "title": "Verifiable but Not Predictable: What Sentence Embeddings Know About Propositional Decomposition",
+      "category": "compression",
+      "published": "2026-11-25",
+      "score": 14
+    },
+    "2611.33426v1": {
+      "title": "Scalpel and Brush: Pruning and Targeted Weight Editing of a Small Language Model by a Single LLM Agent",
+      "category": "compression",
+      "published": "2026-11-24",
+      "score": 8
+    },
+    "2611.33374v1": {
+      "title": "VersionGS: Compact and Motion-Robust Dynamic Gaussian Splatting via Versioned Gaussians",
+      "category": "compression",
+      "published": "2026-11-24",
+      "score": 8
+    },
+    "2611.33268v1": {
+      "title": "JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention",
+      "category": "compression",
+      "published": "2026-11-24",
+      "score": 9
+    },
+    "2611.33267v1": {
+      "title": "Quantization concealment of angular momentum: dynamic origin of spins",
+      "category": "compression",
+      "published": "2026-11-24",
+      "score": 6
+    },
+    "2611.33080v2": {
+      "title": "Shifter Quantization: Compact Representations for Native Integer Computation",
+      "category": "compression",
+      "published": "2026-11-24",
+      "score": 18
+    },
+    "2611.30545v2": {
+      "title": "Reproducible by Seed? Not on GPUs: Batch-Dependent Non-Determinism in Text-to-Image Models",
+      "category": "compression",
+      "published": "2026-11-23",
+      "score": 8
+    },
+    "2611.30195v2": {
+      "title": "Quantization for Action, Execution for Deployment: Joint Precision and Execution Selection for World Action Models",
+      "category": "compression",
+      "published": "2026-11-23",
+      "score": 11
+    },
+    "2611.30170v2": {
+      "title": "GUI-Q: Task-Sensitive Granularity and Relation-Preserving Quantization for GUI Agents",
+      "category": "compression",
+      "published": "2026-11-23",
+      "score": 15
     }
   }
 }

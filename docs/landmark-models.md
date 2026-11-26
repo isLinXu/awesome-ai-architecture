@@ -30,6 +30,7 @@ GQA 靠 Llama 2/3，MLA 靠 DeepSeek-V3。这条赛道收录定义时代的模�
 ### 2026
 | 日期 | 标题 | arXiv | 分数 |
 | :-- | :-- | :-- | --: |
+| 2026-11-25 | [Sage-Med: Scaling Medical Multimodal Intelligence](https://arxiv.org/abs/2611.34575v1) | 2611.34575v1 | 9 |
 | 2026-11-19 | [MatVerse: A Foundation Model for Materials Science](https://arxiv.org/abs/2611.25651v1) | 2611.25651v1 | 11 |
 | 2026-11-18 | [Towards Reliable Scaling Laws for Tabular Foundation Models](https://arxiv.org/abs/2611.24214v1) | 2611.24214v1 | 14 |
 | 2026-11-17 | [Scaling Laws for Vision-Language Fusion](https://arxiv.org/abs/2611.22351v1) | 2611.22351v1 | 10 |
